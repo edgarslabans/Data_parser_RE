@@ -4,6 +4,7 @@ import json
 from bs4 import BeautifulSoup
 import os
 import lxml
+import re
 
 
 # ua = UserAgent()
@@ -25,14 +26,36 @@ def get_all_pages():
 
 def collect_data():
     with open(f"data/page_1.html", encoding="utf-8") as file:
+        data = []
         src = file.read()
 
         soup = BeautifulSoup(src, "lxml")
-        items_cards = soup.find_all("tr",id="tr_50831706")
+        table_rows = soup.find_all("tr", id=re.compile("^tr_"))  # "tr_"
 
-    for item in items_cards:
-        #price = item.find("a", class_="amopt").text
-        print(item)
+        print("Ņumber or rows", len((table_rows)))
+
+    for item in table_rows:
+        td_tags = item.find_all("td")
+
+        # print("Item:",item)
+
+        if len(td_tags) > 4:
+            data.append(
+                {
+                    "address": td_tags[3].text,
+                    "area": td_tags[4].text,
+                    "price1m2": td_tags[5].text,
+                    "totalPrice": td_tags[6].text
+                }
+            )
+            address = td_tags[3].text
+            area = td_tags[4].text
+            price1m2 = td_tags[5].text
+            totalPrice = td_tags[6].text
+            # print(address, area, price1m2, totalPrice)
+
+            with open("data.json", "a", encoding='utf8') as file:
+                json.dump(data, file, indent=4, ensure_ascii=False)
 
 
 def main():
