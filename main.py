@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def getUrls():
-    urls = ""
+    urls = "Fill url here "
 
 
 # Press the green button in the gutter to run the script.
