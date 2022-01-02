@@ -15,13 +15,14 @@ def get_all_pages():
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
     }
 
-    r = requests.get(url="https://www.ss.lv/lv/real-estate/plots-and-lands/riga/centre/sell/", headers=headers)
+    r = requests.get(url="https://www.ss.lv/lv/real-estate/flats/riga/imanta/sell/page3.html", headers=headers)
 
     if not os.path.exists("data"):
         os.mkdir("data")
 
     with open("data/page_1.html", "w", encoding="utf-8") as file:
         file.write(r.text)
+    print("Html data saved")
 
 
 def collect_data():
@@ -58,9 +59,23 @@ def collect_data():
                 json.dump(data, file, indent=4, ensure_ascii=False)
 
 
+def findPageNum():
+
+    with open(f"data/page_1.html", encoding="utf-8") as file:
+        page_nums = []
+        src = file.read()
+        soup = BeautifulSoup(src, "lxml")
+
+        page_nums = soup.find_all("a",  attrs={'name':'nav_id'})
+
+        print("Outp" ,len(page_nums), page_nums[0].text)
+
+
 def main():
-    # get_all_pages()
-    collect_data()
+    #get_all_pages()
+    #collect_data()
+    findPageNum()
+
 
 
 # Press the green button in the gutter to run the script.
