@@ -1,174 +1,174 @@
-
 {
+    "content": [
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod iekoptu lauksaimniecībā izmantojamo zemi 12, 14 ha. No tās 9, 8 ha ko",
+            "address": "Mazzalves pag.Ērberģe",
+            "area": "12 ha.",
+            "price1m2": "0.475 €",
+            "totalPrice": "57,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Krāsns apkure, 2 stāvi, aka, elektrība, 0, 1 ha mežs. Mosties ar skatu uz Mē",
+            "address": "Kurmenes pag.Kurmene",
+            "area": "2.20 ha.",
+            "price1m2": "1.68 €",
+            "totalPrice": "37,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Īpašnieks (bez starpniekiem) pārdod zemesgabalu, kas atrodas galvenās tranzī",
+            "address": "Pļaviņas",
+            "area": "5425 m²",
+            "price1m2": "7.37 €",
+            "totalPrice": "40,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod zemes gabalu Kokneses pagastā blakus Maskavas ceļam. Zemi var izmanto",
+            "address": "Kokneses pag.Koknese",
+            "area": "10 ha.",
+            "price1m2": "0.305 €",
+            "totalPrice": "30,500  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Labs zemes gabals privātmājas celtniecībai labā vietā. Apmaksas nosacījumi r",
+            "address": "Aizkraukle",
+            "area": "1268 m²",
+            "price1m2": "8.99 €",
+            "totalPrice": "11,400  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Lauksaimniecības zeme 12.8 ha platībā sastāv no trīs netālu esošām zemes vie",
+            "address": "Mazzalves pag.Lielmēmele",
+            "area": "12.80 ha.",
+            "price1m2": "0.273 €",
+            "totalPrice": "35,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Tiek pārdots zemes gabals ainaviskā vietā Skrīveros. Īpašumā ir izkopts prie",
+            "address": "Skrīveru pag.Skrīveri",
+            "area": "10853 m²",
+            "price1m2": "2.72 €",
+            "totalPrice": "29,500  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod zemi Skrīveros 2500 kv. m Perspektīvs apbūves gabals, izbūvēta jauna ",
+            "address": "Skrīveru pag.Skrīveri",
+            "area": "2500 m²",
+            "price1m2": "4.80 €",
+            "totalPrice": "12,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Zemes gabalu var dalīt ne vairāk kā divās daļās, pa 10 ha katru. Uz zemes ga",
+            "address": "Jaunjelgava",
+            "area": "20200 m²",
+            "price1m2": "2.97 €",
+            "totalPrice": "60,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdodas apbūves gabals mājas būvniecībai. Pie pašas īpašuma robežas ir pils",
+            "address": "Aizkraukle",
+            "area": "1367 m²",
+            "price1m2": "6.51 €",
+            "totalPrice": "8,900  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdodam 7, 8ha zemi, mežs sastāda ~3, 55ha , pārējais laiksaimniecības zeme",
+            "address": "Kokneses pag.Kaplava",
+            "area": "8 ha.",
+            "price1m2": "0.256 €",
+            "totalPrice": "20,500  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 0, 5368 ha, Aizkrauklē. \n",
+            "address": "Aizkraukle",
+            "area": "0.54 ha.",
+            "price1m2": "5.93 €",
+            "totalPrice": "32,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Grunts grantsveidīga, vietām ir asfalta segums. Piemērota Tirdzniecības cent",
+            "address": "Pļaviņas",
+            "area": "10467 m²",
+            "price1m2": "6.21 €",
+            "totalPrice": "65,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod ēku ar zemes gabalu 3000m2 platībā, uz kura atrodas viena stāva lauku",
+            "address": "Vietalvas pag.",
+            "area": "1 ha.",
+            "price1m2": "0.400 €",
+            "totalPrice": "4,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "> Zemes īpašums uz pussalas ar skatu uz skaisto Daugavu komplektā ar kopī",
+            "address": "Jaunjelgava",
+            "area": "2054 m²",
+            "price1m2": "4.82 €",
+            "totalPrice": "9,900  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod zemi 1000 m2, 2Eur/m2, vasarnīcai/mazdārziņa m pie upes Lauceses. \n\nB",
+            "address": "Sērenes pag.Sērene",
+            "area": "1000 m²",
+            "price1m2": "2 €",
+            "totalPrice": "2,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 1ha, Aizkrauklē. \n\n\n\nNī s",
+            "address": "Aizkraukle",
+            "area": "1 ha.",
+            "price1m2": "6 €",
+            "totalPrice": "60,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod zemes gabalu pie Daugavas, Jaunelgavas pilsētā, ļoti daudzsološā viet",
+            "address": "Jaunjelgava",
+            "area": "1904 m²",
+            "price1m2": "10 €",
+            "totalPrice": "19,040  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Daugavas krastā, klusā ainaviskā vietā ar skatu uz Aizkraukles pilskalnu, ti",
+            "address": "Jaunjelgava",
+            "area": "4 ha.",
+            "price1m2": "2.30 €",
+            "totalPrice": "92,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdodas īpašums - Rīga-Daugavpils 111km, E22, A6 šosejas malā. Uz zemes atr",
+            "address": "Klintaines pag.Rīteri",
+            "area": "5 ha.",
+            "price1m2": "0.500 €",
+            "totalPrice": "25,000  €"
+        },
+        {
+            "regio": "aizkraukle",
+            "descr": "Pārdod zemi lauksaimniecības zemes zonējumā (L1). Pēc Jaunjelgavas novada te",
+            "address": "Jaunjelgava",
+            "area": "7 ha.",
+            "price1m2": "1.29 €",
+            "totalPrice": "90,000  €"
+        },
 
-        "regio": "aizkraukle",
-        "descr": "Pārdod iekoptu lauksaimniecībā izmantojamo zemi 12, 14 ha. No tās 9, 8 ha ko",
-        "address": "Mazzalves pag.Ērberģe",
-        "area": "12 ha.",
-        "price1m2": "0.475 €",
-        "totalPrice": "57,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Krāsns apkure, 2 stāvi, aka, elektrība, 0, 1 ha mežs. Mosties ar skatu uz Mē",
-        "address": "Kurmenes pag.Kurmene",
-        "area": "2.20 ha.",
-        "price1m2": "1.68 €",
-        "totalPrice": "37,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Īpašnieks (bez starpniekiem) pārdod zemesgabalu, kas atrodas galvenās tranzī",
-        "address": "Pļaviņas",
-        "area": "5425 m²",
-        "price1m2": "7.37 €",
-        "totalPrice": "40,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod zemes gabalu Kokneses pagastā blakus Maskavas ceļam. Zemi var izmanto",
-        "address": "Kokneses pag.Koknese",
-        "area": "10 ha.",
-        "price1m2": "0.305 €",
-        "totalPrice": "30,500  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Labs zemes gabals privātmājas celtniecībai labā vietā. Apmaksas nosacījumi r",
-        "address": "Aizkraukle",
-        "area": "1268 m²",
-        "price1m2": "8.99 €",
-        "totalPrice": "11,400  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Lauksaimniecības zeme 12.8 ha platībā sastāv no trīs netālu esošām zemes vie",
-        "address": "Mazzalves pag.Lielmēmele",
-        "area": "12.80 ha.",
-        "price1m2": "0.273 €",
-        "totalPrice": "35,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Tiek pārdots zemes gabals ainaviskā vietā Skrīveros. Īpašumā ir izkopts prie",
-        "address": "Skrīveru pag.Skrīveri",
-        "area": "10853 m²",
-        "price1m2": "2.72 €",
-        "totalPrice": "29,500  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod zemi Skrīveros 2500 kv. m Perspektīvs apbūves gabals, izbūvēta jauna ",
-        "address": "Skrīveru pag.Skrīveri",
-        "area": "2500 m²",
-        "price1m2": "4.80 €",
-        "totalPrice": "12,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Zemes gabalu var dalīt ne vairāk kā divās daļās, pa 10 ha katru. Uz zemes ga",
-        "address": "Jaunjelgava",
-        "area": "20200 m²",
-        "price1m2": "2.97 €",
-        "totalPrice": "60,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdodas apbūves gabals mājas būvniecībai. Pie pašas īpašuma robežas ir pils",
-        "address": "Aizkraukle",
-        "area": "1367 m²",
-        "price1m2": "6.51 €",
-        "totalPrice": "8,900  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdodam 7, 8ha zemi, mežs sastāda ~3, 55ha , pārējais laiksaimniecības zeme",
-        "address": "Kokneses pag.Kaplava",
-        "area": "8 ha.",
-        "price1m2": "0.256 €",
-        "totalPrice": "20,500  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 0, 5368 ha, Aizkrauklē. \n",
-        "address": "Aizkraukle",
-        "area": "0.54 ha.",
-        "price1m2": "5.93 €",
-        "totalPrice": "32,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Grunts grantsveidīga, vietām ir asfalta segums. Piemērota Tirdzniecības cent",
-        "address": "Pļaviņas",
-        "area": "10467 m²",
-        "price1m2": "6.21 €",
-        "totalPrice": "65,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod ēku ar zemes gabalu 3000m2 platībā, uz kura atrodas viena stāva lauku",
-        "address": "Vietalvas pag.",
-        "area": "1 ha.",
-        "price1m2": "0.400 €",
-        "totalPrice": "4,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "> Zemes īpašums uz pussalas ar skatu uz skaisto Daugavu komplektā ar kopī",
-        "address": "Jaunjelgava",
-        "area": "2054 m²",
-        "price1m2": "4.82 €",
-        "totalPrice": "9,900  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod zemi 1000 m2, 2Eur/m2, vasarnīcai/mazdārziņa m pie upes Lauceses. \n\nB",
-        "address": "Sērenes pag.Sērene",
-        "area": "1000 m²",
-        "price1m2": "2 €",
-        "totalPrice": "2,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 1ha, Aizkrauklē. \n\n\n\nNī s",
-        "address": "Aizkraukle",
-        "area": "1 ha.",
-        "price1m2": "6 €",
-        "totalPrice": "60,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod zemes gabalu pie Daugavas, Jaunelgavas pilsētā, ļoti daudzsološā viet",
-        "address": "Jaunjelgava",
-        "area": "1904 m²",
-        "price1m2": "10 €",
-        "totalPrice": "19,040  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Daugavas krastā, klusā ainaviskā vietā ar skatu uz Aizkraukles pilskalnu, ti",
-        "address": "Jaunjelgava",
-        "area": "4 ha.",
-        "price1m2": "2.30 €",
-        "totalPrice": "92,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdodas īpašums - Rīga-Daugavpils 111km, E22, A6 šosejas malā. Uz zemes atr",
-        "address": "Klintaines pag.Rīteri",
-        "area": "5 ha.",
-        "price1m2": "0.500 €",
-        "totalPrice": "25,000  €"
-    },
-    {
-        "regio": "aizkraukle",
-        "descr": "Pārdod zemi lauksaimniecības zemes zonējumā (L1). Pēc Jaunjelgavas novada te",
-        "address": "Jaunjelgava",
-        "area": "7 ha.",
-        "price1m2": "1.29 €",
-        "totalPrice": "90,000  €"
-    }
-],[
     {
         "regio": "aluksne",
         "descr": "Tiek pārdots zemes gabals pie ezera, iespējamas visas pilsētas komunikācijas",
@@ -224,8 +224,8 @@
         "area": "94000 m²",
         "price1m2": "0.191 €",
         "totalPrice": "18,000  €"
-    }
-][
+    },
+
     {
         "regio": "balvi",
         "descr": "Mežs ir izstrādāts.",
@@ -249,8 +249,8 @@
         "area": "4959 m²",
         "price1m2": "0.383 €",
         "totalPrice": "1,900  €"
-    }
-][
+    },
+
     {
         "regio": "bauska",
         "descr": "Ainaviski skaistā un dzīvošanai ērtā vietā pilsētas teritorijā izvēlei un ie",
@@ -490,8 +490,8 @@
         "area": "0.40 ha.",
         "price1m2": "1.25 €",
         "totalPrice": "5,000  €"
-    }
-][
+    },
+
     {
         "regio": "cesis",
         "descr": "Pārdod nekustamo īpašumu Agra Tulpju iela 2",
@@ -731,8 +731,8 @@
         "area": "13.14 ha.",
         "price1m2": "0.347 €",
         "totalPrice": "45,600  €"
-    }
-][
+    },
+
     {
         "regio": "daugavpils",
         "descr": "Продаётся приватизированы 6 соток участок на Юдовке есть электричество вода ",
@@ -1012,8 +1012,8 @@
         "area": "2600 m²",
         "price1m2": "5.77 €",
         "totalPrice": "15,000  €"
-    }
-][
+    },
+
     {
         "regio": "dobele",
         "descr": "Pārdod zemi Miltiņu ciematā 0.79ha/7909m2. Izmantošanai lauksaimniecībai vai",
@@ -1133,8 +1133,8 @@
         "area": "6 ha.",
         "price1m2": "1.15 €",
         "totalPrice": "69,000  €"
-    }
-][
+    },
+
     {
         "regio": "gulbene",
         "descr": "Spārīte 94. 3 fāžu el. pieslēgums. Ūdens aka\n\nIespējama iegāde uz nomaksu. U",
@@ -1191,7 +1191,7 @@
         "price1m2": "0.400 €",
         "totalPrice": "180,000  €"
     }
-][
+,
     {
         "regio": "jelgava",
         "descr": "Saimniece pārdod zemes gabalu Urgas-15, privātmājas celtniecībai. Ir projekt",
@@ -1432,7 +1432,7 @@
         "price1m2": "4.65 €",
         "totalPrice": "122,000  €"
     }
-][
+,
     {
         "regio": "kraslava",
         "descr": "Продаём дачный участок под застройку, красивое место, электричество рядом. Е",
@@ -1537,7 +1537,7 @@
         "price1m2": "0.433 €",
         "totalPrice": "35,000  €"
     }
-][
+,
     {
         "regio": "kuldiga",
         "descr": "Īpašnieks pārdod zemes gabalu “Krasti” 3, 3ha \n\nTas atrodas ļoti skaistā vie",
@@ -1674,7 +1674,7 @@
         "price1m2": "0.350 €",
         "totalPrice": "17,500  €"
     }
-][
+,
     {
         "regio": "jekabpils",
         "descr": "Ļoti laba vieta pilsētā komercbūvei-garāžas, servisi, noliktavas, veikala, a",
@@ -1851,7 +1851,7 @@
         "price1m2": "0.246 €",
         "totalPrice": "16,000  €"
     }
-][
+,
     {
         "regio": "liepaja",
         "descr": "Zemes gabals atrodas skaistajā Rucavas ciemā. Ir ielikti mājas pamati, elekt",
@@ -2092,7 +2092,7 @@
         "price1m2": "0.638 €",
         "totalPrice": "30,000  €"
     }
-][][
+,
     {
         "regio": "ludza",
         "descr": "Продаётся. Все подробности по тел.",
@@ -2149,7 +2149,7 @@
         "price1m2": "3.86 €",
         "totalPrice": "11,500  €"
     }
-][
+,
     {
         "regio": "madona",
         "descr": "Pārdod zemi",
@@ -2278,7 +2278,7 @@
         "price1m2": "0.238 €",
         "totalPrice": "19,000  €"
     }
-][
+,
     {
         "regio": "ogre",
         "descr": "Var uz nomaksu. Tiek piedāvāts apbūves gabals Saulesdārzā. Līdz Saulkalnes d",
@@ -2519,7 +2519,7 @@
         "price1m2": "0.425 €",
         "totalPrice": "8,500  €"
     }
-][
+,
     {
         "regio": "preili",
         "descr": "Pārdodu nekustamo īpašumu Bariņi. Atrodas Preiļos pie jaunās Rietumu ielas, ",
@@ -2648,7 +2648,7 @@
         "price1m2": "3.77 €",
         "totalPrice": "30,000  €"
     }
-][
+,
     {
         "regio": "rezekne",
         "descr": "Pārdodu zemes gabalu pilsētas robežā. Iebraukšana uz zemes gabalu no galvenā",
@@ -2929,7 +2929,7 @@
         "price1m2": "0.218 €",
         "totalPrice": "13,500  €"
     }
-][
+,
     {
         "regio": "saldus",
         "descr": "3414m2 plašs privātās apbūves zemesgabals Ganību ielā 44A, Saldū. Piebraucam",
@@ -2994,7 +2994,7 @@
         "price1m2": "0.600 €",
         "totalPrice": "12,000  €"
     }
-][
+,
     {
         "regio": "talsi",
         "descr": "Pārdod zemes apbūves gabalu ainaviskajā Sabiles pilsētā. Atrodas pilsētas no",
@@ -3347,7 +3347,7 @@
         "price1m2": "0.500 €",
         "totalPrice": "37,800  €"
     }
-][
+,
     {
         "regio": "tukums",
         "descr": "Cenu var vienoties. \n\nPārdod brīnišķīgu zemi 1617 m2, kas piemērota apstrāde",
@@ -3660,7 +3660,7 @@
         "price1m2": "0.214 €",
         "totalPrice": "30,000  €"
     }
-][
+,
     {
         "regio": "valka",
         "descr": "Pārdod nekustamo īpašumu \"Līgas\", Smiltenes pag. , Smiltenes nov. \n\n\n\nPlatīb",
@@ -3765,7 +3765,7 @@
         "price1m2": "0.340 €",
         "totalPrice": "24,500  €"
     }
-][
+,
     {
         "regio": "valmiera",
         "descr": "Pārdodu rūpnieciskās apbūves teritoriju un ēku visdažādākām uzņēmējdarbības ",
@@ -4062,7 +4062,7 @@
         "price1m2": "8.92 €",
         "totalPrice": "16,000  €"
     }
-][
+,
     {
         "regio": "ventspils",
         "descr": "Pārdod apbūves zemes gabalu mājas būvniecībai Gāliņciema rajonā. Pievilkts p",
@@ -4303,4 +4303,5 @@
         "price1m2": "0.769 €",
         "totalPrice": "2,000  €"
     }
+]
 }

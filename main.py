@@ -8,6 +8,8 @@ import re
 import time
 import random
 import csv
+from geopy.geocoders import Nominatim
+geolocator = Nominatim(user_agent="sample app")
 
 # ua = UserAgent()
 region_of_interest = ["aizkraukle", "aluksne", "balvi", "bauska", "cesis", "daugavpils", "dobele", "gulbene", "jelgava",
@@ -83,29 +85,27 @@ def findPageNum():
         print("Outp", len(page_nums), page_nums[-2].text)
 
 
-def write_csv():
-    with open("data.json", encoding='utf8') as json_file:
-        jsondata = json.load(json_file)
+def process_json():
+    with open('data.json', encoding='utf8') as a:
+        dict1 = json.load(a)
 
-    data_file = open("data.csv", 'w', newline='')
-    csv_writer = csv.writer(data_file)
+        for key in dict1:
+            print(key, ":", dict1[key])
 
-    count = 0
-    for data in jsondata:
-        if count == 0:
-            header = data.keys()
-            csv_writer.writerow(header)
-            count += 1
-        csv_writer.writerow(data.values())
 
-    data_file.close()
+
+def geocoder_test():
+    #location = geolocator.geocode("Rīga, Latvija")
+    location = geolocator.geocode("Riga, Latvia")
+
+    print((location.latitude, location.longitude))
 
 
 def main():
+    # parse_all()
 
-    #parse_all()
-
-    write_csv()
+    process_json()
+    # geocoder_test()
 
 
 # Press the green button in the gutter to run the script.
