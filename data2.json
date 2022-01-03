@@ -2,18 +2,26 @@
     {
         "regio": "aizkraukle",
         "descr": "Pārdod iekoptu lauksaimniecībā izmantojamo zemi 12, 14 ha. No tās 9, 8 ha ko",
-        "address": "Mazzalves pag.Ērberģe",
+        "address": "Mazzalves pagasts, Ērberģe",
         "area": "12 ha.",
         "price1m2": "0.475 €",
-        "totalPrice": "57,000  €"
+        "totalPrice": "57,000  €",
+        "coord": [
+            56.362693,
+            25.032624856934014
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Krāsns apkure, 2 stāvi, aka, elektrība, 0, 1 ha mežs. Mosties ar skatu uz Mē",
-        "address": "Kurmenes pag.Kurmene",
+        "address": "Kurmenes pagasts, Kurmene",
         "area": "2.20 ha.",
         "price1m2": "1.68 €",
-        "totalPrice": "37,000  €"
+        "totalPrice": "37,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -21,15 +29,23 @@
         "address": "Pļaviņas",
         "area": "5425 m²",
         "price1m2": "7.37 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            56.6194037,
+            25.7403324
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdod zemes gabalu Kokneses pagastā blakus Maskavas ceļam. Zemi var izmanto",
-        "address": "Kokneses pag.Koknese",
+        "address": "Kokneses pagasts, Koknese",
         "area": "10 ha.",
         "price1m2": "0.305 €",
-        "totalPrice": "30,500  €"
+        "totalPrice": "30,500  €",
+        "coord": [
+            56.6407381,
+            25.420987179163895
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -37,31 +53,47 @@
         "address": "Aizkraukle",
         "area": "1268 m²",
         "price1m2": "8.99 €",
-        "totalPrice": "11,400  €"
+        "totalPrice": "11,400  €",
+        "coord": [
+            56.6010778,
+            25.2542544
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Lauksaimniecības zeme 12.8 ha platībā sastāv no trīs netālu esošām zemes vie",
-        "address": "Mazzalves pag.Lielmēmele",
+        "address": "Mazzalves pagasts, Lielmēmele",
         "area": "12.80 ha.",
         "price1m2": "0.273 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Tiek pārdots zemes gabals ainaviskā vietā Skrīveros. Īpašumā ir izkopts prie",
-        "address": "Skrīveru pag.Skrīveri",
+        "address": "Skrīveru pagasts, Skrīveri",
         "area": "10853 m²",
         "price1m2": "2.72 €",
-        "totalPrice": "29,500  €"
+        "totalPrice": "29,500  €",
+        "coord": [
+            56.6471934,
+            25.123241
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdod zemi Skrīveros 2500 kv. m Perspektīvs apbūves gabals, izbūvēta jauna ",
-        "address": "Skrīveru pag.Skrīveri",
+        "address": "Skrīveru pagasts, Skrīveri",
         "area": "2500 m²",
         "price1m2": "4.80 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            56.6471934,
+            25.123241
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -69,7 +101,11 @@
         "address": "Jaunjelgava",
         "area": "20200 m²",
         "price1m2": "2.97 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            56.6159987,
+            25.0797322
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -77,15 +113,23 @@
         "address": "Aizkraukle",
         "area": "1367 m²",
         "price1m2": "6.51 €",
-        "totalPrice": "8,900  €"
+        "totalPrice": "8,900  €",
+        "coord": [
+            56.6010778,
+            25.2542544
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdodam 7, 8ha zemi, mežs sastāda ~3, 55ha , pārējais laiksaimniecības zeme",
-        "address": "Kokneses pag.Kaplava",
+        "address": "Kokneses pagasts, Kaplava",
         "area": "8 ha.",
         "price1m2": "0.256 €",
-        "totalPrice": "20,500  €"
+        "totalPrice": "20,500  €",
+        "coord": [
+            56.6277778,
+            25.3097222
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -93,7 +137,11 @@
         "address": "Aizkraukle",
         "area": "0.54 ha.",
         "price1m2": "5.93 €",
-        "totalPrice": "32,000  €"
+        "totalPrice": "32,000  €",
+        "coord": [
+            56.6010778,
+            25.2542544
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -101,15 +149,23 @@
         "address": "Pļaviņas",
         "area": "10467 m²",
         "price1m2": "6.21 €",
-        "totalPrice": "65,000  €"
+        "totalPrice": "65,000  €",
+        "coord": [
+            56.6194037,
+            25.7403324
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdod ēku ar zemes gabalu 3000m2 platībā, uz kura atrodas viena stāva lauku",
-        "address": "Vietalvas pag.",
+        "address": "Vietalvas pagasts, ",
         "area": "1 ha.",
         "price1m2": "0.400 €",
-        "totalPrice": "4,000  €"
+        "totalPrice": "4,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -117,15 +173,23 @@
         "address": "Jaunjelgava",
         "area": "2054 m²",
         "price1m2": "4.82 €",
-        "totalPrice": "9,900  €"
+        "totalPrice": "9,900  €",
+        "coord": [
+            56.6159987,
+            25.0797322
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdod zemi 1000 m2, 2Eur/m2, vasarnīcai/mazdārziņa m pie upes Lauceses. \n\nB",
-        "address": "Sērenes pag.Sērene",
+        "address": "Sērenes pagasts, Sērene",
         "area": "1000 m²",
         "price1m2": "2 €",
-        "totalPrice": "2,000  €"
+        "totalPrice": "2,000  €",
+        "coord": [
+            56.5778037,
+            25.205636
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -133,7 +197,11 @@
         "address": "Aizkraukle",
         "area": "1 ha.",
         "price1m2": "6 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            56.6010778,
+            25.2542544
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -141,7 +209,11 @@
         "address": "Jaunjelgava",
         "area": "1904 m²",
         "price1m2": "10 €",
-        "totalPrice": "19,040  €"
+        "totalPrice": "19,040  €",
+        "coord": [
+            56.6159987,
+            25.0797322
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -149,15 +221,23 @@
         "address": "Jaunjelgava",
         "area": "4 ha.",
         "price1m2": "2.30 €",
-        "totalPrice": "92,000  €"
+        "totalPrice": "92,000  €",
+        "coord": [
+            56.6159987,
+            25.0797322
+        ]
     },
     {
         "regio": "aizkraukle",
         "descr": "Pārdodas īpašums - Rīga-Daugavpils 111km, E22, A6 šosejas malā. Uz zemes atr",
-        "address": "Klintaines pag.Rīteri",
+        "address": "Klintaines pagasts, Rīteri",
         "area": "5 ha.",
         "price1m2": "0.500 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            56.60000315,
+            25.513654675169406
+        ]
     },
     {
         "regio": "aizkraukle",
@@ -165,40 +245,59 @@
         "address": "Jaunjelgava",
         "area": "7 ha.",
         "price1m2": "1.29 €",
-        "totalPrice": "90,000  €"
+        "totalPrice": "90,000  €",
+        "coord": [
+            56.6159987,
+            25.0797322
+        ]
     },
-
     {
         "regio": "aluksne",
         "descr": "Tiek pārdots zemes gabals pie ezera, iespējamas visas pilsētas komunikācijas",
         "address": "Alūksne",
         "area": "2.14 ha.",
         "price1m2": "5.14 €",
-        "totalPrice": "110,000  €"
+        "totalPrice": "110,000  €",
+        "coord": [
+            57.4205535,
+            27.0504258
+        ]
     },
     {
         "regio": "aluksne",
         "descr": "Pārdod nekustamo īpašumu \"Līčupes\", 13ha, Pededzes pagastā, Alūksnes novadā.",
-        "address": "Pededzes pag.",
+        "address": "Pededzes pagasts, ",
         "area": "13 ha.",
         "price1m2": "0.215 €",
-        "totalPrice": "28,000  €"
+        "totalPrice": "28,000  €",
+        "coord": [
+            56.9067546,
+            24.0449416
+        ]
     },
     {
         "regio": "aluksne",
         "descr": "Pļavas Ķesteri” ir viens no pēdējiem pārdošanā esošajiem īpašumiem Pullana e",
-        "address": "Alsviķu pag.Pullans",
+        "address": "Alsviķu pagasts, Pullans",
         "area": "5800 m²",
         "price1m2": "9.48 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            57.4033587,
+            27.0387086
+        ]
     },
     {
         "regio": "aluksne",
         "descr": "Pārdod lauksaimniecības zemi un meža zemi, ceļa malā, ideāla piebraukšana. I",
-        "address": "Ilzenes pag.",
+        "address": "Ilzenes pagasts, ",
         "area": "11 ha.",
         "price1m2": "0.209 €",
-        "totalPrice": "23,000  €"
+        "totalPrice": "23,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "aluksne",
@@ -206,57 +305,83 @@
         "address": "Alūksne",
         "area": "35383 m²",
         "price1m2": "5 €",
-        "totalPrice": "176,915  €"
+        "totalPrice": "176,915  €",
+        "coord": [
+            57.4205535,
+            27.0504258
+        ]
     },
     {
         "regio": "aluksne",
         "descr": "“Ķesterziedi” ir pēdējais pārdošanā esošajs īpašums Pullana ezera krastā ar ",
-        "address": "Alsviķu pag.Pullans",
+        "address": "Alsviķu pagasts, Pullans",
         "area": "8000 m²",
         "price1m2": "7.38 €",
-        "totalPrice": "59,000  €"
+        "totalPrice": "59,000  €",
+        "coord": [
+            57.4033587,
+            27.0387086
+        ]
     },
     {
         "regio": "aluksne",
         "descr": "Piedāvājumā divi zemes gabali 1.2 un 8.2 hektāri.",
-        "address": "Jaunalūksnes pag.",
+        "address": "Jaunalūksnes pagasts, ",
         "area": "94000 m²",
         "price1m2": "0.191 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            57.4242777,
+            27.23794994497881
+        ]
     },
-
     {
         "regio": "balvi",
         "descr": "Mežs ir izstrādāts.",
-        "address": "Lazdukalna pag.Drudži",
+        "address": "Lazdukalna pagasts, Drudži",
         "area": "4 ha.",
         "price1m2": "0.200 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "balvi",
         "descr": "Pārdod nekustamo īpašumu karjeru Grantiņa, Lazdukalna pagasts, Rugāju novads",
-        "address": "Lazdukalna pag.Roznieki",
+        "address": "Lazdukalna pagasts, Roznieki",
         "area": "5 ha.",
         "price1m2": "0.340 €",
-        "totalPrice": "16,999  €"
+        "totalPrice": "16,999  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "balvi",
         "descr": "Pārdod zemi, platība 0.4959 ha. Ir māju vieta, aka. Izskatīs visus piedāvāju",
-        "address": "Kubuļu pag.Sita",
+        "address": "Kubuļu pagasts, Sita",
         "area": "4959 m²",
         "price1m2": "0.383 €",
-        "totalPrice": "1,900  €"
+        "totalPrice": "1,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
-
     {
         "regio": "bauska",
         "descr": "Ainaviski skaistā un dzīvošanai ērtā vietā pilsētas teritorijā izvēlei un ie",
         "address": "Iecavas nov.Iecava",
         "area": "1540 m²",
         "price1m2": "8 €",
-        "totalPrice": "12,320  €"
+        "totalPrice": "12,320  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -264,7 +389,11 @@
         "address": "Iecavas nov.Zorģi",
         "area": "1.09 ha.",
         "price1m2": "2.75 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -272,15 +401,23 @@
         "address": "Iecavas nov.",
         "area": "2500 m²",
         "price1m2": "4.60 €",
-        "totalPrice": "11,500  €"
+        "totalPrice": "11,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod zemes gabalu privātmājas būvniecībai. \n\nIr 3 fāzu elektrības pieslēgu",
-        "address": "Vecumnieku pag.Vecumnieki",
+        "address": "Vecumnieku pagasts, Vecumnieki",
         "area": "2400 m²",
         "price1m2": "5.42 €",
-        "totalPrice": "13,000  €"
+        "totalPrice": "13,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -288,15 +425,23 @@
         "address": "Iecavas nov.Iecava",
         "area": "1582 m²",
         "price1m2": "2.53 €",
-        "totalPrice": "4,000  €"
+        "totalPrice": "4,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod lauksaimniecībā izmantojamu zemi. Vairāk par īpašumiem skatīt: zemete",
-        "address": "Stelpes pag.",
+        "address": "Stelpes pagasts, ",
         "area": "14.60 ha.",
         "price1m2": "0.290 €",
-        "totalPrice": "42,300  €"
+        "totalPrice": "42,300  €",
+        "coord": [
+            56.5365815,
+            24.417548190815005
+        ]
     },
     {
         "regio": "bauska",
@@ -304,15 +449,23 @@
         "address": "Bauska",
         "area": "30100 m²",
         "price1m2": "1.83 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            56.4082863,
+            24.1876674
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Zemes gabals ar elektribas pieslègumu. Var izmantot gan ražošanai , gan dziv",
-        "address": "Mežotnes pag.Jumprava",
+        "address": "Mežotnes pagasts, Jumprava",
         "area": "1.70 ha.",
         "price1m2": "1.06 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -320,7 +473,11 @@
         "address": "Iecavas nov.",
         "area": "12100 m²",
         "price1m2": "1.45 €",
-        "totalPrice": "17,500  €"
+        "totalPrice": "17,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -328,7 +485,11 @@
         "address": "Iecavas nov.Dartija",
         "area": "8 ha.",
         "price1m2": "0.550 €",
-        "totalPrice": "44,000  €"
+        "totalPrice": "44,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -336,7 +497,11 @@
         "address": "Iecavas nov.Iecava",
         "area": "2042 m²",
         "price1m2": "10.77 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -344,23 +509,35 @@
         "address": "Iecavas nov.Iecava",
         "area": "1414 m²",
         "price1m2": "4.38 €",
-        "totalPrice": "6,200  €"
+        "totalPrice": "6,200  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdodu zemes gabalu-0.27 ha klusā, saulainā vietā, 15min. braucienā uz Baus",
-        "address": "Brunavas pag.Brunava",
+        "address": "Brunavas pagasts, Brunava",
         "area": "0.20 ha.",
         "price1m2": "2.50 €",
-        "totalPrice": "5,000  €"
+        "totalPrice": "5,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdodas lauku viensēta Svitenē. Mājai ir divas istabas un liela virtuve + p",
-        "address": "Svitenes pag.Svitene",
+        "address": "Svitenes pagasts, Svitene",
         "area": "2 ha.",
         "price1m2": "1.75 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -368,7 +545,11 @@
         "address": "Bauska",
         "area": "1400 m²",
         "price1m2": "17.79 €",
-        "totalPrice": "24,900  €"
+        "totalPrice": "24,900  €",
+        "coord": [
+            56.4082863,
+            24.1876674
+        ]
     },
     {
         "regio": "bauska",
@@ -376,7 +557,11 @@
         "address": "Bauska",
         "area": "7700 m²",
         "price1m2": "9.08 €",
-        "totalPrice": "69,900  €"
+        "totalPrice": "69,900  €",
+        "coord": [
+            56.4082863,
+            24.1876674
+        ]
     },
     {
         "regio": "bauska",
@@ -384,23 +569,35 @@
         "address": "Bauska",
         "area": "1800 m²",
         "price1m2": "19.39 €",
-        "totalPrice": "34,900  €"
+        "totalPrice": "34,900  €",
+        "coord": [
+            56.4082863,
+            24.1876674
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod apbūves gabalu ciematā Mūsa (~3km no Bauskas):\n\n\n\nKlāt pievienotajā f",
-        "address": "Ceraukstes pag.Mūsa",
+        "address": "Ceraukstes pagasts, Mūsa",
         "area": "1400 m²",
         "price1m2": "17.79 €",
-        "totalPrice": "24,900  €"
+        "totalPrice": "24,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod apbūves gabalu ciematā Mūsa (~3km no Bauskas):\n\n\n\nKlāt pievienotajā f",
-        "address": "Ceraukstes pag.Mūsa",
+        "address": "Ceraukstes pagasts, Mūsa",
         "area": "7700 m²",
         "price1m2": "9.08 €",
-        "totalPrice": "69,900  €"
+        "totalPrice": "69,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -408,7 +605,11 @@
         "address": "Iecavas nov.Dzimtmisa",
         "area": "10000 m²",
         "price1m2": "3.10 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -416,7 +617,11 @@
         "address": "Iecavas nov.Iecava",
         "area": "4000 m²",
         "price1m2": "12.50 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -424,7 +629,11 @@
         "address": "Iecavas nov.Dzimtmisa",
         "area": "0.62 ha.",
         "price1m2": "2.74 €",
-        "totalPrice": "17,000  €"
+        "totalPrice": "17,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -432,7 +641,11 @@
         "address": "Iecavas nov.Dzimtmisa",
         "area": "22000 m²",
         "price1m2": "1 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -440,7 +653,11 @@
         "address": "Iecavas nov.Iecava",
         "area": "4429 m²",
         "price1m2": "1.85 €",
-        "totalPrice": "8,200  €"
+        "totalPrice": "8,200  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -448,7 +665,11 @@
         "address": "Bauska",
         "area": "0.26 ha.",
         "price1m2": "5.19 €",
-        "totalPrice": "13,500  €"
+        "totalPrice": "13,500  €",
+        "coord": [
+            56.4082863,
+            24.1876674
+        ]
     },
     {
         "regio": "bauska",
@@ -456,23 +677,35 @@
         "address": "Iecavas nov.",
         "area": "3.25 ha.",
         "price1m2": "0.538 €",
-        "totalPrice": "17,500  €"
+        "totalPrice": "17,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod 5.07 hektāru zemesgabalu netālu no Rundāles pils .\n\n\n\nUz daļas no tā ",
-        "address": "Rundāles pag.Pilsrundāle",
+        "address": "Rundāles pagasts, Pilsrundāle",
         "area": "50700 m²",
         "price1m2": "0.789 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
         "descr": "Pārdod lauksaimniecības zemi ar kopējo platību 10, 75 ha, no kuriem 2, 8ha m",
-        "address": "Skaistkalnes pag.Skaistkalne",
+        "address": "Skaistkalnes pagasts, Skaistkalne",
         "area": "11 ha.",
         "price1m2": "0.364 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -480,7 +713,11 @@
         "address": "Iecavas nov.",
         "area": "1347 m²",
         "price1m2": "7.05 €",
-        "totalPrice": "9,500  €"
+        "totalPrice": "9,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "bauska",
@@ -488,24 +725,35 @@
         "address": "Iecavas nov.Dzimtmisa",
         "area": "0.40 ha.",
         "price1m2": "1.25 €",
-        "totalPrice": "5,000  €"
+        "totalPrice": "5,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
-
     {
         "regio": "cesis",
         "descr": "Pārdod nekustamo īpašumu Agra Tulpju iela 2",
         "address": "Cēsis",
         "area": "600 m²",
         "price1m2": "16.67 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašnieks pārdod zemes gabalu ar dolomīta mājas karkasu. Mājas pamati stipri",
-        "address": "Priekuļu pag.Priekuļi",
+        "address": "Priekuļu pagasts, Priekuļi",
         "area": "8320 m²",
         "price1m2": "6.01 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            57.311634600000005,
+            25.355976284686903
+        ]
     },
     {
         "regio": "cesis",
@@ -513,7 +761,11 @@
         "address": "Cēsis",
         "area": "1355 m²",
         "price1m2": "14.76 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -521,7 +773,11 @@
         "address": "Cēsis",
         "area": "3439 m²",
         "price1m2": "9.89 €",
-        "totalPrice": "34,000  €"
+        "totalPrice": "34,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -529,7 +785,11 @@
         "address": "Cēsis",
         "area": "2600 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -537,7 +797,11 @@
         "address": "Cēsis",
         "area": "2649 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,500  €"
+        "totalPrice": "26,500  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -545,7 +809,11 @@
         "address": "Cēsis",
         "area": "2601 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -553,7 +821,11 @@
         "address": "Cēsis",
         "area": "2600 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -561,7 +833,11 @@
         "address": "Cēsis",
         "area": "2716 m²",
         "price1m2": "9.94 €",
-        "totalPrice": "27,000  €"
+        "totalPrice": "27,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -569,7 +845,11 @@
         "address": "Cēsis",
         "area": "2601 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -577,7 +857,11 @@
         "address": "Cēsis",
         "area": "3218 m²",
         "price1m2": "9.94 €",
-        "totalPrice": "32,000  €"
+        "totalPrice": "32,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -585,7 +869,11 @@
         "address": "Cēsis",
         "area": "3233 m²",
         "price1m2": "9.90 €",
-        "totalPrice": "32,000  €"
+        "totalPrice": "32,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -593,15 +881,23 @@
         "address": "Cēsis",
         "area": "2000 m²",
         "price1m2": "9.50 €",
-        "totalPrice": "19,000  €"
+        "totalPrice": "19,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Zeme 300m. attālumā no Braslas upes. Īpašnieks pārdod zemes gabalu, 2, 3ha. ",
-        "address": "Straupes pag.Straupe",
+        "address": "Straupes pagasts, Straupe",
         "area": "2 ha.",
         "price1m2": "1.25 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            57.3514853,
+            24.9531634
+        ]
     },
     {
         "regio": "cesis",
@@ -609,23 +905,35 @@
         "address": "Cēsis",
         "area": "9763 m²",
         "price1m2": "20.49 €",
-        "totalPrice": "200,000  €"
+        "totalPrice": "200,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Zeme Braslas upes krastā. Īpašnieks pārdod zemes gabalu, 3ha. , Braslas upes",
-        "address": "Straupes pag.Straupe",
+        "address": "Straupes pagasts, Straupe",
         "area": "30000 m²",
         "price1m2": "1.66 €",
-        "totalPrice": "49,900  €"
+        "totalPrice": "49,900  €",
+        "coord": [
+            57.3514853,
+            24.9531634
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Pārdodu. lauksaimniecības zemi 2, 8 ha robežojas ar palsas upe, uz zemes vie",
-        "address": "Drustu pag.Drusti",
+        "address": "Drustu pagasts, Drusti",
         "area": "3 ha.",
         "price1m2": "0.200 €",
-        "totalPrice": "6,000  €"
+        "totalPrice": "6,000  €",
+        "coord": [
+            57.2314645,
+            25.855525796777517
+        ]
     },
     {
         "regio": "cesis",
@@ -633,23 +941,35 @@
         "address": "Cēsis",
         "area": "3662 m²",
         "price1m2": "9.97 €",
-        "totalPrice": "36,500  €"
+        "totalPrice": "36,500  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Pārdod zemes gabalu lieliskā atrašanas vienā Bērzkrogā-rūpniecības un komerc",
-        "address": "Veselavas pag.Bērzkrogs",
+        "address": "Veselavas pagasts, Bērzkrogs",
         "area": "4 ha.",
         "price1m2": "1.63 €",
-        "totalPrice": "65,000  €"
+        "totalPrice": "65,000  €",
+        "coord": [
+            57.278215,
+            25.4952254
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Tiek piedavats perspektivs investiciju objekts Cesu novada, Drabesu pag. , L",
-        "address": "Drabešu pag.Līvi",
+        "address": "Drabešu pagasts, Līvi",
         "area": "2 ha.",
         "price1m2": "4.90 €",
-        "totalPrice": "98,000  €"
+        "totalPrice": "98,000  €",
+        "coord": [
+            57.2861092,
+            25.25569099654024
+        ]
     },
     {
         "regio": "cesis",
@@ -657,23 +977,35 @@
         "address": "Cēsis",
         "area": "5300 m²",
         "price1m2": "4.91 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Продаётся красивый участок земли с лесом. Земля находится в Cesu rajons Stra",
-        "address": "Straupes pag.Straupe",
+        "address": "Straupes pagasts, Straupe",
         "area": "3 ha.",
         "price1m2": "1.50 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            57.3514853,
+            24.9531634
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašniece pārdod lielisku zemes gabalu ainaviskâ vietâ privātmājas bûvniecīb",
-        "address": "Raiskuma pag.Auciems",
+        "address": "Raiskuma pagasts, Auciems",
         "area": "1 ha.",
         "price1m2": "1.50 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.3359365,
+            25.1389259
+        ]
     },
     {
         "regio": "cesis",
@@ -681,7 +1013,11 @@
         "address": "Cēsis",
         "area": "8500 m²",
         "price1m2": "35.29 €",
-        "totalPrice": "300,000  €"
+        "totalPrice": "300,000  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
@@ -689,56 +1025,83 @@
         "address": "Cēsis",
         "area": "1177 m²",
         "price1m2": "13 €",
-        "totalPrice": "15,300  €"
+        "totalPrice": "15,300  €",
+        "coord": [
+            57.3131712,
+            25.2748551
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašnieks pārdod zemes gabalu pie Lazdiņa ezera. Krasta līnija 120 metri. Da",
-        "address": "Vaives pag.",
+        "address": "Vaives pagasts, ",
         "area": "4.90 ha.",
         "price1m2": "1.27 €",
-        "totalPrice": "62,000  €"
+        "totalPrice": "62,000  €",
+        "coord": [
+            57.23129555,
+            25.424259767213947
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašnieks pārdod zemes gabalu pie Lazdiņa ezera. Krasta līnija 100 metri. Da",
-        "address": "Vaives pag.",
+        "address": "Vaives pagasts, ",
         "area": "4.10 ha.",
         "price1m2": "1.34 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            57.23129555,
+            25.424259767213947
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašnieks pārdod zemes gabalu pie Lazdiņa ezera. Krasta līnija 70 metri. Daļ",
-        "address": "Vaives pag.",
+        "address": "Vaives pagasts, ",
         "area": "3.70 ha.",
         "price1m2": "1.54 €",
-        "totalPrice": "57,000  €"
+        "totalPrice": "57,000  €",
+        "coord": [
+            57.23129555,
+            25.424259767213947
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Īpašnieks pārdod zemes gabalu pie Lazdiņa ezera. Krasta līnija 80 metri. Daļ",
-        "address": "Vaives pag.",
+        "address": "Vaives pagasts, ",
         "area": "3.60 ha.",
         "price1m2": "1.67 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            57.23129555,
+            25.424259767213947
+        ]
     },
     {
         "regio": "cesis",
         "descr": "Pārdodu lauksaimniecībā izmantojamu zemi 13.14 ha platībā. Pie īpašuma viegl",
-        "address": "Dzērbenes pag.Dzērbene",
+        "address": "Dzērbenes pagasts, Dzērbene",
         "area": "13.14 ha.",
         "price1m2": "0.347 €",
-        "totalPrice": "45,600  €"
+        "totalPrice": "45,600  €",
+        "coord": [
+            57.1999147,
+            25.696288930894816
+        ]
     },
-
     {
         "regio": "daugavpils",
         "descr": "Продаётся приватизированы 6 соток участок на Юдовке есть электричество вода ",
         "address": "Daugavpils",
         "area": "600 m²",
         "price1m2": "13.33 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -746,23 +1109,35 @@
         "address": "Daugavpils",
         "area": "1020 m²",
         "price1m2": "8.33 €",
-        "totalPrice": "8,500  €"
+        "totalPrice": "8,500  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Бывший водозабор . Электричество . Здания под реконструкцию .",
-        "address": "Naujenes pag.Krauja",
+        "address": "Naujenes pagasts, Krauja",
         "area": "0.44 ha.",
         "price1m2": "5.68 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Рядом дом Райниса .",
-        "address": "Kalkūnes pag.Birkineļi",
+        "address": "Kalkūnes pagasts, Birkineļi",
         "area": "3.31 ha.",
         "price1m2": "0.272 €",
-        "totalPrice": "9,000  €"
+        "totalPrice": "9,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -770,7 +1145,11 @@
         "address": "Daugavpils",
         "area": "4005 m²",
         "price1m2": "27.47 €",
-        "totalPrice": "110,000  €"
+        "totalPrice": "110,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -778,15 +1157,23 @@
         "address": "Ilūkste",
         "area": "2414 m²",
         "price1m2": "1.86 €",
-        "totalPrice": "4,500  €"
+        "totalPrice": "4,500  €",
+        "coord": [
+            55.9766939,
+            26.2976619
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Īpašnieks tirgo īpašumu, kurš sastāv no 3 zemes vienībām (jaunaudze un Liz).",
-        "address": "Biķernieku pag.Pavlovskoje",
+        "address": "Biķernieku pagasts, Pavlovskoje",
         "area": "11 ha.",
         "price1m2": "0.191 €",
-        "totalPrice": "21,000  €"
+        "totalPrice": "21,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -794,7 +1181,11 @@
         "address": "Daugavpils",
         "area": "1130 m²",
         "price1m2": "22.12 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -802,7 +1193,11 @@
         "address": "Daugavpils",
         "area": "63462 m²",
         "price1m2": "1.09 €",
-        "totalPrice": "69,000  €"
+        "totalPrice": "69,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -810,7 +1205,11 @@
         "address": "Daugavpils",
         "area": "1600 m²",
         "price1m2": "15.63 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -818,7 +1217,11 @@
         "address": "Daugavpils",
         "area": "5950 m²",
         "price1m2": "6 €",
-        "totalPrice": "35,700  €"
+        "totalPrice": "35,700  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -826,7 +1229,11 @@
         "address": "Daugavpils",
         "area": "1203 m²",
         "price1m2": "9.98 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -834,7 +1241,11 @@
         "address": "Daugavpils",
         "area": "3975 m²",
         "price1m2": "7.04 €",
-        "totalPrice": "28,000  €"
+        "totalPrice": "28,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -842,23 +1253,35 @@
         "address": "Daugavpils",
         "area": "31528 m²",
         "price1m2": "5.30 €",
-        "totalPrice": "167,000  €"
+        "totalPrice": "167,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продаем 2, 96 га участок земли с лесом в красивом и спокойном месте, на гран",
-        "address": "Naujenes pag.Kašatniki",
+        "address": "Naujenes pagasts, Kašatniki",
         "area": "3 ha.",
         "price1m2": "0.467 €",
-        "totalPrice": "13,999  €"
+        "totalPrice": "13,999  €",
+        "coord": [
+            55.9544643,
+            26.619775
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продается участок земли площадью 2.65Га на берегу Двины в парковой зоне \"Dau",
-        "address": "Naujenes pag.Sandariški",
+        "address": "Naujenes pagasts, Sandariški",
         "area": "3 ha.",
         "price1m2": "0.252 €",
-        "totalPrice": "7,550  €"
+        "totalPrice": "7,550  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -866,7 +1289,11 @@
         "address": "Daugavpils",
         "area": "30 ha.",
         "price1m2": "0.400 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -874,15 +1301,23 @@
         "address": "Daugavpils",
         "area": "733 m²",
         "price1m2": "27.29 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Електричество на участке. разрешение на строительство. подьезд с двух сторон",
-        "address": "Kalkūnes pag.Kalkūni",
+        "address": "Kalkūnes pagasts, Kalkūni",
         "area": "4747 m²",
         "price1m2": "2.53 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -890,15 +1325,23 @@
         "address": "Daugavpils",
         "area": "5300 m²",
         "price1m2": "15.09 €",
-        "totalPrice": "80,000  €"
+        "totalPrice": "80,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продается земельный участок \n\n\n\nчасть участка заасфальтрована (взлетная поло",
-        "address": "Līksnas pag.",
+        "address": "Līksnas pagasts, ",
         "area": "10 ha.",
         "price1m2": "0.488 €",
-        "totalPrice": "48,800  €"
+        "totalPrice": "48,800  €",
+        "coord": [
+            55.9831439,
+            26.39870273802262
+        ]
     },
     {
         "regio": "daugavpils",
@@ -906,7 +1349,11 @@
         "address": "Daugavpils",
         "area": "3500 m²",
         "price1m2": "30 €",
-        "totalPrice": "105,000  €"
+        "totalPrice": "105,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -914,23 +1361,35 @@
         "address": "Daugavpils",
         "area": "5000 m²",
         "price1m2": "35 €",
-        "totalPrice": "175,000  €"
+        "totalPrice": "175,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продается земельный участок под строительство одного или двух домов\n\n\n\nвозмо",
-        "address": "Laucesas pag.",
+        "address": "Laucesas pagasts, ",
         "area": "13200 m²",
         "price1m2": "2.35 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продается земля",
-        "address": "Vecsalienas pag.Tartaks",
+        "address": "Vecsalienas pagasts, Tartaks",
         "area": "16900 m²",
         "price1m2": "0.249 €",
-        "totalPrice": "4,200  €"
+        "totalPrice": "4,200  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -938,23 +1397,35 @@
         "address": "Daugavpils",
         "area": "3 ha.",
         "price1m2": "2.83 €",
-        "totalPrice": "85,000  €"
+        "totalPrice": "85,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продаю участок в 2 км от черты города, 5 км от центра Даугавпилса, асфальтны",
-        "address": "Kalkūnes pag.Galdnieki",
+        "address": "Kalkūnes pagasts, Galdnieki",
         "area": "0.22 ha.",
         "price1m2": "2.73 €",
-        "totalPrice": "6,000  €"
+        "totalPrice": "6,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Участок земли в 2.5 км от Даугавпилса, приблизительно 2 га. \n\nНа участке рас",
-        "address": "Kalkūnes pag.Randene",
+        "address": "Kalkūnes pagasts, Randene",
         "area": "2 ha.",
         "price1m2": "0.750 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
@@ -962,7 +1433,11 @@
         "address": "Daugavpils",
         "area": "1474 m²",
         "price1m2": "33.92 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -970,7 +1445,11 @@
         "address": "Daugavpils",
         "area": "975 m²",
         "price1m2": "30.77 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
@@ -978,48 +1457,71 @@
         "address": "Daugavpils",
         "area": "1000 m²",
         "price1m2": "4 €",
-        "totalPrice": "4,000  €"
+        "totalPrice": "4,000  €",
+        "coord": [
+            55.8712267,
+            26.5159337
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продается земля с лесом\n\nактуальная инфо в приложении",
-        "address": "Maļinovas pag.Kurpenišķi",
+        "address": "Maļinovas pagasts, Kurpenišķi",
         "area": "6 ha.",
         "price1m2": "0.275 €",
-        "totalPrice": "16,500  €"
+        "totalPrice": "16,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Lauksaimniecības zeme pie pagasta ceļa. Pļauta. Blakus grāvis",
-        "address": "Medumu pag.",
+        "address": "Medumu pagasts, ",
         "area": "3 ha.",
         "price1m2": "0.285 €",
-        "totalPrice": "8,550  €"
+        "totalPrice": "8,550  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Продаётся эксклюзивный земельный участок в уединённом, красивом и живописном",
-        "address": "Kalupes pag.Peršaki",
+        "address": "Kalupes pagasts, Peršaki",
         "area": "12 ha.",
         "price1m2": "1.25 €",
-        "totalPrice": "150,000  €"
+        "totalPrice": "150,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "daugavpils",
         "descr": "Dubnas upes krastā pārdodas zemes gabals 2600m2 ar vasaras dzīvojamo māju un",
-        "address": "Višķu pag.Špoģi",
+        "address": "Višķu pagasts, Špoģi",
         "area": "2600 m²",
         "price1m2": "5.77 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            56.0735166,
+            26.7392781
+        ]
     },
-
     {
         "regio": "dobele",
         "descr": "Pārdod zemi Miltiņu ciematā 0.79ha/7909m2. Izmantošanai lauksaimniecībai vai",
-        "address": "Bērzes pag.Miltiņi",
+        "address": "Bērzes pagasts, Miltiņi",
         "area": "7909 m²",
         "price1m2": "1.23 €",
-        "totalPrice": "9,750  €"
+        "totalPrice": "9,750  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
@@ -1027,71 +1529,107 @@
         "address": "Dobele",
         "area": "900 m²",
         "price1m2": "11 €",
-        "totalPrice": "9,900  €"
+        "totalPrice": "9,900  €",
+        "coord": [
+            56.6257485,
+            23.277275
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Īpašnieks pārdod īpašumu kas sastāv no 10.7 aramzeme un 5.9 mežs. Atsevišķi ",
-        "address": "Bikstu pag.Biksti",
+        "address": "Bikstu pagasts, Biksti",
         "area": "17 ha.",
         "price1m2": "0.901 €",
-        "totalPrice": "153,247  €"
+        "totalPrice": "153,247  €",
+        "coord": [
+            56.69134655,
+            22.98098344788648
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdodas nekustamais īpašums “Lauka Biļļi”\n\n\n\nZemes kopplatība 22, 10 ha, ta",
-        "address": "Zebrenes pag.Zebrene",
+        "address": "Zebrenes pagasts, Zebrene",
         "area": "22 ha.",
         "price1m2": "0.636 €",
-        "totalPrice": "140,000  €"
+        "totalPrice": "140,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdodas nekustamais īpašums “Virsmaļi”\n\n\n\nZemes kopplatība 19, 97 ha, tai s",
-        "address": "Annenieku pag.Annenieki",
+        "address": "Annenieku pagasts, Annenieki",
         "area": "20 ha.",
         "price1m2": "0.800 €",
-        "totalPrice": "160,000  €"
+        "totalPrice": "160,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Nekustamais īpašums pie Tērvetes. Zeme ar tai pieguļošu ezeru. Kopējā platīb",
-        "address": "Penkules pag.Penkule",
+        "address": "Penkules pagasts, Penkule",
         "area": "21.85 ha.",
         "price1m2": "0.581 €",
-        "totalPrice": "127,000  €"
+        "totalPrice": "127,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdod lauksaimniecības zemi kopā ar ēkām. Trīs fermas, kautuves ēka, divas ",
-        "address": "Naudītes pag.Naudīte",
+        "address": "Naudītes pagasts, Naudīte",
         "area": "19 ha.",
         "price1m2": "0.737 €",
-        "totalPrice": "140,000  €"
+        "totalPrice": "140,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Земля 14 га, в живописном месте, городок Бене\n\nС частным озером 4 га. , на о",
-        "address": "Bēnes pag.Bēne",
+        "address": "Bēnes pagasts, Bēne",
         "area": "14 ha.",
         "price1m2": "0.321 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdod zemi privātmāju būvnbiecībai 2, 07ha skaistā, klusā vietā. Labs piebr",
-        "address": "Krimūnu pag.Parūķis",
+        "address": "Krimūnu pagasts, Parūķis",
         "area": "20000 m²",
         "price1m2": "3.50 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdod mežu ar apbūves zemi. Meža zeme 3, 7 Ha , apbūvei vai lauksaimniecisk",
-        "address": "Bērzes pag.Bērze",
+        "address": "Bērzes pagasts, Bērze",
         "area": "4 ha.",
         "price1m2": "0.625 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
@@ -1099,15 +1637,23 @@
         "address": "Dobele",
         "area": "3000 m²",
         "price1m2": "16.67 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            56.6257485,
+            23.277275
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Lielisks Īstermiņa Investīciju objekts pie Dobeles pilsētas robežas, kur ieg",
-        "address": "Krimūnu pag.Parūķis",
+        "address": "Krimūnu pagasts, Parūķis",
         "area": "1200 m²",
         "price1m2": "108 €",
-        "totalPrice": "130,000  €"
+        "totalPrice": "130,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "dobele",
@@ -1115,7 +1661,11 @@
         "address": "Dobele",
         "area": "3 ha.",
         "price1m2": "4.33 €",
-        "totalPrice": "130,000  €"
+        "totalPrice": "130,000  €",
+        "coord": [
+            56.6257485,
+            23.277275
+        ]
     },
     {
         "regio": "dobele",
@@ -1123,40 +1673,59 @@
         "address": "Dobele",
         "area": "1328 m²",
         "price1m2": "5.50 €",
-        "totalPrice": "7,299  €"
+        "totalPrice": "7,299  €",
+        "coord": [
+            56.6257485,
+            23.277275
+        ]
     },
     {
         "regio": "dobele",
         "descr": "Pārdodas lauku īpašums ar kopējo platību 10ha, ko sastāda lauksaimniecības z",
-        "address": "Bērzes pag.Šķibe",
+        "address": "Bērzes pagasts, Šķibe",
         "area": "6 ha.",
         "price1m2": "1.15 €",
-        "totalPrice": "69,000  €"
+        "totalPrice": "69,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
-
     {
         "regio": "gulbene",
         "descr": "Spārīte 94. 3 fāžu el. pieslēgums. Ūdens aka\n\nIespējama iegāde uz nomaksu. U",
         "address": "Gulbene",
         "area": "840 m²",
         "price1m2": "3.57 €",
-        "totalPrice": "3,000  €"
+        "totalPrice": "3,000  €",
+        "coord": [
+            57.1759721,
+            26.7514713
+        ]
     },
     {
         "regio": "gulbene",
         "descr": "Tiek pārdots zemes gabals, kas satāv no 4 ha lauksaimniecības zemes un 1, 25",
-        "address": "Beļavas pag.Beļava",
+        "address": "Beļavas pagasts, Beļava",
         "area": "7.80 ha.",
         "price1m2": "0.282 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "gulbene",
         "descr": "Nekustamo īpašumu veido viens zemes gabals ar ērtu piekļūšanu, jo atrodas ti",
-        "address": "Beļavas pag.Beļava",
+        "address": "Beļavas pagasts, Beļava",
         "area": "29 ha.",
         "price1m2": "0.266 €",
-        "totalPrice": "77,000  €"
+        "totalPrice": "77,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "gulbene",
@@ -1164,40 +1733,59 @@
         "address": "Gulbene",
         "area": "1116 m²",
         "price1m2": "13.44 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.1759721,
+            26.7514713
+        ]
     },
     {
         "regio": "gulbene",
         "descr": "Pārdod zemes gabalu \"Līpiņi\" 10ha platībā. \n\n\n\n Lauksaimniecības izmantojamā",
-        "address": "Jaungulbenes pag.Jaungulbene",
+        "address": "Jaungulbenes pagasts, Jaungulbene",
         "area": "10 ha.",
         "price1m2": "0.300 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "gulbene",
         "descr": "Tiek pārdots 8ha zemes gabals \"Salaskalēji\". \n\nSīkāka informācija zvanot uz ",
-        "address": "Līgo pag.Līgo",
+        "address": "Līgo pagasts, Līgo",
         "area": "8 ha.",
         "price1m2": "0.300 €",
-        "totalPrice": "24,000  €"
+        "totalPrice": "24,000  €",
+        "coord": [
+            57.1830841,
+            24.8352934
+        ]
     },
     {
         "regio": "gulbene",
         "descr": "Pārdod lauku viensētu. Guļbūves mājai (140m2) nepieciešama pilna renovācija.",
-        "address": "Daukstu pag.Daukstes",
+        "address": "Daukstu pagasts, Daukstes",
         "area": "45 ha.",
         "price1m2": "0.400 €",
-        "totalPrice": "180,000  €"
-    }
-,
+        "totalPrice": "180,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "jelgava",
         "descr": "Saimniece pārdod zemes gabalu Urgas-15, privātmājas celtniecībai. Ir projekt",
-        "address": "Sidrabenes pag.Garoza",
+        "address": "Sidrabenes pagasts, Garoza",
         "area": "0.15 ha.",
         "price1m2": "8 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1205,7 +1793,11 @@
         "address": "Jelgava",
         "area": "6184 m²",
         "price1m2": "4.04 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1213,7 +1805,11 @@
         "address": "Jelgava",
         "area": "1498 m²",
         "price1m2": "14.69 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1221,7 +1817,11 @@
         "address": "Jelgava",
         "area": "3200 m²",
         "price1m2": "8.75 €",
-        "totalPrice": "28,000  €"
+        "totalPrice": "28,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1229,7 +1829,11 @@
         "address": "Valgundes nov.Tīreļi",
         "area": "1 ha.",
         "price1m2": "1.05 €",
-        "totalPrice": "10,500  €"
+        "totalPrice": "10,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1237,15 +1841,23 @@
         "address": "Jelgava",
         "area": "1132 m²",
         "price1m2": "28 €",
-        "totalPrice": "31,696  €"
+        "totalPrice": "31,696  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Tirgojas zeme majas buvešanai, ar gatavu projektu un fundamentu. Elektriba, ",
-        "address": "Cenu pag.Āne",
+        "address": "Cenu pagasts, Āne",
         "area": "1230 m²",
         "price1m2": "28.46 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1253,7 +1865,11 @@
         "address": "Jelgava",
         "area": "1700 m²",
         "price1m2": "34.71 €",
-        "totalPrice": "59,000  €"
+        "totalPrice": "59,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1261,7 +1877,11 @@
         "address": "Jelgava",
         "area": "1500 m²",
         "price1m2": "40 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1269,7 +1889,11 @@
         "address": "Jelgava",
         "area": "3500 m²",
         "price1m2": "10 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1277,7 +1901,11 @@
         "address": "Jelgava",
         "area": "3003 m²",
         "price1m2": "13.32 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1285,15 +1913,23 @@
         "address": "Jelgava",
         "area": "1552 m²",
         "price1m2": "22 €",
-        "totalPrice": "34,144  €"
+        "totalPrice": "34,144  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Pārdod zemes gabalu priekš mājas būvniecības, zemes gabalam ir pievilkta 3 f",
-        "address": "Glūdas pag.Straume",
+        "address": "Glūdas pagasts, Straume",
         "area": "0.08 ha.",
         "price1m2": "9.88 €",
-        "totalPrice": "7,900  €"
+        "totalPrice": "7,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1301,7 +1937,11 @@
         "address": "Jelgava",
         "area": "2327 m²",
         "price1m2": "11.60 €",
-        "totalPrice": "27,000  €"
+        "totalPrice": "27,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1309,15 +1949,23 @@
         "address": "Jelgava",
         "area": "8329 m²",
         "price1m2": "12.01 €",
-        "totalPrice": "100,000  €"
+        "totalPrice": "100,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Pārdodu zemi Glūdas pagastā. Īpašums robežojas ar Auces upi un gaļas pārstrā",
-        "address": "Glūdas pag.Nākotne",
+        "address": "Glūdas pagasts, Nākotne",
         "area": "3 ha.",
         "price1m2": "0.833 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1325,7 +1973,11 @@
         "address": "Jelgava",
         "area": "1457 m²",
         "price1m2": "25.74 €",
-        "totalPrice": "37,500  €"
+        "totalPrice": "37,500  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1333,7 +1985,11 @@
         "address": "Jelgava",
         "area": "2200 m²",
         "price1m2": "6.82 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1341,7 +1997,11 @@
         "address": "Jelgava",
         "area": "2 ha.",
         "price1m2": "2.25 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1349,7 +2009,11 @@
         "address": "Jelgava",
         "area": "1100 m²",
         "price1m2": "20.82 €",
-        "totalPrice": "22,900  €"
+        "totalPrice": "22,900  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1357,7 +2021,11 @@
         "address": "Jelgava",
         "area": "4800 m²",
         "price1m2": "16.46 €",
-        "totalPrice": "79,000  €"
+        "totalPrice": "79,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1365,15 +2033,23 @@
         "address": "Valgundes nov.Valgunde",
         "area": "22 ha.",
         "price1m2": "0.682 €",
-        "totalPrice": "150,000  €"
+        "totalPrice": "150,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Pārdod zemi Gļūdas pagastā, Viesturos. Var būvēt dzīvojamo māju vai vasarnīc",
-        "address": "Glūdas pag.Viesturi",
+        "address": "Glūdas pagasts, Viesturi",
         "area": "916 m²",
         "price1m2": "10.92 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jelgava",
@@ -1381,15 +2057,23 @@
         "address": "Jelgava",
         "area": "1630 m²",
         "price1m2": "20.86 €",
-        "totalPrice": "34,000  €"
+        "totalPrice": "34,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Lielisks lauku īpašums, skaista ainava un panorāmas skati, netipisks priekš ",
-        "address": "Svētes pag.",
+        "address": "Svētes pagasts, ",
         "area": "5000 m²",
         "price1m2": "7.20 €",
-        "totalPrice": "36,000  €"
+        "totalPrice": "36,000  €",
+        "coord": [
+            56.7671439,
+            26.154905292888557
+        ]
     },
     {
         "regio": "jelgava",
@@ -1397,7 +2081,11 @@
         "address": "Jelgava",
         "area": "1450 m²",
         "price1m2": "15.86 €",
-        "totalPrice": "23,000  €"
+        "totalPrice": "23,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1405,15 +2093,23 @@
         "address": "Jelgava",
         "area": "1688 m²",
         "price1m2": "25 €",
-        "totalPrice": "42,200  €"
+        "totalPrice": "42,200  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
         "descr": "Ainaviska vieta jūsu atpūtai vai dzīvošanai, 18km no Jelgavas, pie upes, ser",
-        "address": "Svētes pag.",
+        "address": "Svētes pagasts, ",
         "area": "3000 m²",
         "price1m2": "8.50 €",
-        "totalPrice": "25,500  €"
+        "totalPrice": "25,500  €",
+        "coord": [
+            56.7671439,
+            26.154905292888557
+        ]
     },
     {
         "regio": "jelgava",
@@ -1421,7 +2117,11 @@
         "address": "Jelgava",
         "area": "1278 m²",
         "price1m2": "14.48 €",
-        "totalPrice": "18,500  €"
+        "totalPrice": "18,500  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
     },
     {
         "regio": "jelgava",
@@ -1429,145 +2129,215 @@
         "address": "Jelgava",
         "area": "26258 m²",
         "price1m2": "4.65 €",
-        "totalPrice": "122,000  €"
-    }
-,
+        "totalPrice": "122,000  €",
+        "coord": [
+            56.6514394,
+            23.7339143
+        ]
+    },
     {
         "regio": "kraslava",
         "descr": "Продаём дачный участок под застройку, красивое место, электричество рядом. Е",
         "address": "Krāslava",
         "area": "900 m²",
         "price1m2": "2.78 €",
-        "totalPrice": "2,500  €"
+        "totalPrice": "2,500  €",
+        "coord": [
+            55.895206,
+            27.1619304
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Īpašnieks pārdod zemes gabalu ļoti ainaviskā vietā, Purva ezera krastā, kas ",
-        "address": "Kalniešu pag.Kalnieši",
+        "address": "Kalniešu pagasts, Kalnieši",
         "area": "1.80 ha.",
         "price1m2": "0.806 €",
-        "totalPrice": "14,499  €"
+        "totalPrice": "14,499  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Pārdod lauksaimniecībā izmantojamu zemi. Vairāk par īpašumiem skatīt: zemete",
-        "address": "Kombuļu pag.",
+        "address": "Kombuļu pagasts, ",
         "area": "4.50 ha.",
         "price1m2": "0.207 €",
-        "totalPrice": "9,300  €"
+        "totalPrice": "9,300  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Pārdodu nekustamo īpašumu, kas sastāv no zemes vienības 2, 1 ha un būves 800",
-        "address": "Andrupenes pag.Grabova",
+        "address": "Andrupenes pagasts, Grabova",
         "area": "2 ha.",
         "price1m2": "0.950 €",
-        "totalPrice": "19,000  €"
+        "totalPrice": "19,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Zemes gabals atrodas gleznainā vietā – Ojātu ezera krastā. Ojātu ezers ir vi",
-        "address": "Konstantinovas pag.Konstantinova",
+        "address": "Konstantinovas pagasts, Konstantinova",
         "area": "7 ha.",
         "price1m2": "0.271 €",
-        "totalPrice": "19,000  €"
+        "totalPrice": "19,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Pārdod zemes gabalu Kupras ezera krastā, 1 hektārs. Veiksmigs izvietojums, b",
-        "address": "Konstantinovas pag.Eisaki",
+        "address": "Konstantinovas pagasts, Eisaki",
         "area": "1 ha.",
         "price1m2": "1 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Lauksaimniecības zeme",
-        "address": "Krāslavas pag.",
+        "address": "Krāslavas pagasts, ",
         "area": "6 ha.",
         "price1m2": "0.667 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            56.0966016,
+            27.57379889913439
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Pārdod zemes gabalu pie ezera Aglonas novadā. \n\n\n\nKopējā platība 3.2 ha (32 ",
-        "address": "Kastuļinas pag.Kastuļina",
+        "address": "Kastuļinas pagasts, Kastuļina",
         "area": "3 ha.",
         "price1m2": "0.400 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Pārdodu zemes gabalu (pussala). Kopējā platība 2 hektāri. Smuka ainaviska, k",
-        "address": "Krāslavas pag.Krumpāni",
+        "address": "Krāslavas pagasts, Krumpāni",
         "area": "2 ha.",
         "price1m2": "0.325 €",
-        "totalPrice": "6,500  €"
+        "totalPrice": "6,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "For sale in Latvia island (total area 7, 7 ha) in Uzunu lake (total area ~26",
-        "address": "Kastuļinas pag.Lejas Butkāni",
+        "address": "Kastuļinas pagasts, Lejas Butkāni",
         "area": "11 ha.",
         "price1m2": "1.23 €",
-        "totalPrice": "135,000  €"
+        "totalPrice": "135,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "6 km attālumā no Aglonas, tikai 8 minūšu brauciena laikā ar automašīnu, ap „",
-        "address": "Šķeltovas pag.Šķeltova",
+        "address": "Šķeltovas pagasts, Šķeltova",
         "area": "10 ha.",
         "price1m2": "0.480 €",
-        "totalPrice": "48,000  €"
+        "totalPrice": "48,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Kraslavas rajona, Andžeļu pagasts blakam ezeram, pardodas zemelu gabals \"Rož",
-        "address": "Krāslavas pag.",
+        "address": "Krāslavas pagasts, ",
         "area": "9 ha.",
         "price1m2": "0.211 €",
-        "totalPrice": "19,000  €"
+        "totalPrice": "19,000  €",
+        "coord": [
+            56.0966016,
+            27.57379889913439
+        ]
     },
     {
         "regio": "kraslava",
         "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
-        "address": "Kaplavas pag.Kaplava",
+        "address": "Kaplavas pagasts, Kaplava",
         "area": "8.08 ha.",
         "price1m2": "0.433 €",
-        "totalPrice": "35,000  €"
-    }
-,
+        "totalPrice": "35,000  €",
+        "coord": [
+            55.8647665,
+            27.019699453206666
+        ]
+    },
     {
         "regio": "kuldiga",
         "descr": "Īpašnieks pārdod zemes gabalu “Krasti” 3, 3ha \n\nTas atrodas ļoti skaistā vie",
         "address": "Skrunda",
         "area": "3 ha.",
         "price1m2": "0.767 €",
-        "totalPrice": "23,000  €"
+        "totalPrice": "23,000  €",
+        "coord": [
+            56.6768396,
+            22.0156057
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "Pārdodu zemi 2, 9 ha Gudenieku pag. , Kuldīgas nov. Ir iespējama maiņa pret ",
-        "address": "Gudenieku pag.Gudenieki",
+        "address": "Gudenieku pagasts, Gudenieki",
         "area": "2.90 ha.",
         "price1m2": "0.276 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "Lauksaimniecības zeme 4 km no Vārmes pagasta centra un 25 km no Kuldīgas, ir",
-        "address": "Vārmes pag.",
+        "address": "Vārmes pagasts, ",
         "area": "1 ha.",
         "price1m2": "0.300 €",
-        "totalPrice": "3,000  €"
+        "totalPrice": "3,000  €",
+        "coord": [
+            56.8737611,
+            22.239121
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "Pārdod četras zemes vienības ar kopējo platību 5, 4 ha. \n\nzemi izmanto kā il",
-        "address": "Snēpeles pag.Snēpele",
+        "address": "Snēpeles pagasts, Snēpele",
         "area": "5.40 ha.",
         "price1m2": "0.301 €",
-        "totalPrice": "16,250  €"
+        "totalPrice": "16,250  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1575,7 +2345,11 @@
         "address": "Skrunda",
         "area": "1600 m²",
         "price1m2": "5 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            56.6768396,
+            22.0156057
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1583,7 +2357,11 @@
         "address": "Kuldīga",
         "area": "3960 m²",
         "price1m2": "6.50 €",
-        "totalPrice": "25,740  €"
+        "totalPrice": "25,740  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1591,7 +2369,11 @@
         "address": "Kuldīga",
         "area": "4130 m²",
         "price1m2": "6.50 €",
-        "totalPrice": "26,845  €"
+        "totalPrice": "26,845  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1599,15 +2381,23 @@
         "address": "Kuldīga",
         "area": "641 m²",
         "price1m2": "18.72 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "Pārdod zemi 1 ha platībā Rendā, komercdarbībai. Bez apgrūtinājumiem. Ideāla ",
-        "address": "Rendas pag.Renda",
+        "address": "Rendas pagasts, Renda",
         "area": "1 ha.",
         "price1m2": "5 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1615,7 +2405,11 @@
         "address": "Kuldīga",
         "area": "17550 m²",
         "price1m2": "4 €",
-        "totalPrice": "70,200  €"
+        "totalPrice": "70,200  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1623,15 +2417,23 @@
         "address": "Kuldīga",
         "area": "22731 m²",
         "price1m2": "6.82 €",
-        "totalPrice": "155,000  €"
+        "totalPrice": "155,000  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "6 km attālumā no Kuldīgas, tikai 8 minūšu braucienā ar automašīnu, netālu no",
-        "address": "Pelču pag.Pelči",
+        "address": "Pelču pagasts, Pelči",
         "area": "10 ha.",
         "price1m2": "1.01 €",
-        "totalPrice": "100,999  €"
+        "totalPrice": "100,999  €",
+        "coord": [
+            56.9212812,
+            21.968439
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1639,7 +2441,11 @@
         "address": "Kuldīga",
         "area": "10097 m²",
         "price1m2": "10 €",
-        "totalPrice": "100,970  €"
+        "totalPrice": "100,970  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1647,7 +2453,11 @@
         "address": "Kuldīga",
         "area": "8200 m²",
         "price1m2": "6.50 €",
-        "totalPrice": "53,300  €"
+        "totalPrice": "53,300  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
@@ -1655,40 +2465,59 @@
         "address": "Kuldīga",
         "area": "14591 m²",
         "price1m2": "3.53 €",
-        "totalPrice": "51,500  €"
+        "totalPrice": "51,500  €",
+        "coord": [
+            56.9685951,
+            21.9606758
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "3ha plašs zemesgabals ar smilts - grants un smilts atradnēm. Ir pieejama der",
-        "address": "Alsungas pag.Alsunga",
+        "address": "Alsungas pagasts, Alsunga",
         "area": "3 ha.",
         "price1m2": "4.17 €",
-        "totalPrice": "125,000  €"
+        "totalPrice": "125,000  €",
+        "coord": [
+            56.9795834,
+            21.5697553
+        ]
     },
     {
         "regio": "kuldiga",
         "descr": "Ipašums atrodas pie Vilgāles ezera. Tam cauri tek upīte un īpašumā ir izrakt",
-        "address": "Kurmāles pag.Vilgāle",
+        "address": "Kurmāles pagasts, Vilgāle",
         "area": "5 ha.",
         "price1m2": "0.350 €",
-        "totalPrice": "17,500  €"
-    }
-,
+        "totalPrice": "17,500  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "jekabpils",
         "descr": "Ļoti laba vieta pilsētā komercbūvei-garāžas, servisi, noliktavas, veikala, a",
         "address": "Jēkabpils",
         "area": "2825 m²",
         "price1m2": "2.16 €",
-        "totalPrice": "6,090  €"
+        "totalPrice": "6,090  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Īpašnieks pārdod lielu zemes īpašumu Brodos (Jēkabpils) apmēram 70m attālumā",
-        "address": "Ābeļu pag.Brodi",
+        "address": "Ābeļu pagasts, Brodi",
         "area": "2889 m²",
         "price1m2": "13 €",
-        "totalPrice": "37,550  €"
+        "totalPrice": "37,550  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1696,23 +2525,35 @@
         "address": "Viesītes l. t.",
         "area": "4 ha.",
         "price1m2": "0.350 €",
-        "totalPrice": "14,000  €"
+        "totalPrice": "14,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Putmali. Sēlpils pagasts. Salas novads. \n\nDaugavā pirmā līnija. Mežs 5.3 hek",
-        "address": "Sēlpils pag.Sēlija",
+        "address": "Sēlpils pagasts, Sēlija",
         "area": "5.30 ha.",
         "price1m2": "0.660 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Pārdod zemi 5.03 ha platībā , kas atrodas valsts nozīmes dolomīta atradnē \"b",
-        "address": "Salas pag.Birži",
+        "address": "Salas pagasts, Birži",
         "area": "5 ha.",
         "price1m2": "7.40 €",
-        "totalPrice": "370,000  €"
+        "totalPrice": "370,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1720,7 +2561,11 @@
         "address": "Jēkabpils",
         "area": "3790 m²",
         "price1m2": "4.30 €",
-        "totalPrice": "16,300  €"
+        "totalPrice": "16,300  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1728,7 +2573,11 @@
         "address": "Jēkabpils",
         "area": "4462 m²",
         "price1m2": "3.50 €",
-        "totalPrice": "15,600  €"
+        "totalPrice": "15,600  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1736,23 +2585,35 @@
         "address": "Jēkabpils",
         "area": "6350 m²",
         "price1m2": "3.80 €",
-        "totalPrice": "24,132  €"
+        "totalPrice": "24,132  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Pārdodas burvīgs zemes gabals Neretas upes krastā (2.5 ha) un meža zeme (2.9",
-        "address": "Vīpes pag.",
+        "address": "Vīpes pagasts, ",
         "area": "3 ha.",
         "price1m2": "0.590 €",
-        "totalPrice": "17,700  €"
+        "totalPrice": "17,700  €",
+        "coord": [
+            56.46958335,
+            26.11280640739887
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Īpašniece pārdod zemes gabalu. \n\nLieliska vieta privātmājai vai vasarnīcai. ",
-        "address": "Leimaņu pag.Leimaņi",
+        "address": "Leimaņu pagasts, Leimaņi",
         "area": "0.50 ha.",
         "price1m2": "0.420 €",
-        "totalPrice": "2,100  €"
+        "totalPrice": "2,100  €",
+        "coord": [
+            57.18181835,
+            25.315177353938456
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1760,15 +2621,23 @@
         "address": "Jēkabpils",
         "area": "1182 m²",
         "price1m2": "8.46 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Pārdodu zemi ar mājiņu Atašienes centrā. Perspektīvi laba vieta uzņēmējdarbī",
-        "address": "Atašienes pag.Atašiene",
+        "address": "Atašienes pagasts, Atašiene",
         "area": "1 ha.",
         "price1m2": "1.90 €",
-        "totalPrice": "19,000  €"
+        "totalPrice": "19,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1776,7 +2645,11 @@
         "address": "Jēkabpils",
         "area": "2114 m²",
         "price1m2": "4.97 €",
-        "totalPrice": "10,500  €"
+        "totalPrice": "10,500  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1784,7 +2657,11 @@
         "address": "Jēkabpils",
         "area": "5018 m²",
         "price1m2": "3.99 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1792,7 +2669,11 @@
         "address": "Jēkabpils",
         "area": "1503 m²",
         "price1m2": "8 €",
-        "totalPrice": "12,024  €"
+        "totalPrice": "12,024  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1800,15 +2681,23 @@
         "address": "Jēkabpils",
         "area": "2016 m²",
         "price1m2": "9.67 €",
-        "totalPrice": "19,500  €"
+        "totalPrice": "19,500  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Pārdod zemes gabalu Lielā Klauces ezera krastā, Jēkabpils novadā. Krasta līn",
-        "address": "Elkšņu pag.Klauce",
+        "address": "Elkšņu pagasts, Klauce",
         "area": "24100 m²",
         "price1m2": "0.996 €",
-        "totalPrice": "24,000  €"
+        "totalPrice": "24,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1816,15 +2705,23 @@
         "address": "Jēkabpils",
         "area": "13634 m²",
         "price1m2": "2.27 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Pārdodu zemes gabalu - iespējama apbūve. Piebraucamie asfaltētie ceļi Zvaigž",
-        "address": "Krustpils pag.Kazubrenči",
+        "address": "Krustpils pagasts, Kazubrenči",
         "area": "15000 m²",
         "price1m2": "1.37 €",
-        "totalPrice": "20,500  €"
+        "totalPrice": "20,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "jekabpils",
@@ -1832,32 +2729,47 @@
         "address": "Jēkabpils",
         "area": "33 ha.",
         "price1m2": "0.394 €",
-        "totalPrice": "130,000  €"
+        "totalPrice": "130,000  €",
+        "coord": [
+            56.4958638,
+            25.8687747
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Продаю прекрасный участок Papardes для дачи или дома, окруженный лесом -0, 4",
-        "address": "Leimaņu pag.Leimaņi",
+        "address": "Leimaņu pagasts, Leimaņi",
         "area": "0.45 ha.",
         "price1m2": "0.467 €",
-        "totalPrice": "2,100  €"
+        "totalPrice": "2,100  €",
+        "coord": [
+            57.18181835,
+            25.315177353938456
+        ]
     },
     {
         "regio": "jekabpils",
         "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 6, 5 ha, Saukas pagastā, ",
-        "address": "Saukas pag.",
+        "address": "Saukas pagasts, ",
         "area": "6.50 ha.",
         "price1m2": "0.246 €",
-        "totalPrice": "16,000  €"
-    }
-,
+        "totalPrice": "16,000  €",
+        "coord": [
+            56.610414,
+            26.0786487
+        ]
+    },
     {
         "regio": "liepaja",
         "descr": "Zemes gabals atrodas skaistajā Rucavas ciemā. Ir ielikti mājas pamati, elekt",
-        "address": "Rucavas pag.Rucava",
+        "address": "Rucavas pagasts, Rucava",
         "area": "0.35 ha.",
         "price1m2": "4.86 €",
-        "totalPrice": "17,000  €"
+        "totalPrice": "17,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
@@ -1865,31 +2777,47 @@
         "address": "Liepāja",
         "area": "718 m²",
         "price1m2": "15.60 €",
-        "totalPrice": "11,200  €"
+        "totalPrice": "11,200  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Zeme apbūvei 3.05  ha platībā Grobiņas pagastā, no Grobiņas 1.4 km Bārtas vi",
-        "address": "Grobiņas pag.Dubeņi",
+        "address": "Grobiņas pagasts, Dubeņi",
         "area": "3 ha.",
         "price1m2": "1 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "0, 657 ha zemes 1, 2 km no Liepājas robežas, Grobiņas pagastā. Robežojas ar ",
-        "address": "Grobiņas pag.Ālande",
+        "address": "Grobiņas pagasts, Ālande",
         "area": "657 m²",
         "price1m2": "18.26 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Pārdod 3ha zemi Grobiņas novadā uz zemes atrodas dīķis",
-        "address": "Grobiņas pag.Grobiņa",
+        "address": "Grobiņas pagasts, Grobiņa",
         "area": "30820 m²",
         "price1m2": "0.827 €",
-        "totalPrice": "25,500  €"
+        "totalPrice": "25,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
@@ -1897,7 +2825,11 @@
         "address": "Liepāja",
         "area": "723 m²",
         "price1m2": "22.13 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -1905,7 +2837,11 @@
         "address": "Liepāja",
         "area": "1234 m²",
         "price1m2": "5.59 €",
-        "totalPrice": "6,900  €"
+        "totalPrice": "6,900  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -1913,7 +2849,11 @@
         "address": "Liepāja",
         "area": "1033 m²",
         "price1m2": "7.74 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -1921,39 +2861,59 @@
         "address": "Liepāja",
         "area": "1296 m²",
         "price1m2": "15.43 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Īpašnieks pārdod zemi 1, 2ha. Zeme atrodas tieši aiz liepājas robežas un sas",
-        "address": "Medzes pag.Kapsēde",
+        "address": "Medzes pagasts, Kapsēde",
         "area": "1.20 ha.",
         "price1m2": "0.833 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            56.58837555,
+            21.138281741092953
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Pārdod Šukteru dīķi ar pieguļošo zemes gabalu. \n\nKopējā īpašuma platība 6.54",
-        "address": "Tadaiķu pag.Šukteri",
+        "address": "Tadaiķu pagasts, Šukteri",
         "area": "7 ha.",
         "price1m2": "0.456 €",
-        "totalPrice": "31,900  €"
+        "totalPrice": "31,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Zeme komercapbūvei 11, 53 ha Grobiņas pagastā. pie Liepājas robežas blakus š",
-        "address": "Grobiņas pag.Ālande",
+        "address": "Grobiņas pagasts, Ālande",
         "area": "12 ha.",
         "price1m2": "5 €",
-        "totalPrice": "600,000  €"
+        "totalPrice": "600,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Plašs zemesgabals privātmājas būvniecībai nelielā privātmāju ciematā. \n\n\n\nZe",
-        "address": "Nīcas pag.Bernāti",
+        "address": "Nīcas pagasts, Bernāti",
         "area": "1 ha.",
         "price1m2": "2 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
@@ -1961,7 +2921,11 @@
         "address": "Liepāja",
         "area": "1571 m²",
         "price1m2": "45.19 €",
-        "totalPrice": "71,000  €"
+        "totalPrice": "71,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -1969,15 +2933,23 @@
         "address": "Liepāja",
         "area": "725 m²",
         "price1m2": "34.48 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Ainavisks 1, 6 ha plašs privātās apbūves zemesgabals Medzes pagasta, Dienvid",
-        "address": "Medzes pag.Tāši",
+        "address": "Medzes pagasts, Tāši",
         "area": "1.60 ha.",
         "price1m2": "1.56 €",
-        "totalPrice": "24,900  €"
+        "totalPrice": "24,900  €",
+        "coord": [
+            56.5974741,
+            21.224233
+        ]
     },
     {
         "regio": "liepaja",
@@ -1985,7 +2957,11 @@
         "address": "Liepāja",
         "area": "755 m²",
         "price1m2": "15.36 €",
-        "totalPrice": "11,600  €"
+        "totalPrice": "11,600  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -1993,7 +2969,11 @@
         "address": "Grobiņa",
         "area": "5700 m²",
         "price1m2": "8.42 €",
-        "totalPrice": "48,000  €"
+        "totalPrice": "48,000  €",
+        "coord": [
+            56.5368569,
+            21.1676042
+        ]
     },
     {
         "regio": "liepaja",
@@ -2001,15 +2981,23 @@
         "address": "Liepāja",
         "area": "1010 m²",
         "price1m2": "17.82 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "Ainaviski skaists un 4, 8 ha plašs privātās, un komercapbūves zemesgabals Ru",
-        "address": "Rucavas pag.",
+        "address": "Rucavas pagasts, ",
         "area": "4.80 ha.",
         "price1m2": "0.563 €",
-        "totalPrice": "27,000  €"
+        "totalPrice": "27,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
@@ -2017,7 +3005,11 @@
         "address": "Liepāja",
         "area": "932 m²",
         "price1m2": "36.27 €",
-        "totalPrice": "33,800  €"
+        "totalPrice": "33,800  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -2025,7 +3017,11 @@
         "address": "Liepāja",
         "area": "1940 m²",
         "price1m2": "10.31 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
@@ -2033,31 +3029,47 @@
         "address": "Grobiņa",
         "area": "5100 m²",
         "price1m2": "7.45 €",
-        "totalPrice": "38,000  €"
+        "totalPrice": "38,000  €",
+        "coord": [
+            56.5368569,
+            21.1676042
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "3, 3ha liela lauksaimniecības zeme Sventājas upes krastā. Netālu no zemesgab",
-        "address": "Rucavas pag.",
+        "address": "Rucavas pagasts, ",
         "area": "3 ha.",
         "price1m2": "0.397 €",
-        "totalPrice": "11,900  €"
+        "totalPrice": "11,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "10, 85 ha plašs privātās un komercapbūves zemesgabals ar priežu jaunaudzi Sa",
-        "address": "Sakas pag.Ulmale",
+        "address": "Sakas pagasts, Ulmale",
         "area": "11 ha.",
         "price1m2": "0.500 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            56.9363071,
+            21.2755736
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "3, 12ha plaša apbūves zeme Nīcas novadā netālu no Pūsēna kalna ar labu piebr",
-        "address": "Nīcas pag.Jūrmalciems",
+        "address": "Nīcas pagasts, Jūrmalciems",
         "area": "3 ha.",
         "price1m2": "1.17 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "liepaja",
@@ -2065,7 +3077,11 @@
         "address": "Grobiņa",
         "area": "1269 m²",
         "price1m2": "31.52 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            56.5368569,
+            21.1676042
+        ]
     },
     {
         "regio": "liepaja",
@@ -2073,7 +3089,11 @@
         "address": "Pāvilosta",
         "area": "5000 m²",
         "price1m2": "12.60 €",
-        "totalPrice": "63,000  €"
+        "totalPrice": "63,000  €",
+        "coord": [
+            56.8888663,
+            21.1825221
+        ]
     },
     {
         "regio": "liepaja",
@@ -2081,48 +3101,71 @@
         "address": "Liepāja",
         "area": "1901 m²",
         "price1m2": "3.68 €",
-        "totalPrice": "7,000  €"
+        "totalPrice": "7,000  €",
+        "coord": [
+            56.5048435,
+            21.0070903
+        ]
     },
     {
         "regio": "liepaja",
         "descr": "4, 7 ha zeme apbūvei 400 m no jūras Papē, Rucavas pagastā, Latvijā. Zemei ir",
-        "address": "Rucavas pag.Pape",
+        "address": "Rucavas pagasts, Pape",
         "area": "4.70 ha.",
         "price1m2": "0.638 €",
-        "totalPrice": "30,000  €"
-    }
-,
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "ludza",
         "descr": "Продаётся. Все подробности по тел.",
         "address": "Ludza",
         "area": "1 ha.",
         "price1m2": "5.50 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            56.5477177,
+            27.7242092
+        ]
     },
     {
         "regio": "ludza",
         "descr": "Pārdodu zemi 7700 kv. Līvānu iela 23, Briģi, par 6000 eur. Zeme ciemata cent",
-        "address": "Briģu pag.Brigi",
+        "address": "Briģu pagasts, Brigi",
         "area": "7700 m²",
         "price1m2": "0.779 €",
-        "totalPrice": "6,000  €"
+        "totalPrice": "6,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ludza",
         "descr": "Pārdod zemes gabals privātmājas būvniecībai ezera Vorkales krastā, vidējā no",
-        "address": "Pildas pag.Vorkaļi",
+        "address": "Pildas pagasts, Vorkaļi",
         "area": "7 ha.",
         "price1m2": "0.286 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ludza",
         "descr": "Pārdodas komerczeme ar ēkām. 3, 19 ha. Sīkāka informācija pa telefonu.",
-        "address": "Zvirgzdenes pag.Lucmuiža",
+        "address": "Zvirgzdenes pagasts, Lucmuiža",
         "area": "3 ha.",
         "price1m2": "1.77 €",
-        "totalPrice": "53,000  €"
+        "totalPrice": "53,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ludza",
@@ -2130,7 +3173,11 @@
         "address": "Ludza",
         "area": "9185 m²",
         "price1m2": "9.79 €",
-        "totalPrice": "89,900  €"
+        "totalPrice": "89,900  €",
+        "coord": [
+            56.5477177,
+            27.7242092
+        ]
     },
     {
         "regio": "ludza",
@@ -2138,7 +3185,11 @@
         "address": "Ludza",
         "area": "828 m²",
         "price1m2": "3.62 €",
-        "totalPrice": "3,000  €"
+        "totalPrice": "3,000  €",
+        "coord": [
+            56.5477177,
+            27.7242092
+        ]
     },
     {
         "regio": "ludza",
@@ -2146,24 +3197,35 @@
         "address": "Ludza",
         "area": "2976 m²",
         "price1m2": "3.86 €",
-        "totalPrice": "11,500  €"
-    }
-,
+        "totalPrice": "11,500  €",
+        "coord": [
+            56.5477177,
+            27.7242092
+        ]
+    },
     {
         "regio": "madona",
         "descr": "Pārdod zemi",
-        "address": "Sausnējas pag.Sausnēja",
+        "address": "Sausnējas pagasts, Sausnēja",
         "area": "20 ha.",
         "price1m2": "0.275 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
         "descr": "Pārdod zemi Ļaudonā, pilsētā , Klusā iela 4, attālums no Rīgas 154km, līdz M",
-        "address": "Ļaudonas pag.Ļaudona",
+        "address": "Ļaudonas pagasts, Ļaudona",
         "area": "5155 m²",
         "price1m2": "1.84 €",
-        "totalPrice": "9,500  €"
+        "totalPrice": "9,500  €",
+        "coord": [
+            56.7066026,
+            26.190006594356724
+        ]
     },
     {
         "regio": "madona",
@@ -2171,15 +3233,23 @@
         "address": "Madona",
         "area": "1.20 ha.",
         "price1m2": "5.83 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            56.8517467,
+            26.2184769
+        ]
     },
     {
         "regio": "madona",
         "descr": "Zeme un mežs tiem, kam patīk daba un klusums. Vidzemes centrālā augstiene mi",
-        "address": "Liezēres pag.",
+        "address": "Liezēres pagasts, ",
         "area": "51 ha.",
         "price1m2": "0.683 €",
-        "totalPrice": "348,450  €"
+        "totalPrice": "348,450  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
@@ -2187,31 +3257,47 @@
         "address": "Madona",
         "area": "4 ha.",
         "price1m2": "4.60 €",
-        "totalPrice": "184,000  €"
+        "totalPrice": "184,000  €",
+        "coord": [
+            56.8517467,
+            26.2184769
+        ]
     },
     {
         "regio": "madona",
         "descr": "Tiek pārdots zemes gabals Ērgļu centrā. Zemes gabalā ietilpst apbūves un mež",
-        "address": "Ērgļu pag.Ērgļi",
+        "address": "Ērgļu pagasts, Ērgļi",
         "area": "1.90 ha.",
         "price1m2": "0.521 €",
-        "totalPrice": "9,900  €"
+        "totalPrice": "9,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
         "descr": "Tiek pārdots apbūves gabals Ērgļu centrā. Pusi no gabala aizņem nolaižams dī",
-        "address": "Ērgļu pag.Ērgļi",
+        "address": "Ērgļu pagasts, Ērgļi",
         "area": "0.37 ha.",
         "price1m2": "1.89 €",
-        "totalPrice": "7,000  €"
+        "totalPrice": "7,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
         "descr": "Pārdod (apstrādātu) lauksaimniecības zemi Degumniekos, Ošupes pag. 4.16 ha.",
-        "address": "Ošupes pag.Degumnieki",
+        "address": "Ošupes pagasts, Degumnieki",
         "area": "4.16 ha.",
         "price1m2": "0.450 €",
-        "totalPrice": "18,720  €"
+        "totalPrice": "18,720  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
@@ -2219,15 +3305,23 @@
         "address": "Madona",
         "area": "3.26 ha.",
         "price1m2": "2.15 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            56.8517467,
+            26.2184769
+        ]
     },
     {
         "regio": "madona",
         "descr": "Pārdod zemi pie Madonas ezera, asfaltēts piebraucamais ceļš. Iespējams veikt",
-        "address": "Aronas pag.",
+        "address": "Aronas pagasts, ",
         "area": "1 ha.",
         "price1m2": "1.65 €",
-        "totalPrice": "16,500  €"
+        "totalPrice": "16,500  €",
+        "coord": [
+            56.794384199999996,
+            26.089485389028397
+        ]
     },
     {
         "regio": "madona",
@@ -2235,15 +3329,23 @@
         "address": "Varakļāni",
         "area": "2 ha.",
         "price1m2": "0.425 €",
-        "totalPrice": "8,500  €"
+        "totalPrice": "8,500  €",
+        "coord": [
+            56.6139756,
+            26.7615482
+        ]
     },
     {
         "regio": "madona",
         "descr": "Īpašnieks pārdod (apstrādātu) lauksaimniecības zemi Ošupes pag. Degumniekos ",
-        "address": "Ošupes pag.Degumnieki",
+        "address": "Ošupes pagasts, Degumnieki",
         "area": "5 ha.",
         "price1m2": "0.405 €",
-        "totalPrice": "20,240  €"
+        "totalPrice": "20,240  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
@@ -2251,40 +3353,59 @@
         "address": "Madona",
         "area": "1304 m²",
         "price1m2": "19.94 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            56.8517467,
+            26.2184769
+        ]
     },
     {
         "regio": "madona",
         "descr": "Pārdod lauksaimniecības zemi ar mežu jaunaudzi, zeme 2.9 ha, mežš 2.4 ha.",
-        "address": "Vestienas pag.Vestiena",
+        "address": "Vestienas pagasts, Vestiena",
         "area": "5 ha.",
         "price1m2": "0.440 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
         "descr": "Pārdod no nekustamā īpašuma \"Saulītes\" atdalītu lauksaimniecībā izmantojamu ",
-        "address": "Barkavas pag.",
+        "address": "Barkavas pagasts, ",
         "area": "16 ha.",
         "price1m2": "0.425 €",
-        "totalPrice": "68,000  €"
+        "totalPrice": "68,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "madona",
         "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
-        "address": "Kalsnavas pag.Maisi",
+        "address": "Kalsnavas pagasts, Maisi",
         "area": "8 ha.",
         "price1m2": "0.238 €",
-        "totalPrice": "19,000  €"
-    }
-,
+        "totalPrice": "19,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "ogre",
         "descr": "Var uz nomaksu. Tiek piedāvāts apbūves gabals Saulesdārzā. Līdz Saulkalnes d",
         "address": "Ikšķile",
         "area": "1766 m²",
         "price1m2": "11.83 €",
-        "totalPrice": "20,900  €"
+        "totalPrice": "20,900  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2292,7 +3413,11 @@
         "address": "Ikšķiles l. t.Saulesdārzs",
         "area": "1766 m²",
         "price1m2": "11.83 €",
-        "totalPrice": "20,900  €"
+        "totalPrice": "20,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2300,7 +3425,11 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "5200 m²",
         "price1m2": "5.29 €",
-        "totalPrice": "27,500  €"
+        "totalPrice": "27,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2308,7 +3437,11 @@
         "address": "Ķeguma l. t.Tome",
         "area": "2 ha.",
         "price1m2": "2.10 €",
-        "totalPrice": "42,000  €"
+        "totalPrice": "42,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2316,7 +3449,11 @@
         "address": "Ogre",
         "area": "1200 m²",
         "price1m2": "26.67 €",
-        "totalPrice": "32,000  €"
+        "totalPrice": "32,000  €",
+        "coord": [
+            56.8192045,
+            24.6074393
+        ]
     },
     {
         "regio": "ogre",
@@ -2324,7 +3461,11 @@
         "address": "Lielvārde",
         "area": "3300 m²",
         "price1m2": "7.88 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            56.7263693,
+            24.795892
+        ]
     },
     {
         "regio": "ogre",
@@ -2332,7 +3473,11 @@
         "address": "Ikšķile",
         "area": "2822",
         "price1m2": "17.01 €",
-        "totalPrice": "48,000  €"
+        "totalPrice": "48,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2340,7 +3485,11 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "13700",
         "price1m2": "6.93 €",
-        "totalPrice": "95,000  €"
+        "totalPrice": "95,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2348,7 +3497,11 @@
         "address": "Ikšķile",
         "area": "2 ha.",
         "price1m2": "7.85 €",
-        "totalPrice": "157,000  €"
+        "totalPrice": "157,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2356,15 +3509,23 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "2.79 ha.",
         "price1m2": "4.30 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
         "descr": "Īpašnieki pārdod savstarpēji saistītus vairākus zemesgabalus ar kopējo platī",
-        "address": "Ogresgala pag.Ogresgals",
+        "address": "Ogresgala pagasts, Ogresgals",
         "area": "17672 m²",
         "price1m2": "1.98 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            56.805758,
+            24.75007
+        ]
     },
     {
         "regio": "ogre",
@@ -2372,7 +3533,11 @@
         "address": "Ikšķiles l. t.Saulesdārzs",
         "area": "1782 m²",
         "price1m2": "25.81 €",
-        "totalPrice": "46,000  €"
+        "totalPrice": "46,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2380,7 +3545,11 @@
         "address": "Ikšķiles l. t.Ceplīši",
         "area": "10500 m²",
         "price1m2": "3.10 €",
-        "totalPrice": "32,500  €"
+        "totalPrice": "32,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2388,7 +3557,11 @@
         "address": "Ikšķiles l. t.Ceplīši",
         "area": "10800 m²",
         "price1m2": "2.78 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2396,7 +3569,11 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "1.17 ha.",
         "price1m2": "1.62 €",
-        "totalPrice": "18,900  €"
+        "totalPrice": "18,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2404,15 +3581,23 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "6 m²",
         "price1m2": "26,667 €",
-        "totalPrice": "160,000  €"
+        "totalPrice": "160,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
         "descr": "Pārdodu zemi ar elektrību ja nemaldos 1.3h kopējā platība. \n\nElektrība 3fāze",
-        "address": "Lēdmanes pag.Lēdmane",
+        "address": "Lēdmanes pagasts, Lēdmane",
         "area": "1 ha.",
         "price1m2": "0.800 €",
-        "totalPrice": "8,000  €"
+        "totalPrice": "8,000  €",
+        "coord": [
+            56.7711117,
+            25.000099285797326
+        ]
     },
     {
         "regio": "ogre",
@@ -2420,7 +3605,11 @@
         "address": "Ikšķile",
         "area": "1657 m²",
         "price1m2": "27.16 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2428,7 +3617,11 @@
         "address": "Ogre",
         "area": "2096 m²",
         "price1m2": "21.47 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            56.8192045,
+            24.6074393
+        ]
     },
     {
         "regio": "ogre",
@@ -2436,7 +3629,11 @@
         "address": "Ikšķiles l. t.Dobelnieki",
         "area": "1360 m²",
         "price1m2": "16.54 €",
-        "totalPrice": "22,500  €"
+        "totalPrice": "22,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2444,7 +3641,11 @@
         "address": "Ikšķile",
         "area": "1359 m²",
         "price1m2": "30.91 €",
-        "totalPrice": "42,000  €"
+        "totalPrice": "42,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2452,7 +3653,11 @@
         "address": "Ikšķile",
         "area": "1200 m²",
         "price1m2": "35 €",
-        "totalPrice": "42,000  €"
+        "totalPrice": "42,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2460,15 +3665,23 @@
         "address": "-",
         "area": "1904 m²",
         "price1m2": "10 €",
-        "totalPrice": "19,040  €"
+        "totalPrice": "19,040  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
         "descr": "Pārdod lauksaimniecības zemi 1ha platībā. No asfalta jānobrauc 400m pa zemes",
-        "address": "Ogresgala pag.Ogresgals",
+        "address": "Ogresgala pagasts, Ogresgals",
         "area": "10000 m²",
         "price1m2": "3.50 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            56.805758,
+            24.75007
+        ]
     },
     {
         "regio": "ogre",
@@ -2476,7 +3689,11 @@
         "address": "Ikšķile",
         "area": "1214 m²",
         "price1m2": "28.83 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            56.8375098,
+            24.4975204
+        ]
     },
     {
         "regio": "ogre",
@@ -2484,7 +3701,11 @@
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "5000 m²",
         "price1m2": "5 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2492,7 +3713,11 @@
         "address": "Lielvārde",
         "area": "1226 m²",
         "price1m2": "17.94 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            56.7263693,
+            24.795892
+        ]
     },
     {
         "regio": "ogre",
@@ -2500,7 +3725,11 @@
         "address": "Ikšķiles l. t.Saulesdārzs",
         "area": "11 ha.",
         "price1m2": "0.700 €",
-        "totalPrice": "77,000  €"
+        "totalPrice": "77,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ogre",
@@ -2508,24 +3737,35 @@
         "address": "Lielvārde",
         "area": "14300 m²",
         "price1m2": "0.839 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            56.7263693,
+            24.795892
+        ]
     },
     {
         "regio": "ogre",
         "descr": "Īpašnieks pārdod zemi privātmājas būvniecībai vai lauksaimniecībai, klusā gl",
-        "address": "Suntažu pag.",
+        "address": "Suntažu pagasts, ",
         "area": "2 ha.",
         "price1m2": "0.425 €",
-        "totalPrice": "8,500  €"
-    }
-,
+        "totalPrice": "8,500  €",
+        "coord": [
+            56.88447725,
+            24.869978894930263
+        ]
+    },
     {
         "regio": "preili",
         "descr": "Pārdodu nekustamo īpašumu Bariņi. Atrodas Preiļos pie jaunās Rietumu ielas, ",
         "address": "Preiļi",
         "area": "3 ha.",
         "price1m2": "1 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            56.2937366,
+            26.7266734
+        ]
     },
     {
         "regio": "preili",
@@ -2533,15 +3773,23 @@
         "address": "Preiļi",
         "area": "0.30 ha.",
         "price1m2": "10.33 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            56.2937366,
+            26.7266734
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdodu lauksaimniecības zemi ar meža zemi (6ha). Kailcirte un apaugums nozā",
-        "address": "Rudzātu pag.Rudzāti",
+        "address": "Rudzātu pagasts, Rudzāti",
         "area": "46 ha.",
         "price1m2": "0.173 €",
-        "totalPrice": "79,800  €"
+        "totalPrice": "79,800  €",
+        "coord": [
+            56.4192821,
+            26.4510612
+        ]
     },
     {
         "regio": "preili",
@@ -2549,23 +3797,35 @@
         "address": "Līvāni",
         "area": "2.30 ha.",
         "price1m2": "0.609 €",
-        "totalPrice": "14,000  €"
+        "totalPrice": "14,000  €",
+        "coord": [
+            56.3531859,
+            26.177657
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdodas ļoti skaists īpašums latgalē mājas būvniecībai, privāta pussala eze",
-        "address": "Rušonas pag.Geļenova",
+        "address": "Rušonas pagasts, Geļenova",
         "area": "6 ha.",
         "price1m2": "0.983 €",
-        "totalPrice": "59,000  €"
+        "totalPrice": "59,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdod zemi 23 ha skaistā vietā, līdz Cirīša ezeram 600 m, zeme robežojas ar",
-        "address": "Aglonas pag.Botori",
+        "address": "Aglonas pagasts, Botori",
         "area": "23 ha.",
         "price1m2": "0.348 €",
-        "totalPrice": "80,000  €"
+        "totalPrice": "80,000  €",
+        "coord": [
+            56.1469445,
+            26.9641667
+        ]
     },
     {
         "regio": "preili",
@@ -2573,71 +3833,107 @@
         "address": "Līvāni",
         "area": "2.30 ha.",
         "price1m2": "0.609 €",
-        "totalPrice": "14,000  €"
+        "totalPrice": "14,000  €",
+        "coord": [
+            56.3531859,
+            26.177657
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdod lauksaimniecības zemi, īpašums „Rasaines”, Riebiņu novada Rušonas pag",
-        "address": "Rušonas pag.Jaunmuiža",
+        "address": "Rušonas pagasts, Jaunmuiža",
         "area": "14 ha.",
         "price1m2": "0.300 €",
-        "totalPrice": "42,000  €"
+        "totalPrice": "42,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdod zemes gabalu 3, 7ha platībā , ainaviskā vietā Pelēču ezera krastā, as",
-        "address": "Pelēču pag.Rošmoni",
+        "address": "Pelēču pagasts, Rošmoni",
         "area": "4 ha.",
         "price1m2": "1 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Zemi pie šosejas Daugavpils-Rēzekne ar grantētu piebraucamo ceļu, uzkalnā. N",
-        "address": "Rušonas pag.Caunes",
+        "address": "Rušonas pagasts, Caunes",
         "area": "3116 m²",
         "price1m2": "0.578 €",
-        "totalPrice": "1,800  €"
+        "totalPrice": "1,800  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Pārdodu pie ezera zemesgabalu mājas būvniecībai, plānota elektrība, būs asfa",
-        "address": "Aglonas pag.Aglona",
+        "address": "Aglonas pagasts, Aglona",
         "area": "1 ha.",
         "price1m2": "0.700 €",
-        "totalPrice": "7,000  €"
+        "totalPrice": "7,000  €",
+        "coord": [
+            56.1307833,
+            27.0101767
+        ]
     },
     {
         "regio": "preili",
         "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 6, 06 ha, Pelēču pagastā,",
-        "address": "Pelēču pag.Ārdava",
+        "address": "Pelēču pagasts, Ārdava",
         "area": "6.06 ha.",
         "price1m2": "0.248 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 7, 2 ha, Pelēču pagastā, ",
-        "address": "Pelēču pag.Ārdava",
+        "address": "Pelēču pagasts, Ārdava",
         "area": "7.20 ha.",
         "price1m2": "0.208 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 4, 7 ha, Pelēču pagastā, ",
-        "address": "Pelēču pag.Ārdava",
+        "address": "Pelēču pagasts, Ārdava",
         "area": "4.70 ha.",
         "price1m2": "0.245 €",
-        "totalPrice": "11,500  €"
+        "totalPrice": "11,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
         "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 2, 9 ha, Pelēču pagastā, ",
-        "address": "Pelēču pag.Ārdava",
+        "address": "Pelēču pagasts, Ārdava",
         "area": "2.90 ha.",
         "price1m2": "0.259 €",
-        "totalPrice": "7,500  €"
+        "totalPrice": "7,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "preili",
@@ -2645,32 +3941,47 @@
         "address": "Līvāni",
         "area": "7968 m²",
         "price1m2": "3.77 €",
-        "totalPrice": "30,000  €"
-    }
-,
+        "totalPrice": "30,000  €",
+        "coord": [
+            56.3531859,
+            26.177657
+        ]
+    },
     {
         "regio": "rezekne",
         "descr": "Pārdodu zemes gabalu pilsētas robežā. Iebraukšana uz zemes gabalu no galvenā",
-        "address": "Ozolaines pag.Tēviņi",
+        "address": "Ozolaines pagasts, Tēviņi",
         "area": "0.44 ha.",
         "price1m2": "8.41 €",
-        "totalPrice": "37,000  €"
+        "totalPrice": "37,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdod \"Brekši\" zemesgabalu Lūznavā 1, 7ha platībā Rāznas ezera krastā. Vien",
-        "address": "Lūznavas pag.Lūznava",
+        "address": "Lūznavas pagasts, Lūznava",
         "area": "2 ha.",
         "price1m2": "1.40 €",
-        "totalPrice": "28,000  €"
+        "totalPrice": "28,000  €",
+        "coord": [
+            56.35970450000001,
+            27.271281610465117
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "4 km no rēzeknes pie ceļa, uz zemes ir aptuveni 30 ābeles",
-        "address": "Griškānu pag.Sprūževa",
+        "address": "Griškānu pagasts, Sprūževa",
         "area": "1.10 ha.",
         "price1m2": "0.909 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2678,23 +3989,35 @@
         "address": "Rēzekne",
         "area": "2.30 ha.",
         "price1m2": "0.804 €",
-        "totalPrice": "18,500  €"
+        "totalPrice": "18,500  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Īpašums atrodas Rēzeknes Sez teritorijā tieši blakus dzelzceļam Rīga - Maska",
-        "address": "Vērēmu pag.Ratinīki",
+        "address": "Vērēmu pagasts, Ratinīki",
         "area": "71000 m²",
         "price1m2": "3.52 €",
-        "totalPrice": "250,000  €"
+        "totalPrice": "250,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdod lauksaimniecībā izmantojamu zemi. Vairāk par īpašumiem skatīt: zemete",
-        "address": "Sakstagala pag.",
+        "address": "Sakstagala pagasts, ",
         "area": "13.80 ha.",
         "price1m2": "0.357 €",
-        "totalPrice": "49,200  €"
+        "totalPrice": "49,200  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2702,15 +4025,23 @@
         "address": "Rēzekne",
         "area": "22440 m²",
         "price1m2": "2.90 €",
-        "totalPrice": "65,000  €"
+        "totalPrice": "65,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdod nekustamo īpašumu, kas paredzēti privātmāju apbūvei. \n\nIzskatīšu arī ",
-        "address": "Griškānu pag.Čači",
+        "address": "Griškānu pagasts, Čači",
         "area": "0.21 ha.",
         "price1m2": "1.67 €",
-        "totalPrice": "3,500  €"
+        "totalPrice": "3,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2718,47 +4049,71 @@
         "address": "Rēzekne",
         "area": "0.40 ha.",
         "price1m2": "4.13 €",
-        "totalPrice": "16,500  €"
+        "totalPrice": "16,500  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "AS Privatbank meitas uzņēmuma īpašums. Īpašums atrodas Čornajas pagastā, „So",
-        "address": "Čornajas pag.Sokorņi",
+        "address": "Čornajas pagasts, Sokorņi",
         "area": "77400 m²",
         "price1m2": "1.56 €",
-        "totalPrice": "121,000  €"
+        "totalPrice": "121,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdodam zemes gabalu 1, 8 h platībā . Zeme atrodas pie paša Meirānu ezera k",
-        "address": "Bērzgales pag.Bērzgale",
+        "address": "Bērzgales pagasts, Bērzgale",
         "area": "2 ha.",
         "price1m2": "0.800 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Продаётся земля 7, 69 га \n\nиз них 6, 51 сельскохозяйсвенная земля, \n\nв том ч",
-        "address": "Ilzeskalna pag.Ivgulova",
+        "address": "Ilzeskalna pagasts, Ivgulova",
         "area": "8 ha.",
         "price1m2": "0.200 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdodu zarus kaudzē(1200-1400M3 šķeldas)saus lapukos, atrodās pie Pārtavas ",
-        "address": "Kaunatas pag.",
+        "address": "Kaunatas pagasts, ",
         "area": "1400 m²",
         "price1m2": "3.57 €",
-        "totalPrice": "5,000  €"
+        "totalPrice": "5,000  €",
+        "coord": [
+            56.3399057,
+            27.57186229156506
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Tiek pārdoti divi zemes gabali vienā zemes īpašumā. Atrodas ainaviskā vietā ",
-        "address": "Vērēmu pag.Rūdzes",
+        "address": "Vērēmu pagasts, Rūdzes",
         "area": "8 ha.",
         "price1m2": "0.438 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2766,15 +4121,23 @@
         "address": "Rēzekne",
         "area": "2449 m²",
         "price1m2": "4.08 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pardod zemi, blakus auto celjam Markovka-Zosna, ir iespeja pieslegt elektrib",
-        "address": "Lūznavas pag.Višķeri",
+        "address": "Lūznavas pagasts, Višķeri",
         "area": "48000 m²",
         "price1m2": "0.313 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2782,7 +4145,11 @@
         "address": "Rēzekne",
         "area": "24284 m²",
         "price1m2": "13.59 €",
-        "totalPrice": "330,000  €"
+        "totalPrice": "330,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
@@ -2790,47 +4157,71 @@
         "address": "Rēzekne",
         "area": "3.22 ha.",
         "price1m2": "1.50 €",
-        "totalPrice": "48,300  €"
+        "totalPrice": "48,300  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Zemes gabals atrodas starp Rāznas ezeru un asfaltēto maģistrālo autoceļu (P5",
-        "address": "Kaunatas pag.Astici",
+        "address": "Kaunatas pagasts, Astici",
         "area": "1683 m²",
         "price1m2": "10.70 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pardod lauksaimnecibas zemi, 3ha",
-        "address": "Sakstagala pag.Sakstagals",
+        "address": "Sakstagala pagasts, Sakstagals",
         "area": "3 ha.",
         "price1m2": "0.280 €",
-        "totalPrice": "8,400  €"
+        "totalPrice": "8,400  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdodu zemesgabalu komercdarbībai pie galvenā autoceļa Rīga- Jēkabpils - Rē",
-        "address": "Sakstagala pag.Ciukori",
+        "address": "Sakstagala pagasts, Ciukori",
         "area": "0.40 ha.",
         "price1m2": "11.25 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdodu zemi zem ūdeņiem(ezers) 5.35 ha. , mežs 1.71 ha. Mežs nav zāģets, re",
-        "address": "Kaunatas pag.Dubuļi",
+        "address": "Kaunatas pagasts, Dubuļi",
         "area": "7 ha.",
         "price1m2": "0.130 €",
-        "totalPrice": "9,100  €"
+        "totalPrice": "9,100  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Продаём большие 2 пруда + 1 средний в 5 км. от Резекне в разработанном песча",
-        "address": "Ozolaines pag.Gaiduļi",
+        "address": "Ozolaines pagasts, Gaiduļi",
         "area": "5 ha.",
         "price1m2": "0.900 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2838,15 +4229,23 @@
         "address": "Rēzekne",
         "area": "5 ha.",
         "price1m2": "1 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Участок граничит с трассой резекне-карсава",
-        "address": "Vērēmu pag.Sondori",
+        "address": "Vērēmu pagasts, Sondori",
         "area": "2300 m²",
         "price1m2": "6.96 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            56.5727417,
+            27.3688401
+        ]
     },
     {
         "regio": "rezekne",
@@ -2854,7 +4253,11 @@
         "address": "Rēzekne",
         "area": "2250 m²",
         "price1m2": "15.56 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
@@ -2862,23 +4265,35 @@
         "address": "Rēzekne",
         "area": "7294 m²",
         "price1m2": "2.47 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pārdodam viensētu pie Sološnieku ezera (Ezera daļa īpašumā). Kopējā platība ",
-        "address": "Dricānu pag.Komultinova",
+        "address": "Dricānu pagasts, Komultinova",
         "area": "48 ha.",
         "price1m2": "0.313 €",
-        "totalPrice": "150,000  €"
+        "totalPrice": "150,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pardodu lauksaimniecības zemes gabalu parsvarā ganības nedaudz meža. Zemesga",
-        "address": "Pušas pag.Balda",
+        "address": "Pušas pagasts, Balda",
         "area": "37 ha.",
         "price1m2": "0.324 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
@@ -2886,7 +4301,11 @@
         "address": "Rēzekne",
         "area": "14 ha.",
         "price1m2": "0.129 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            56.506281,
+            27.3306623
+        ]
     },
     {
         "regio": "rezekne",
@@ -2894,7 +4313,11 @@
         "address": "Viļāni",
         "area": "14554 m²",
         "price1m2": "3.44 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            56.5549602,
+            26.9288591
+        ]
     },
     {
         "regio": "rezekne",
@@ -2902,48 +4325,71 @@
         "address": "Viļāni",
         "area": "4032 m²",
         "price1m2": "4.22 €",
-        "totalPrice": "17,000  €"
+        "totalPrice": "17,000  €",
+        "coord": [
+            56.5549602,
+            26.9288591
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Pardodu zemes gabalu 1.15g. Var izmantot majas celšanai. Netalu no ezera Ada",
-        "address": "Vērēmu pag.Sondori",
+        "address": "Vērēmu pagasts, Sondori",
         "area": "1 ha.",
         "price1m2": "1 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            56.5727417,
+            27.3688401
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Lauksaimniecības zeme, kura sastāv no diviem gabaliem 8 ha platībā, ar mežu ",
-        "address": "Pušas pag.Babri",
+        "address": "Pušas pagasts, Babri",
         "area": "8 ha.",
         "price1m2": "0.463 €",
-        "totalPrice": "37,000  €"
+        "totalPrice": "37,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "rezekne",
         "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
-        "address": "Čornajas pag.Tilīši",
+        "address": "Čornajas pagasts, Tilīši",
         "area": "6.20 ha.",
         "price1m2": "0.218 €",
-        "totalPrice": "13,500  €"
-    }
-,
+        "totalPrice": "13,500  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "saldus",
         "descr": "3414m2 plašs privātās apbūves zemesgabals Ganību ielā 44A, Saldū. Piebraucam",
         "address": "Saldus",
         "area": "3414 m²",
         "price1m2": "4.66 €",
-        "totalPrice": "15,900  €"
+        "totalPrice": "15,900  €",
+        "coord": [
+            56.6659281,
+            22.4936222
+        ]
     },
     {
         "regio": "saldus",
         "descr": "Pārdod zivju dīķi, kas aizņem gandrīz visu platību no īpašuma 13.2 ha.",
-        "address": "Jaunlutriņu pag.Jaunlutriņi",
+        "address": "Jaunlutriņu pagasts, Jaunlutriņi",
         "area": "13 ha.",
         "price1m2": "0.246 €",
-        "totalPrice": "32,000  €"
+        "totalPrice": "32,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "saldus",
@@ -2951,15 +4397,23 @@
         "address": "Saldus",
         "area": "2200 m²",
         "price1m2": "5 €",
-        "totalPrice": "11,000  €"
+        "totalPrice": "11,000  €",
+        "coord": [
+            56.6659281,
+            22.4936222
+        ]
     },
     {
         "regio": "saldus",
         "descr": "Ļoti skaists zemes gabals klusā vietā. Privātmājas vai vasarnīcas būvniecība",
-        "address": "Vadakstes pag.Vadakste",
+        "address": "Vadakstes pagasts, Vadakste",
         "area": "2443 m²",
         "price1m2": "1.92 €",
-        "totalPrice": "4,690  €"
+        "totalPrice": "4,690  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "saldus",
@@ -2967,7 +4421,11 @@
         "address": "Saldus",
         "area": "2000 m²",
         "price1m2": "6 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            56.6659281,
+            22.4936222
+        ]
     },
     {
         "regio": "saldus",
@@ -2975,7 +4433,11 @@
         "address": "Saldus",
         "area": "5000 m²",
         "price1m2": "1.80 €",
-        "totalPrice": "9,000  €"
+        "totalPrice": "9,000  €",
+        "coord": [
+            56.6659281,
+            22.4936222
+        ]
     },
     {
         "regio": "saldus",
@@ -2983,72 +4445,107 @@
         "address": "Brocēnu l. t.Emburga",
         "area": "4 ha.",
         "price1m2": "1.63 €",
-        "totalPrice": "65,000  €"
+        "totalPrice": "65,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "saldus",
         "descr": "Pārdodu l/s zemi. Robežplāns pdf pielikumā.",
-        "address": "Ezeres pag.Šarlote",
+        "address": "Ezeres pagasts, Šarlote",
         "area": "2 ha.",
         "price1m2": "0.600 €",
-        "totalPrice": "12,000  €"
-    }
-,
+        "totalPrice": "12,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "talsi",
         "descr": "Pārdod zemes apbūves gabalu ainaviskajā Sabiles pilsētā. Atrodas pilsētas no",
         "address": "Sabile",
         "area": "3200 m²",
         "price1m2": "2.03 €",
-        "totalPrice": "6,500  €"
+        "totalPrice": "6,500  €",
+        "coord": [
+            57.0482993,
+            22.5710898
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdodu lauksaimniecības zemi. Īpašumā ir šķūnis, mājvieta, malkas šķūnis, n",
-        "address": "Rojas pag.Rude",
+        "address": "Rojas pagasts, Rude",
         "area": "2 ha.",
         "price1m2": "0.600 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            57.49464355,
+            22.721886873813318
+        ]
     },
     {
         "regio": "talsi",
         "descr": "15 min. gajiena līdz jūrai, jahtu piestātnei zeme 16 000 kv. m. Īpašums atro",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "1.60 ha.",
         "price1m2": "3 €",
-        "totalPrice": "48,000  €"
+        "totalPrice": "48,000  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod zemi Mērsragā, meža ielokā. Līdz jūrai 2.5 km. Pašreizējais",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "1.65 ha.",
         "price1m2": "1.09 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod vai maina zemes īpašumu Dundagas centrā starp A. Upīša un Pāces ielām",
-        "address": "Dundagas pag.Dundaga",
+        "address": "Dundagas pagasts, Dundaga",
         "area": "3.20 ha.",
         "price1m2": "1.50 €",
-        "totalPrice": "48,000  €"
+        "totalPrice": "48,000  €",
+        "coord": [
+            57.5052512,
+            22.3491534
+        ]
     },
     {
         "regio": "talsi",
         "descr": "15-20 min. gajiena līdz jūrai, jahtu piestātnei zeme 3673 kv. m. Īpašums atr",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "3673 m²",
         "price1m2": "5.83 €",
-        "totalPrice": "21,400  €"
+        "totalPrice": "21,400  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pardod zemi 1, 2ha apbūvei asfaltēta cela mala zemi var dalīt jura 900 metri",
-        "address": "Vandzenes pag.Upesgrīva",
+        "address": "Vandzenes pagasts, Upesgrīva",
         "area": "1 ha.",
         "price1m2": "1.60 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
@@ -3056,7 +4553,11 @@
         "address": "Talsi",
         "area": "2344 m²",
         "price1m2": "6.40 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
@@ -3064,23 +4565,35 @@
         "address": "Talsi",
         "area": "0.30 ha.",
         "price1m2": "5.67 €",
-        "totalPrice": "17,000  €"
+        "totalPrice": "17,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdodas 1 ha apbūves zeme, kas ir sadalīts kā trīs atsevišķi zemes gabaliņi",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "1 ha.",
         "price1m2": "3.05 €",
-        "totalPrice": "30,500  €"
+        "totalPrice": "30,500  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod nekustamo īpašumu \"Gandri\", Žocenē, Talsu novadā. Īpašums nav iekopts",
-        "address": "Rojas pag.Žocene",
+        "address": "Rojas pagasts, Žocene",
         "area": "2658 m²",
         "price1m2": "4.51 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            57.53658815,
+            22.692987359644647
+        ]
     },
     {
         "regio": "talsi",
@@ -3088,31 +4601,47 @@
         "address": "Talsi",
         "area": "27112 m²",
         "price1m2": "2.77 €",
-        "totalPrice": "75,000  €"
+        "totalPrice": "75,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod lauksaimn. zemi 1.2ha un meža z. 2.9ha, nekustamo īpašumu''Ausumi'', ",
-        "address": "Balgales pag.Dursupe",
+        "address": "Balgales pagasts, Dursupe",
         "area": "4.10 ha.",
         "price1m2": "0.498 €",
-        "totalPrice": "20,400  €"
+        "totalPrice": "20,400  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdodu lauku īpašumu uz kura ir šķūnis, malkas šķūnis un pamatu vieta mājas",
-        "address": "Rojas pag.Rude",
+        "address": "Rojas pagasts, Rude",
         "area": "1.88 ha.",
         "price1m2": "0.638 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            57.49464355,
+            22.721886873813318
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdodu īpašumu ar iespēju būvēt mazstāvu ēku - privātmāju. \n\nŠobrīd zemi iz",
-        "address": "Laidzes pag.Laidze",
+        "address": "Laidzes pagasts, Laidze",
         "area": "10000 m²",
         "price1m2": "0.810 €",
-        "totalPrice": "8,100  €"
+        "totalPrice": "8,100  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
@@ -3120,7 +4649,11 @@
         "address": "Talsi",
         "area": "1607 m²",
         "price1m2": "9.96 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
@@ -3128,7 +4661,11 @@
         "address": "Talsi",
         "area": "1345 m²",
         "price1m2": "10.04 €",
-        "totalPrice": "13,500  €"
+        "totalPrice": "13,500  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
@@ -3136,15 +4673,23 @@
         "address": "Talsi",
         "area": "2182 m²",
         "price1m2": "5.96 €",
-        "totalPrice": "13,000  €"
+        "totalPrice": "13,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Tiek pārdots lauku īpašumu ar fantastisku potenciālu netālu no Talsiem. \n\nĪp",
-        "address": "Laidzes pag.Laidze",
+        "address": "Laidzes pagasts, Laidze",
         "area": "4 ha.",
         "price1m2": "0.870 €",
-        "totalPrice": "34,800  €"
+        "totalPrice": "34,800  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
@@ -3152,7 +4697,11 @@
         "address": "Talsi",
         "area": "1131 m²",
         "price1m2": "10.43 €",
-        "totalPrice": "11,800  €"
+        "totalPrice": "11,800  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
@@ -3160,47 +4709,71 @@
         "address": "Talsi",
         "area": "2 ha.",
         "price1m2": "1.10 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Ir nobrauktuve no asfaltēta P127 ceļa, zemesgabals novietots 200m no ceļa P1",
-        "address": "Mērsraga pag.Upesgrīva",
+        "address": "Mērsraga pagasts, Upesgrīva",
         "area": "5000 m²",
         "price1m2": "2.40 €",
-        "totalPrice": "12,000  €"
+        "totalPrice": "12,000  €",
+        "coord": [
+            57.3803922,
+            23.0238834
+        ]
     },
     {
         "regio": "talsi",
         "descr": "1.01 hektara liels (200 x 50 m), sauss, gaišs, līdzens zemes gabals, 800 met",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "1 ha.",
         "price1m2": "2.35 €",
-        "totalPrice": "23,450  €"
+        "totalPrice": "23,450  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "4263m2 plaša apbūves zeme Mērsragā. Laba vieta kempinga vai viesu nama būvni",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "4263 m²",
         "price1m2": "5.75 €",
-        "totalPrice": "24,500  €"
+        "totalPrice": "24,500  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod apbūves zemes gabalu labā vietā Mērsragā. Labi kaimiņi, līdz jūrai ap",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "4373 m²",
         "price1m2": "4.01 €",
-        "totalPrice": "17,550  €"
+        "totalPrice": "17,550  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Apbūves gabals Valgalciemā. Privātmāju būvniecībai. Klusā vietā mežu ielokā.",
-        "address": "Rojas pag.Valgalciems",
+        "address": "Rojas pagasts, Valgalciems",
         "area": "2600 m²",
         "price1m2": "5.77 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.4099946,
+            22.948553966144214
+        ]
     },
     {
         "regio": "talsi",
@@ -3208,39 +4781,59 @@
         "address": "Sabile",
         "area": "3715 m²",
         "price1m2": "2.29 €",
-        "totalPrice": "8,500  €"
+        "totalPrice": "8,500  €",
+        "coord": [
+            57.0482993,
+            22.5710898
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Apbūves zemes gabals privātmāju būvniecībai 0, 62h. Zemes gabals atrodas 300",
-        "address": "Rojas pag.Valgalciems",
+        "address": "Rojas pagasts, Valgalciems",
         "area": "6200 m²",
         "price1m2": "5 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            57.4099946,
+            22.948553966144214
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Labdien, \n\nPārdodam skaistu zemes gabalu ar mežu kopā. \n\nPrivātmājas celtnie",
-        "address": "Rojas pag.Kaltene",
+        "address": "Rojas pagasts, Kaltene",
         "area": "13700 m²",
         "price1m2": "3.65 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            57.4586111,
+            22.8830556
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod īpašumu Mērsragā, Ezera ielā. Īpašumā ir zemes gabals 3601 kv. m. pla",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "3601 m²",
         "price1m2": "6.94 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod 1, 0 ha lielu zemesgabalu Čumalezera krastā, Talsu Paugurai",
-        "address": "Lībagu pag.",
+        "address": "Lībagu pagasts, ",
         "area": "1 ha.",
         "price1m2": "2.60 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
@@ -3248,112 +4841,167 @@
         "address": "Talsi",
         "area": "3067 m²",
         "price1m2": "6.85 €",
-        "totalPrice": "21,000  €"
+        "totalPrice": "21,000  €",
+        "coord": [
+            57.2451926,
+            22.5903003
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod. Vienstāva dzīvojamā māja (78 m2) ar šķūni (46 m2) un kūti ",
-        "address": "Laucienes pag.Lauciene",
+        "address": "Laucienes pagasts, Lauciene",
         "area": "2 ha.",
         "price1m2": "0.975 €",
-        "totalPrice": "19,500  €"
+        "totalPrice": "19,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Samaksa var būt pa daļām, Ezera krasta līnija gar īpašumu\n\nJūra 2, 5 km. Jūr",
-        "address": "Mērsraga pag.Upesgrīva",
+        "address": "Mērsraga pagasts, Upesgrīva",
         "area": "2500 m²",
         "price1m2": "3.96 €",
-        "totalPrice": "9,900  €"
+        "totalPrice": "9,900  €",
+        "coord": [
+            57.3803922,
+            23.0238834
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Privātās apbūves zemes gabals 2, 77 ha, klusā, skaistā vietā, divi lieli dīķ",
-        "address": "Ģibuļu pag.Turkmuiža",
+        "address": "Ģibuļu pagasts, Turkmuiža",
         "area": "2.77 ha.",
         "price1m2": "2.49 €",
-        "totalPrice": "69,000  €"
+        "totalPrice": "69,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod zemi, klusā vietā, Mērsragā. Zemes gabals paredzēts privātmājas celtn",
-        "address": "Mērsraga pag.Mērsrags",
+        "address": "Mērsraga pagasts, Mērsrags",
         "area": "5000 m²",
         "price1m2": "4 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            57.3335454,
+            23.1286096
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Tiek pārdots zemes gabals privātmājas būvniecībai. Bez komunikācijām. \n\nCena",
-        "address": "Ģibuļu pag.Talsciems",
+        "address": "Ģibuļu pagasts, Talsciems",
         "area": "1721 m²",
         "price1m2": "6.10 €",
-        "totalPrice": "10,500  €"
+        "totalPrice": "10,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "9, 8ha plaša apbūves zeme ainaviski skaistā vietā Talsu novada Lībagu pagast",
-        "address": "Lībagu pag.Lībagi",
+        "address": "Lībagu pagasts, Lībagi",
         "area": "10 ha.",
         "price1m2": "0.499 €",
-        "totalPrice": "49,900  €"
+        "totalPrice": "49,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod nekustamo īpašumu \"Zemtenes 2\" Lībiešu krasta ciematā Saunagā. Nekust",
-        "address": "Kolkas pag.Saunags",
+        "address": "Kolkas pagasts, Saunags",
         "area": "52572 m²",
         "price1m2": "2.28 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod divus zemes īpašumus (2, 2 ha un 3 ha), kas robežojas ar Ba",
-        "address": "Kolkas pag.Vaide",
+        "address": "Kolkas pagasts, Vaide",
         "area": "52000 m²",
         "price1m2": "5 €",
-        "totalPrice": "260,000  €"
+        "totalPrice": "260,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod lauksaimniecības zemi un pļavas, uz zemes atrodas šķūnis. \n\nKopējā pl",
-        "address": "Lībagu pag.Dižstende",
+        "address": "Lībagu pagasts, Dižstende",
         "area": "8 ha.",
         "price1m2": "0.700 €",
-        "totalPrice": "56,000  €"
+        "totalPrice": "56,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Pārdod zemes īpašumu ar kopējo platību 3, 79 ha Mazirbē, pirmajā līnijā no j",
-        "address": "Kolkas pag.Mazirbe",
+        "address": "Kolkas pagasts, Mazirbe",
         "area": "37947 m²",
         "price1m2": "4.45 €",
-        "totalPrice": "169,000  €"
+        "totalPrice": "169,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
-        "address": "Ģibuļu pag.Kraujas",
+        "address": "Ģibuļu pagasts, Kraujas",
         "area": "5.80 ha.",
         "price1m2": "0.500 €",
-        "totalPrice": "29,000  €"
+        "totalPrice": "29,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "talsi",
         "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Pašlai",
-        "address": "Ģibuļu pag.Kraujas",
+        "address": "Ģibuļu pagasts, Kraujas",
         "area": "7.56 ha.",
         "price1m2": "0.500 €",
-        "totalPrice": "37,800  €"
-    }
-,
+        "totalPrice": "37,800  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "tukums",
         "descr": "Cenu var vienoties. \n\nPārdod brīnišķīgu zemi 1617 m2, kas piemērota apstrāde",
         "address": "Kandava",
         "area": "1617 m²",
         "price1m2": "13.61 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            57.04088,
+            22.7742131
+        ]
     },
     {
         "regio": "tukums",
@@ -3361,7 +5009,11 @@
         "address": "Lapmežciems",
         "area": "3286 m²",
         "price1m2": "11.87 €",
-        "totalPrice": "39,000  €"
+        "totalPrice": "39,000  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
@@ -3369,15 +5021,23 @@
         "address": "Tukums",
         "area": "6000 m²",
         "price1m2": "4.17 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            56.9669816,
+            23.1524528
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdodu nekustamo īpašumu, kurš ir 1, 5ha liels. Blakus elektrība un labs, a",
-        "address": "Irlavas pag.Vaski",
+        "address": "Irlavas pagasts, Vaski",
         "area": "15000 m²",
         "price1m2": "1 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3385,31 +5045,47 @@
         "address": "Ragaciems",
         "area": "1878 m²",
         "price1m2": "20.23 €",
-        "totalPrice": "38,000  €"
+        "totalPrice": "38,000  €",
+        "coord": [
+            57.024463350000005,
+            23.489929209093702
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod apbūves gabalu Lejas Legzdiņos (Smārdes pag. Tukuma nov. ) Platība 0,",
-        "address": "Smārdes pag.Smārde",
+        "address": "Smārdes pagasts, Smārde",
         "area": "3546 m²",
         "price1m2": "7.90 €",
-        "totalPrice": "28,000  €"
+        "totalPrice": "28,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdošanā zeme strauji augošā ciematā Ķesterciems. Ciems plešas un drīz piej",
-        "address": "Engures pag.Ķesterciems",
+        "address": "Engures pagasts, Ķesterciems",
         "area": "3 ha.",
         "price1m2": "1.67 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Īpašums pašā Kandavas pilsētas pievārtē, kalnā. Iespēja izveidot ūdenstilpni",
-        "address": "Kandavas pag.",
+        "address": "Kandavas pagasts, ",
         "area": "5 ha.",
         "price1m2": "0.990 €",
-        "totalPrice": "49,500  €"
+        "totalPrice": "49,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3417,23 +5093,35 @@
         "address": "Lapmežciems",
         "area": "2219 m²",
         "price1m2": "14.87 €",
-        "totalPrice": "33,000  €"
+        "totalPrice": "33,000  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Īpašnieks pārdod skaistu zemes gabalu viensētas būvēšanai. \n\nZem šīs zemes a",
-        "address": "Jaunpils pag.Veclauki",
+        "address": "Jaunpils pagasts, Veclauki",
         "area": "4 ha.",
         "price1m2": "0.750 €",
-        "totalPrice": "30,000  €"
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Īpašnieks pārdod skaistu zemes gabalu viensētas būvēšanai. \n\nZem šīs zemes a",
-        "address": "Jaunpils pag.Veclauki",
+        "address": "Jaunpils pagasts, Veclauki",
         "area": "4 ha.",
         "price1m2": "0.575 €",
-        "totalPrice": "23,000  €"
+        "totalPrice": "23,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3441,23 +5129,35 @@
         "address": "Lapmežciems",
         "area": "5480 m²",
         "price1m2": "6 €",
-        "totalPrice": "32,880  €"
+        "totalPrice": "32,880  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdodas perspektīvs īpašums. \n\nĪpašuma platība 4 hektāri. \n\n\n\nĻoti perspekt",
-        "address": "Slampes pag.Slampe",
+        "address": "Slampes pagasts, Slampe",
         "area": "4 ha.",
         "price1m2": "0.500 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod apbūves gabalu Milzkalnē, platība 2672 m2, plānā Nr. 2 . Ainaviska vi",
-        "address": "Smārdes pag.Milzkalne",
+        "address": "Smārdes pagasts, Milzkalne",
         "area": "2672 m²",
         "price1m2": "10 €",
-        "totalPrice": "26,720  €"
+        "totalPrice": "26,720  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3465,47 +5165,71 @@
         "address": "Bigauņciems",
         "area": "10000 m²",
         "price1m2": "5 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            56.98667675,
+            23.534573236126953
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Īpašums atrodas Sloka-Talsi ceļa malā nepilna kilometra attālumā no jūras. E",
-        "address": "Engures pag.Plieņciems",
+        "address": "Engures pagasts, Plieņciems",
         "area": "3580 m²",
         "price1m2": "12.57 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Tiek pārdots zemes gabals netālu no Tukuma, Sēmes pagastā. Zemes gabala kopp",
-        "address": "Sēmes pag.",
+        "address": "Sēmes pagasts, ",
         "area": "4 ha.",
         "price1m2": "1.13 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdodam zemi 1.2 ha Smārdes pagasta centrā. \n\nIdeāla vieta privātmājas būvn",
-        "address": "Smārdes pag.Smārde",
+        "address": "Smārdes pagasts, Smārde",
         "area": "1.20 ha.",
         "price1m2": "2.08 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod īpašumu \"Dreimaņi\", sastāv no diviem zemes gabaliem ( 67, 8 ha ar kad",
-        "address": "Viesatu pag.",
+        "address": "Viesatu pagasts, ",
         "area": "72 ha.",
         "price1m2": "0.415 €",
-        "totalPrice": "299,000  €"
+        "totalPrice": "299,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdodu zemes gabalu Tumes centrā. Ir iespēja pieslēgties visām pilsētas kom",
-        "address": "Tumes pag.Tume",
+        "address": "Tumes pagasts, Tume",
         "area": "4076 m²",
         "price1m2": "5.52 €",
-        "totalPrice": "22,500  €"
+        "totalPrice": "22,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3513,23 +5237,35 @@
         "address": "Lapmežciems",
         "area": "5300 m²",
         "price1m2": "12.64 €",
-        "totalPrice": "67,000  €"
+        "totalPrice": "67,000  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Zemes gabals atrodas Engures ciemā. Piemērots vienas vai vai vairāku savrupm",
-        "address": "Engures pag.Engure",
+        "address": "Engures pagasts, Engure",
         "area": "7300 m²",
         "price1m2": "6.85 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod zemi Ķesterciemā privātai apbūvei. Īpašums robežojas ar autoceļu Rīga",
-        "address": "Engures pag.Ķesterciems",
+        "address": "Engures pagasts, Ķesterciems",
         "area": "7606 m²",
         "price1m2": "6.57 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3537,15 +5273,23 @@
         "address": "Bigauņciems",
         "area": "5039 m²",
         "price1m2": "7.74 €",
-        "totalPrice": "39,000  €"
+        "totalPrice": "39,000  €",
+        "coord": [
+            56.98667675,
+            23.534573236126953
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pardodas lauksaimniecības zeme \"Saliņas\" 17, 6 ha (1 ha mežs) ļoti labā viet",
-        "address": "Viesatu pag.Viesatas",
+        "address": "Viesatu pagasts, Viesatas",
         "area": "18 ha.",
         "price1m2": "0.397 €",
-        "totalPrice": "71,500  €"
+        "totalPrice": "71,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3553,7 +5297,11 @@
         "address": "Bigauņciems",
         "area": "2721 m²",
         "price1m2": "22.60 €",
-        "totalPrice": "61,500  €"
+        "totalPrice": "61,500  €",
+        "coord": [
+            56.98667675,
+            23.534573236126953
+        ]
     },
     {
         "regio": "tukums",
@@ -3561,7 +5309,11 @@
         "address": "Antiņciems",
         "area": "6100 m²",
         "price1m2": "1.64 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            56.9766063,
+            23.4632517
+        ]
     },
     {
         "regio": "tukums",
@@ -3569,15 +5321,23 @@
         "address": "Antiņciems",
         "area": "20610 m²",
         "price1m2": "0.728 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            56.9766063,
+            23.4632517
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod zemi, kur ir izbūvēta elektrība, pilsētas ūdens un kanalizācija, pieb",
-        "address": "Smārdes pag.Smārde",
+        "address": "Smārdes pagasts, Smārde",
         "area": "1800 m²",
         "price1m2": "13.89 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3585,15 +5345,23 @@
         "address": "Tukums",
         "area": "1507 m²",
         "price1m2": "9.22 €",
-        "totalPrice": "13,900  €"
+        "totalPrice": "13,900  €",
+        "coord": [
+            56.9669816,
+            23.1524528
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Ezera krasta līnija gar īpašumu , Samaksa var būt pa daļām, pirmā iemaksa 30",
-        "address": "Engures pag.Bērzciems",
+        "address": "Engures pagasts, Bērzciems",
         "area": "2500 m²",
         "price1m2": "3.96 €",
-        "totalPrice": "9,900  €"
+        "totalPrice": "9,900  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3601,23 +5369,35 @@
         "address": "Lapmežciems",
         "area": "2 ha.",
         "price1m2": "2.98 €",
-        "totalPrice": "59,500  €"
+        "totalPrice": "59,500  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Apšuciema tuvumā, tikai kilometra attālumā no jūras, atrodas gleznains 2593 ",
-        "address": "Engures pag.Apšuciems",
+        "address": "Engures pagasts, Apšuciems",
         "area": "2593 m²",
         "price1m2": "13.50 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Īpašnieks pārdod skaistu un perspektīvu īpašumu Vānes ciemā, ar ezeru. \n\n\n\nI",
-        "address": "Vānes pag.Vāne",
+        "address": "Vānes pagasts, Vāne",
         "area": "17 ha.",
         "price1m2": "0.706 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
@@ -3625,7 +5405,11 @@
         "address": "Lapmežciems",
         "area": "3173 m²",
         "price1m2": "12.61 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
@@ -3633,40 +5417,59 @@
         "address": "Lapmežciems",
         "area": "2612 m²",
         "price1m2": "12.63 €",
-        "totalPrice": "33,000  €"
+        "totalPrice": "33,000  €",
+        "coord": [
+            57.0046021,
+            23.5142972
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pie jūras. Zemes gabali Plieņciemā, Budu ielā ar elektrokomunikācijām. \n\nIes",
-        "address": "Engures pag.Plieņciems",
+        "address": "Engures pagasts, Plieņciems",
         "area": "2500 m²",
         "price1m2": "14.50 €",
-        "totalPrice": "36,250  €"
+        "totalPrice": "36,250  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdodam lielisku zemes gabalu un investīciju objektu Kandavas pagastā, Abav",
-        "address": "Kandavas pag.",
+        "address": "Kandavas pagasts, ",
         "area": "5 ha.",
         "price1m2": "0.800 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "tukums",
         "descr": "Pārdod īpašumu\n\nkopējā platība 14, 3 ha\n\n\n\nIr iespēja iegūt kokmatreālus un ",
-        "address": "Zantes pag.",
+        "address": "Zantes pagasts, ",
         "area": "14 ha.",
         "price1m2": "0.214 €",
-        "totalPrice": "30,000  €"
-    }
-,
+        "totalPrice": "30,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "valka",
         "descr": "Pārdod nekustamo īpašumu \"Līgas\", Smiltenes pag. , Smiltenes nov. \n\n\n\nPlatīb",
-        "address": "Smiltenes pag.",
+        "address": "Smiltenes pagasts, ",
         "area": "12 ha.",
         "price1m2": "0.792 €",
-        "totalPrice": "95,000  €"
+        "totalPrice": "95,000  €",
+        "coord": [
+            57.455753,
+            25.894179994257655
+        ]
     },
     {
         "regio": "valka",
@@ -3674,23 +5477,35 @@
         "address": "Seda",
         "area": "2293 m²",
         "price1m2": "1.70 €",
-        "totalPrice": "3,900  €"
+        "totalPrice": "3,900  €",
+        "coord": [
+            56.1672193,
+            22.0933008
+        ]
     },
     {
         "regio": "valka",
         "descr": "Pārdod lauksaimniecības zemes gabalu ar mežu 28.3 ha platībā Smiltenes novad",
-        "address": "Brantu pag.",
+        "address": "Brantu pagasts, ",
         "area": "28 ha.",
         "price1m2": "0.554 €",
-        "totalPrice": "155,000  €"
+        "totalPrice": "155,000  €",
+        "coord": [
+            57.37037415,
+            25.800642408313593
+        ]
     },
     {
         "regio": "valka",
         "descr": "Pārdod zemes gabalu Saltupos Nr. 227 ar kopējo platību 628 kv. m. Uz īpašuma",
-        "address": "Launkalnes pag.Saltupi",
+        "address": "Launkalnes pagasts, Saltupi",
         "area": "628 m²",
         "price1m2": "8.50 €",
-        "totalPrice": "5,338  €"
+        "totalPrice": "5,338  €",
+        "coord": [
+            57.4224093,
+            25.937476
+        ]
     },
     {
         "regio": "valka",
@@ -3698,23 +5513,35 @@
         "address": "Strenči",
         "area": "1007 m²",
         "price1m2": "1.69 €",
-        "totalPrice": "1,700  €"
+        "totalPrice": "1,700  €",
+        "coord": [
+            57.6278347,
+            25.6859132
+        ]
     },
     {
         "regio": "valka",
         "descr": "Pārdod lauksaimniecības zemi Smiltenes novadā. \n\n\n\nAtrodas Smiltene - Gulben",
-        "address": "Variņu pag.",
+        "address": "Variņu pagasts, ",
         "area": "9 ha.",
         "price1m2": "0.267 €",
-        "totalPrice": "24,000  €"
+        "totalPrice": "24,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valka",
         "descr": "Skaista vieta, pie pašas upes. Sīkāk zvanot.",
-        "address": "Launkalnes pag.Saltupi",
+        "address": "Launkalnes pagasts, Saltupi",
         "area": "800 m²",
         "price1m2": "12.50 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            57.4224093,
+            25.937476
+        ]
     },
     {
         "regio": "valka",
@@ -3722,7 +5549,11 @@
         "address": "Strenči",
         "area": "3600 m²",
         "price1m2": "2 €",
-        "totalPrice": "7,200  €"
+        "totalPrice": "7,200  €",
+        "coord": [
+            57.6278347,
+            25.6859132
+        ]
     },
     {
         "regio": "valka",
@@ -3730,7 +5561,11 @@
         "address": "Smiltene",
         "area": "2454 m²",
         "price1m2": "28.52 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            57.4243197,
+            25.9045413
+        ]
     },
     {
         "regio": "valka",
@@ -3738,7 +5573,11 @@
         "address": "Smiltene",
         "area": "3336 m²",
         "price1m2": "5 €",
-        "totalPrice": "16,680  €"
+        "totalPrice": "16,680  €",
+        "coord": [
+            57.4243197,
+            25.9045413
+        ]
     },
     {
         "regio": "valka",
@@ -3746,32 +5585,47 @@
         "address": "Strenči",
         "area": "1796 m²",
         "price1m2": "8.91 €",
-        "totalPrice": "16,000  €"
+        "totalPrice": "16,000  €",
+        "coord": [
+            57.6278347,
+            25.6859132
+        ]
     },
     {
         "regio": "valka",
         "descr": "Pārdodu ļoti skaistu īpašumu Brantos. Piemērots privātmājas būvniecībai, vas",
-        "address": "Brantu pag.Branti",
+        "address": "Brantu pagasts, Branti",
         "area": "22 ha.",
         "price1m2": "0.727 €",
-        "totalPrice": "160,000  €"
+        "totalPrice": "160,000  €",
+        "coord": [
+            57.3602778,
+            25.7397222
+        ]
     },
     {
         "regio": "valka",
         "descr": "Pārdod lauksaimniecības zemi, īpašums „Lauka Kalējiņi”, Smiltenes novada Pal",
-        "address": "Palsmanes pag.Palsmane",
+        "address": "Palsmanes pagasts, Palsmane",
         "area": "7.20 ha.",
         "price1m2": "0.340 €",
-        "totalPrice": "24,500  €"
-    }
-,
+        "totalPrice": "24,500  €",
+        "coord": [
+            57.38954085,
+            26.185423989616083
+        ]
+    },
     {
         "regio": "valmiera",
         "descr": "Pārdodu rūpnieciskās apbūves teritoriju un ēku visdažādākām uzņēmējdarbības ",
         "address": "Valmiera",
         "area": "8600 m²",
         "price1m2": "7.56 €",
-        "totalPrice": "65,000  €"
+        "totalPrice": "65,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
@@ -3779,7 +5633,11 @@
         "address": "Valmiera",
         "area": "2 ha.",
         "price1m2": "7.50 €",
-        "totalPrice": "150,000  €"
+        "totalPrice": "150,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
@@ -3787,31 +5645,47 @@
         "address": "Mazsalaca",
         "area": "5674 m²",
         "price1m2": "1.70 €",
-        "totalPrice": "9,650  €"
+        "totalPrice": "9,650  €",
+        "coord": [
+            57.8660745,
+            25.051106
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod lauksaimniecībā izmantojamu zemi. Vairāk par īpašumiem skatīt: zemete",
-        "address": "Valmieras pag.",
+        "address": "Valmieras pagasts, ",
         "area": "3.50 ha.",
         "price1m2": "0.331 €",
-        "totalPrice": "11,600  €"
+        "totalPrice": "11,600  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Zemes gabala kopējā platība 2 500 kv. m. Zemes lietošanas mērķis - individuā",
-        "address": "Valmieras pag.Pilāti",
+        "address": "Valmieras pagasts, Pilāti",
         "area": "2500 m²",
         "price1m2": "7.12 €",
-        "totalPrice": "17,800  €"
+        "totalPrice": "17,800  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Zemesgabals privātmājas būvniecībai, vasarnīcai, vai dārza iekopšanai. Zemes",
-        "address": "Valmieras pag.",
+        "address": "Valmieras pagasts, ",
         "area": "621 m²",
         "price1m2": "18.04 €",
-        "totalPrice": "11,200  €"
+        "totalPrice": "11,200  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
@@ -3819,15 +5693,23 @@
         "address": "-",
         "area": "67589 m²",
         "price1m2": "1.78 €",
-        "totalPrice": "120,000  €"
+        "totalPrice": "120,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Īpašnieks pārdod zemesgabalu, privātai apbūvei Krasta iela 18, Valmieras pag",
-        "address": "Valmieras pag.Valmiermuiža",
+        "address": "Valmieras pagasts, Valmiermuiža",
         "area": "1721 m²",
         "price1m2": "11.33 €",
-        "totalPrice": "19,500  €"
+        "totalPrice": "19,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
@@ -3835,23 +5717,35 @@
         "address": "Valmiera",
         "area": "11903 m²",
         "price1m2": "9.91 €",
-        "totalPrice": "118,000  €"
+        "totalPrice": "118,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod lauksaimniecības zemi bez apgrūtinājumiem. 0.63ha ir 20 gadīgu bērzu ",
-        "address": "Brenguļu pag.",
+        "address": "Brenguļu pagasts, ",
         "area": "2 ha.",
         "price1m2": "0.385 €",
-        "totalPrice": "7,700  €"
+        "totalPrice": "7,700  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Īpašums uzreiz iebraucot Vaidavā, labajā pusē, lūdzu zvaniet, ja ir interese",
-        "address": "Vaidavas pag.Vaidava",
+        "address": "Vaidavas pagasts, Vaidava",
         "area": "3 ha.",
         "price1m2": "1.67 €",
-        "totalPrice": "50,000  €"
+        "totalPrice": "50,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
@@ -3859,55 +5753,83 @@
         "address": "Valmiera",
         "area": "1223 m²",
         "price1m2": "20.44 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemi Kocēnu pagastā, Valmieras pilsētas pierobežā. Zemes gabals atrod",
-        "address": "Kocēnu pag.Kocēni",
+        "address": "Kocēnu pagasts, Kocēni",
         "area": "17000 m²",
         "price1m2": "2.24 €",
-        "totalPrice": "38,000  €"
+        "totalPrice": "38,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Ipašņieks pārdod. Zeme paredzēta gan lauksaimniecībai gan apbūvei. \n\nPar aps",
-        "address": "Brenguļu pag.",
+        "address": "Brenguļu pagasts, ",
         "area": "11 ha.",
         "price1m2": "0.355 €",
-        "totalPrice": "39,000  €"
+        "totalPrice": "39,000  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemi pie Valmieras, ļoti skaistā vietā, Lejaspilātos. Tuvu pilsētai, ",
-        "address": "Valmieras pag.Pilāti",
+        "address": "Valmieras pagasts, Pilāti",
         "area": "1.38 ha.",
         "price1m2": "4.35 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod divus zemes gabalus Valmieras novadā. Ar kadastra apzīmējumiem, kas b",
-        "address": "Dikļu pag.",
+        "address": "Dikļu pagasts, ",
         "area": "3.80 ha.",
         "price1m2": "1.18 €",
-        "totalPrice": "45,000  €"
+        "totalPrice": "45,000  €",
+        "coord": [
+            56.9233785,
+            24.0373808
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemi 24 500 m2 privātmājas būvniecībai ir elektrības pieslēgums, kada",
-        "address": "Burtnieku pag.",
+        "address": "Burtnieku pagasts, ",
         "area": "2.45 ha.",
         "price1m2": "0.449 €",
-        "totalPrice": "11,000  €"
+        "totalPrice": "11,000  €",
+        "coord": [
+            56.9183188,
+            24.3619677
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Zeme Matīšos pašlaik 1, 46 ha sētais zālājs, uz zemes vēsturiski atrodas Mat",
-        "address": "Matīšu pag.Matīši",
+        "address": "Matīšu pagasts, Matīši",
         "area": "4.46 ha.",
         "price1m2": "0.404 €",
-        "totalPrice": "18,000  €"
+        "totalPrice": "18,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
@@ -3915,15 +5837,23 @@
         "address": "Valmiera",
         "area": "1200 m²",
         "price1m2": "65 €",
-        "totalPrice": "78,000  €"
+        "totalPrice": "78,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Apbūves iespējas Mūrmuižā. \n\n\n\nIzdevīgs piedāvājums attīstītā ārpus Valmiera",
-        "address": "Kauguru pag.Mūrmuiža",
+        "address": "Kauguru pagasts, Mūrmuiža",
         "area": "7891 m²",
         "price1m2": "6.97 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            57.469265,
+            25.49764407074938
+        ]
     },
     {
         "regio": "valmiera",
@@ -3931,23 +5861,35 @@
         "address": "Valmiera",
         "area": "965 m²",
         "price1m2": "24.87 €",
-        "totalPrice": "24,000  €"
+        "totalPrice": "24,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Īpašnieks pārdod zemes gabalu. Objekts atrodas Burtnieku pagasta mazdārziņu ",
-        "address": "Burtnieku pag.",
+        "address": "Burtnieku pagasts, ",
         "area": "605 m²",
         "price1m2": "3.06 €",
-        "totalPrice": "1,850  €"
+        "totalPrice": "1,850  €",
+        "coord": [
+            56.9183188,
+            24.3619677
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemes īpašumu 8.4 ha platībā Skaņkalnes pagastā. Īpašums atrodas aina",
-        "address": "Skaņkalnes pag.",
+        "address": "Skaņkalnes pagasts, ",
         "area": "8 ha.",
         "price1m2": "0.688 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
@@ -3955,15 +5897,23 @@
         "address": "-",
         "area": "1.70 ha.",
         "price1m2": "0.588 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod lauksaimniecības zemi bez apgrūtinājumiem. 0.63ha ir bērzu audze un 1",
-        "address": "Brenguļu pag.",
+        "address": "Brenguļu pagasts, ",
         "area": "2 ha.",
         "price1m2": "0.390 €",
-        "totalPrice": "7,800  €"
+        "totalPrice": "7,800  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
@@ -3971,39 +5921,59 @@
         "address": "Valmiera",
         "area": "1157 m²",
         "price1m2": "25.06 €",
-        "totalPrice": "29,000  €"
+        "totalPrice": "29,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Mūrmuižas ciematā viens no pēdējiem brīvajiem zemes gabaliem pie ūdenskrātuv",
-        "address": "Kauguru pag.Mūrmuiža",
+        "address": "Kauguru pagasts, Mūrmuiža",
         "area": "2793 m²",
         "price1m2": "14.32 €",
-        "totalPrice": "40,000  €"
+        "totalPrice": "40,000  €",
+        "coord": [
+            57.469265,
+            25.49764407074938
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemes gabalu pie labiekārtotā ciemata “Pīlāti\". \n\n\n\nJauna un perspekt",
-        "address": "Valmieras pag.Pilāti",
+        "address": "Valmieras pagasts, Pilāti",
         "area": "1228 m²",
         "price1m2": "12.50 €",
-        "totalPrice": "15,350  €"
+        "totalPrice": "15,350  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod apbūves zemesgabalu pie labiekārtotā ciemata “Pīlāti\". \n\n\n\nJauna un p",
-        "address": "Valmieras pag.Pilāti",
+        "address": "Valmieras pagasts, Pilāti",
         "area": "1644 m²",
         "price1m2": "12.50 €",
-        "totalPrice": "20,550  €"
+        "totalPrice": "20,550  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Nekustamais īpašums bez apgrūtinājumiem. \n\n\n\nIzbūvēta atsevišķa iebrauktuve.",
-        "address": "Brenguļu pag.",
+        "address": "Brenguļu pagasts, ",
         "area": "1.41 ha.",
         "price1m2": "1.49 €",
-        "totalPrice": "21,000  €"
+        "totalPrice": "21,000  €",
+        "coord": [
+            57.53114185,
+            25.56559862220528
+        ]
     },
     {
         "regio": "valmiera",
@@ -4011,7 +5981,11 @@
         "address": "Valmiera",
         "area": "2326 m²",
         "price1m2": "33.96 €",
-        "totalPrice": "79,000  €"
+        "totalPrice": "79,000  €",
+        "coord": [
+            57.5389148,
+            25.4261688
+        ]
     },
     {
         "regio": "valmiera",
@@ -4019,56 +5993,83 @@
         "address": "Rūjiena",
         "area": "1845 m²",
         "price1m2": "2.65 €",
-        "totalPrice": "4,888  €"
+        "totalPrice": "4,888  €",
+        "coord": [
+            57.8973517,
+            25.3261273
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod īpašumu Valmieras novadā, Kauguru pagastā. \n\n\n\nĪpašums sastāv no 4 ze",
-        "address": "Kauguru pag.",
+        "address": "Kauguru pagasts, ",
         "area": "9.48 ha.",
         "price1m2": "0.580 €",
-        "totalPrice": "55,000  €"
+        "totalPrice": "55,000  €",
+        "coord": [
+            57.490038600000005,
+            25.45926703304081
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod īpašumu Mazkalniņi Burtnieku pagastā. Īpašums atrodas Burtnieka ezera",
-        "address": "Burtnieku pag.Burtnieki",
+        "address": "Burtnieku pagasts, Burtnieki",
         "area": "1 ha.",
         "price1m2": "1 €",
-        "totalPrice": "10,000  €"
+        "totalPrice": "10,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Īpašums Lielā Bauža ezera krastā. \n\n\n\nZemes vienība ar tam piederošo 1.6 ha ",
-        "address": "Vaidavas pag.",
+        "address": "Vaidavas pagasts, ",
         "area": "6 ha.",
         "price1m2": "1.33 €",
-        "totalPrice": "80,000  €"
+        "totalPrice": "80,000  €",
+        "coord": [
+            56.73673655,
+            24.37207235
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Pārdod zemes gabalu pie Burtnieka ezera ar pieeju ezeram.",
-        "address": "Matīšu pag.",
+        "address": "Matīšu pagasts, ",
         "area": "8000 m²",
         "price1m2": "6.13 €",
-        "totalPrice": "49,000  €"
+        "totalPrice": "49,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "valmiera",
         "descr": "Īpašums 14 minūšu attālumā no Valmieras. \n\n\n\nApbūves iespējas Vaidavā netālu",
-        "address": "Vaidavas pag.Vaidava",
+        "address": "Vaidavas pagasts, Vaidava",
         "area": "1794 m²",
         "price1m2": "8.92 €",
-        "totalPrice": "16,000  €"
-    }
-,
+        "totalPrice": "16,000  €",
+        "coord": [
+            0,
+            0
+        ]
+    },
     {
         "regio": "ventspils",
         "descr": "Pārdod apbūves zemes gabalu mājas būvniecībai Gāliņciema rajonā. Pievilkts p",
         "address": "Ventspils",
         "area": "933 m²",
         "price1m2": "14.47 €",
-        "totalPrice": "13,500  €"
+        "totalPrice": "13,500  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4076,7 +6077,11 @@
         "address": "Ventspils",
         "area": "4295 m²",
         "price1m2": "5.82 €",
-        "totalPrice": "25,000  €"
+        "totalPrice": "25,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4084,7 +6089,11 @@
         "address": "Ventspils",
         "area": "2092 m²",
         "price1m2": "5.50 €",
-        "totalPrice": "11,500  €"
+        "totalPrice": "11,500  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4092,7 +6101,11 @@
         "address": "Ventspils",
         "area": "2842 m²",
         "price1m2": "4.86 €",
-        "totalPrice": "13,800  €"
+        "totalPrice": "13,800  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4100,39 +6113,59 @@
         "address": "Ventspils",
         "area": "2687 m²",
         "price1m2": "5.02 €",
-        "totalPrice": "13,500  €"
+        "totalPrice": "13,500  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Uz zemes gabala ir māja 145 kv. m. , ezera krasts - fantastisks skats, 1/3 s",
-        "address": "Usmas pag.Usma",
+        "address": "Usmas pagasts, Usma",
         "area": "2100 m²",
         "price1m2": "22.29 €",
-        "totalPrice": "46,800  €"
+        "totalPrice": "46,800  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Pārdodu īpašumu Miķeļtorņa ciemā - zemes gabals atrodas dabas lieguma terito",
-        "address": "Tārgales pag.Miķeļtornis",
+        "address": "Tārgales pagasts, Miķeļtornis",
         "area": "1 ha.",
         "price1m2": "7 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "2, 06ha apbūves zeme skaistā un klusā priežu meža ielokā - vietā, kur Irbes ",
-        "address": "Tārgales pag.Jaunciems",
+        "address": "Tārgales pagasts, Jaunciems",
         "area": "2 ha.",
         "price1m2": "2.30 €",
-        "totalPrice": "46,000  €"
+        "totalPrice": "46,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Ekskluzīvs \"Jaunluksti\" zemesgabals pie Usmas, ļoti skaistā vietā, pie Tiruk",
-        "address": "Usmas pag.Usma",
+        "address": "Usmas pagasts, Usma",
         "area": "5 ha.",
         "price1m2": "0.880 €",
-        "totalPrice": "44,000  €"
+        "totalPrice": "44,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4140,7 +6173,11 @@
         "address": "Ventspils",
         "area": "1482 m²",
         "price1m2": "4.72 €",
-        "totalPrice": "7,000  €"
+        "totalPrice": "7,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4148,7 +6185,11 @@
         "address": "Piltenes l. t.Vecmuižciems",
         "area": "7 ha.",
         "price1m2": "0.529 €",
-        "totalPrice": "37,000  €"
+        "totalPrice": "37,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4156,15 +6197,23 @@
         "address": "Ventspils",
         "area": "847 m²",
         "price1m2": "5.90 €",
-        "totalPrice": "5,000  €"
+        "totalPrice": "5,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Pārdod lielisku īpašumu biznesam vai atpūtai 100 metru attālumā no Baltijas ",
-        "address": "Tārgales pag.",
+        "address": "Tārgales pagasts, ",
         "area": "35000 m²",
         "price1m2": "2.71 €",
-        "totalPrice": "95,000  €"
+        "totalPrice": "95,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4172,7 +6221,11 @@
         "address": "Ventspils",
         "area": "9159 m²",
         "price1m2": "1.64 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4180,15 +6233,23 @@
         "address": "Ventspils",
         "area": "1739 m²",
         "price1m2": "8.63 €",
-        "totalPrice": "15,000  €"
+        "totalPrice": "15,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "SIA ’’Novators’’ pārdod apbūves zemi Usmas ezera krastā netālu no Rīga-Vents",
-        "address": "Usmas pag.Usma",
+        "address": "Usmas pagasts, Usma",
         "area": "3 ha.",
         "price1m2": "8.93 €",
-        "totalPrice": "268,000  €"
+        "totalPrice": "268,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4196,7 +6257,11 @@
         "address": "Ventspils",
         "area": "8900 m²",
         "price1m2": "2.47 €",
-        "totalPrice": "22,000  €"
+        "totalPrice": "22,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4204,7 +6269,11 @@
         "address": "Ventspils",
         "area": "19397 m²",
         "price1m2": "1.34 €",
-        "totalPrice": "26,000  €"
+        "totalPrice": "26,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4212,7 +6281,11 @@
         "address": "Ventspils",
         "area": "1119 m²",
         "price1m2": "25 €",
-        "totalPrice": "27,975  €"
+        "totalPrice": "27,975  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4220,15 +6293,23 @@
         "address": "Ventspils",
         "area": "1009 m²",
         "price1m2": "7.53 €",
-        "totalPrice": "7,600  €"
+        "totalPrice": "7,600  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Pārdod zemi Ugālē ar trīs lielu ēku pamatiem un sienu mūru daļām “Grīnieki”.",
-        "address": "Ugāles pag.Ugāle",
+        "address": "Ugāles pagasts, Ugāle",
         "area": "11800 m²",
         "price1m2": "0.720 €",
-        "totalPrice": "8,500  €"
+        "totalPrice": "8,500  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4236,7 +6317,11 @@
         "address": "Ventspils",
         "area": "2 ha.",
         "price1m2": "4.50 €",
-        "totalPrice": "90,000  €"
+        "totalPrice": "90,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4244,15 +6329,23 @@
         "address": "Ventspils",
         "area": "1300 m²",
         "price1m2": "15.38 €",
-        "totalPrice": "20,000  €"
+        "totalPrice": "20,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Lieliska iespēja iegādāties Ekluzivu apbūves gabalu Ventas upes krastā , bla",
-        "address": "Tārgales pag.Standzes ciems",
+        "address": "Tārgales pagasts, Standzes ciems",
         "area": "3.29 ha.",
         "price1m2": "1.82 €",
-        "totalPrice": "60,000  €"
+        "totalPrice": "60,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4260,7 +6353,11 @@
         "address": "Ventspils",
         "area": "939 m²",
         "price1m2": "9.58 €",
-        "totalPrice": "9,000  €"
+        "totalPrice": "9,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4268,15 +6365,23 @@
         "address": "Ventspils",
         "area": "3613 m²",
         "price1m2": "4.57 €",
-        "totalPrice": "16,500  €"
+        "totalPrice": "16,500  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
         "descr": "Pārdod mežu Lūžņas ciemā, Ovīšu dabas lieguma neitrālajā zonā. Saskaņā ar te",
-        "address": "Tārgales pag.Lūžņa",
+        "address": "Tārgales pagasts, Lūžņa",
         "area": "2.40 ha.",
         "price1m2": "1.29 €",
-        "totalPrice": "31,000  €"
+        "totalPrice": "31,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4284,7 +6389,11 @@
         "address": "Ventspils",
         "area": "968 m²",
         "price1m2": "72 €",
-        "totalPrice": "70,000  €"
+        "totalPrice": "70,000  €",
+        "coord": [
+            57.3903918,
+            21.5635991
+        ]
     },
     {
         "regio": "ventspils",
@@ -4292,7 +6401,11 @@
         "address": "Piltenes l. t.",
         "area": "3 ha.",
         "price1m2": "1.17 €",
-        "totalPrice": "35,000  €"
+        "totalPrice": "35,000  €",
+        "coord": [
+            0,
+            0
+        ]
     },
     {
         "regio": "ventspils",
@@ -4300,6 +6413,10 @@
         "address": "Piltenes l. t.Ūdrande",
         "area": "0.26 ha.",
         "price1m2": "0.769 €",
-        "totalPrice": "2,000  €"
+        "totalPrice": "2,000  €",
+        "coord": [
+            0,
+            0
+        ]
     }
 ]

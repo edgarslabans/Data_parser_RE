@@ -9,6 +9,7 @@ import time
 import random
 import csv
 from geopy.geocoders import Nominatim
+
 geolocator = Nominatim(user_agent="sample app")
 
 # ua = UserAgent()
@@ -86,19 +87,36 @@ def findPageNum():
 
 
 def process_json():
-    with open('data.json', encoding='utf8') as a:
-        dict1 = json.load(a)
+    with open('data.json', encoding='utf8') as json_file:
+        dati = json.loads(json_file.read())
 
-        for key in dict1:
-            print(key, ":", dict1[key])
+    n = 0
+
+    for i in range(len(dati)):
+        adrese = dati[i]["address"].replace("pag.", "pagasts, ")
+        dati[i]['address'] = adrese
+        dati[i]['coord'] = geocoder_test(adrese)
+        print(i, adrese, dati[i]["totalPrice"])
+        if dati[i]['coord'][0] == 0:
+            n= n+1
+
+    with open("data2.json", "w", encoding='utf8') as file:
+        json.dump(dati, file, indent=4, ensure_ascii=False)
+
+    print("Total processed: ",len(dati), "coordinate not found: ",n)
 
 
+def geocoder_test(adr):
+    # location = geolocator.geocode("Rīga, Latvija")
+    location = geolocator.geocode(adr)
 
-def geocoder_test():
-    #location = geolocator.geocode("Rīga, Latvija")
-    location = geolocator.geocode("Riga, Latvia")
+    time.sleep(1)
+    try:
+        coord = location.latitude, location.longitude
+    except:
+        coord = 0, 0
 
-    print((location.latitude, location.longitude))
+    return coord
 
 
 def main():
