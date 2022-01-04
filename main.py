@@ -9,6 +9,10 @@ import time
 import random
 import csv
 from geopy.geocoders import Nominatim
+import googlemaps
+from config import api_key
+
+map_client = googlemaps.Client(api_key)
 
 geolocator = Nominatim(user_agent="sample app")
 
@@ -71,7 +75,7 @@ def collect_data(region):
                 }
             )
 
-    with open("data.json", "a", encoding='utf8') as file:
+    with open("data2.json", "a", encoding='utf8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 
@@ -87,7 +91,7 @@ def findPageNum():
 
 
 def process_json():
-    with open('data.json', encoding='utf8') as json_file:
+    with open('data2.json', encoding='utf8') as json_file:
         dati = json.loads(json_file.read())
 
     n = 0
@@ -95,35 +99,47 @@ def process_json():
     for i in range(len(dati)):
         adrese = dati[i]["address"].replace("pag.", "pagasts, ")
         dati[i]['address'] = adrese
-        dati[i]['coord'] = geocoder_test(adrese)
-        print(i, adrese, dati[i]["totalPrice"])
+        #dati[i]['coord'] = geocoder_test(adrese)
+
         if dati[i]['coord'][0] == 0:
-            n= n+1
+            dati[i]['coord'] = geocoder_test(adrese)
+
+        print(i, adrese, dati[i]["totalPrice"],dati[i]['coord'])
 
     with open("data2.json", "w", encoding='utf8') as file:
         json.dump(dati, file, indent=4, ensure_ascii=False)
 
-    print("Total processed: ",len(dati), "coordinate not found: ",n)
+    #print("Total processed: ", len(dati), "coordinate not found: ", n)
 
 
 def geocoder_test(adr):
     # location = geolocator.geocode("Rīga, Latvija")
     location = geolocator.geocode(adr)
 
-    time.sleep(1)
-    try:
+    if location is not None:
         coord = location.latitude, location.longitude
-    except:
-        coord = 0, 0
+        time.sleep(0.2)
+    else:                   #google maps api if local is not enoght
+        try:
+            geocode_rez = map_client.geocode(adr)
+            coord = geocode_rez[0]["geometry"]["location"]["lat"], geocode_rez[0]["geometry"]["location"]["lng"]
+        except:
+            coord = 0, 0
 
     return coord
+
+
+
 
 
 def main():
     # parse_all()
 
     process_json()
-    # geocoder_test()
+
+    #print (geocoder_test("Mazzalves pagasts, Lielmēmele"))
+
+
 
 
 # Press the green button in the gutter to run the script.
