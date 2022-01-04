@@ -10,6 +10,8 @@ import random
 import csv
 from geopy.geocoders import Nominatim
 import googlemaps
+
+import drawOnMap
 from config import api_key
 
 map_client = googlemaps.Client(api_key)
@@ -134,14 +136,10 @@ def geocoder_test(adr):
 
 def main():
     # parse_all()
-
-    process_json()
-
+    #process_json()
     #print (geocoder_test("Mazzalves pagasts, Lielmēmele"))
+    drawOnMap.test_draw()
 
 
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
