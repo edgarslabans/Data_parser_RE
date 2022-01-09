@@ -3580,7 +3580,7 @@
         "descr": "AS Privatbank meitas uzņēmuma īpašums. \n\nPārdod zemesgabalu ar šādu sadalīju",
         "address": "Ikšķiles l. t.Tīnūži",
         "area": "6 m²",
-        "price1m2": "26,667 €",
+        "price1m2": "26.667 €",
         "totalPrice": "160,000  €",
         "coord": [
             56.862904,
@@ -6419,4 +6419,6 @@
             21.634242
         ]
     }
+
+
 ]
