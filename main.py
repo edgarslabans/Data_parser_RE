@@ -12,9 +12,10 @@ from geopy.geocoders import Nominatim
 import googlemaps
 
 import drawOnMap
-from config import api_key
 
-map_client = googlemaps.Client(api_key)
+# from config import api_key
+
+# map_client = googlemaps.Client(api_key) # key in riga ...
 
 geolocator = Nominatim(user_agent="sample app")
 
@@ -143,8 +144,9 @@ def geocoder_test(adr):
         time.sleep(0.2)
     else:  # google maps api if local is not enoght
         try:
-            geocode_rez = map_client.geocode(adr)
-            coord = geocode_rez[0]["geometry"]["location"]["lat"], geocode_rez[0]["geometry"]["location"]["lng"]
+            pass
+            # geocode_rez = map_client.geocode(adr)
+            # coord = geocode_rez[0]["geometry"]["location"]["lat"], geocode_rez[0]["geometry"]["location"]["lng"]
         except:
             coord = 0, 0
 
