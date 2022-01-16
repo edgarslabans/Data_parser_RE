@@ -10,21 +10,20 @@ import random
 import csv
 from geopy.geocoders import Nominatim
 import googlemaps
+from datetime import date
 
 import drawOnMap
 
-# from config import api_key
+today = date.today()
 
 # map_client = googlemaps.Client(api_key) # key in riga ...
-
 geolocator = Nominatim(user_agent="sample app")
 
-# ua = UserAgent()
 # region_of_interest = ["aizkraukle", "aluksne", "balvi", "bauska", "cesis", "daugavpils", "dobele", "gulbene", "jelgava",
 #     "kraslava", "kuldiga", "jekabpils", "liepaja", "limbazi", "ludza", "madona", "ogre", "preili",
 #     "rezekne", "saldus", "talsi", "tukums", "valka", "valmiera", "ventspils"]
 
-region_of_interest = "ludza"  # test range
+region_of_interest = ["ludza", "rezekne"]  # test range
 
 
 def parse_all():
@@ -37,6 +36,7 @@ def get_all_html(region):
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
     }
+
     r = requests.get(url="https://www.ss.lv/lv/real-estate/plots-and-lands/" + region + "-and-reg/sell/page1.html",
                      headers=headers)
 
@@ -52,7 +52,9 @@ def collect_data(region):
     get_all_html(region)
 
     with open(f"data/page_1.html", encoding="utf-8") as file:
-        data = []
+        data_today = []
+        dati = []
+
         src = file.read()
 
         soup = BeautifulSoup(src, "lxml")
@@ -61,41 +63,51 @@ def collect_data(region):
         print("Processing: ", region, " Number of rows find: ", len(table_rows))
         time.sleep(4 + random.randint(0, 4))
 
+        with open('data2.json', encoding='utf8') as json_file:
+            dati = json.loads(json_file.read())
+
+        with open('data_temp.json', encoding='utf8') as json_file:
+            try:
+                data_today = json.loads(json_file.read())
+            except:
+                data_today = []
+
     for item in table_rows:
         td_tags = item.find_all("td")
 
         n = 0
 
         if len(td_tags) > 4:
-            if not check_if_ad_exists(td_tags[2].text, td_tags[4].text, td_tags[5].text, td_tags[6].text):
+            if not check_if_ad_exists(dati, td_tags[2].text, td_tags[4].text, td_tags[5].text, td_tags[6].text):
                 n = +1
-                data.append(
+                dati.append(
                     {
                         "regio": region,
                         "descr": td_tags[2].text,
                         "address": td_tags[3].text,
                         "area": td_tags[4].text,
                         "price1m2": td_tags[5].text,
-                        "totalPrice": td_tags[6].text
+                        "totalPrice": td_tags[6].text,
+                        "dateAdded": today.strftime("%d/%m/%Y")
                     }
                 )
+                data_today.append(dati[-1])
 
-    with open("data3.json", "a", encoding='utf8') as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
-    print(n, "new ads found in ", region)
+    with open("data2.json", "w", encoding='utf8') as file:
+        json.dump(dati, file, indent=4, ensure_ascii=False)
+
+    with open("data_temp.json", "w", encoding='utf8') as file:
+        json.dump(data_today, file, indent=4, ensure_ascii=False)
 
 
 # function to find new advertisements on the website
-def check_if_ad_exists(descr, area, price1m2, totalPrice):
-    dati = []
-    with open('data2.json', encoding='utf8') as json_file:
-        dati = json.loads(json_file.read())
-
+def check_if_ad_exists(source_db, descr, area, price1m2, totalPrice):
     new_data_point = [descr, area, price1m2, totalPrice]
     outp = False
 
-    for i in range(len(dati)):
-        existing_data_point = [dati[i]["descr"], dati[i]["area"], dati[i]["price1m2"], dati[i]["totalPrice"]]
+    for i in range(len(source_db)):
+        existing_data_point = [source_db[i]["descr"], source_db[i]["area"], source_db[i]["price1m2"],
+                               source_db[i]["totalPrice"]]
         if new_data_point == existing_data_point:
             outp = True
 
@@ -153,46 +165,23 @@ def geocoder_test(adr):
     return coord
 
 
+
+
+
 def progTest(inp):
-    x = round(inp, 2)
-
-    List_coins = [0.25, 0.10, 0.05, 0.01]
-
-    M = (x // (List_coins[0]))
-
-    x = round(x % (List_coins[0]),2)
-    print("0.25- ", M,x)
-
-
-    a = float(x // (List_coins[1]))
-    x = x % (List_coins[1])
-    # I did the same thing here
-    print ("0.1- ", a,x)
-
-    r = float(x // (List_coins[2]))
-    x = round( x % (List_coins[2]),2)
-    # I did the same thing here
-    print("0.05- ", r,x)
-
-    A = float(x // (List_coins[3]))
-    x = round(x % (List_coins[3]),2)
-    # I did the same thing here
-    print("0.01- ", A,x)
-
-    result = M + a + r + A
-
-    print("rez", result)
+    print ("test")
 
 
 def main():
-    # parse_all()
+    parse_all()
     # process_json()
-    # print (geocoder_test("Mazzalves pagasts, Lielmēmele"))
     # drawOnMap.test_draw()
 
     # collect_data(region_of_interest)
 
-    progTest(0.41)
+    # testAppend()
+
+    # progTest(0.41)
 
 
 if __name__ == '__main__':

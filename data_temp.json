@@ -1,0 +1,29 @@
+[
+    {
+        "regio": "ludza",
+        "descr": "Pārdodas zemes gabals ar jauktas centra apbūves teritorijas statusu.",
+        "address": "Kārsava",
+        "area": "1945 m²",
+        "price1m2": "5.14 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod zemi Rēzeknē. Zemes platība: 1216 m². Tuvu centram, perspektīvā vietā",
+        "address": "Rēzekne",
+        "area": "1612 m²",
+        "price1m2": "11.02 €",
+        "totalPrice": "17,771  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Blakus Rāznas ezeram, gleznaina vieta. \n\n\n\nZemesgabals atrodas gleznaina vie",
+        "address": "Čornajas pag.Lipušķi",
+        "area": "1415 m²",
+        "price1m2": "5.30 €",
+        "totalPrice": "7,500  €",
+        "dateAdded": "16/01/2022"
+    }
+]

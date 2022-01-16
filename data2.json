@@ -6418,7 +6418,166 @@
             57.2815129,
             21.634242
         ]
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodas zemes gabals Kārsavā.",
+        "address": "Kārsava",
+        "area": "2026 m²",
+        "price1m2": "4.94 €",
+        "totalPrice": "10,000  €"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu 13ha zemi ar pussalu/salu Pārtovas ezerā. Zemes gabals atrodas Rēzek",
+        "address": "Kaunatas pag.Pārtova",
+        "area": "13 ha.",
+        "price1m2": "0.204 €",
+        "totalPrice": "26,500  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zemi privātmājas būvēšanai. Zeme atrodas 2 km attālumā no Vipingas r",
+        "address": "Rēzekne",
+        "area": "0.38 ha.",
+        "price1m2": "0.921 €",
+        "totalPrice": "3,500  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продаём большие 2 пруда и 1 средний в 5 км. от Резекне в разработанном песча",
+        "address": "Ozolaines pag.Maremonts",
+        "area": "5 ha.",
+        "price1m2": "0.880 €",
+        "totalPrice": "44,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продаётся большое озеро Kivki и земля (с другим кадастром) рядом с озером. О",
+        "address": "Rēzekne",
+        "area": "14 ha.",
+        "price1m2": "0.121 €",
+        "totalPrice": "17,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zems gabalu Rēzeknē. Platība 0.1504 ha. Labs piebraucamais ceļš, ide",
+        "address": "Rēzekne",
+        "area": "0.15 ha.",
+        "price1m2": "9.33 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod lauksaimniecības zemi 12.5 ha. Kad. nr 7872.0080188, 7872.0080189.",
+        "address": "Mākoņkalna pag.Lipuški",
+        "area": "12.50 ha.",
+        "price1m2": "0.256 €",
+        "totalPrice": "32,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Skaists skats no kalna ar tiešo piekļuvi ezeram , Umaņu ezera aizsargjosla 4",
+        "address": "Pušas pag.Dītlovi",
+        "area": "8 ha.",
+        "price1m2": "0.362 €",
+        "totalPrice": "28,999  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Zemes gabals dzīvojamās mājas celtniecībai klusā, sausā un skaistā pilsētas ",
+        "address": "Rēzekne",
+        "area": "2419 m²",
+        "price1m2": "10.33 €",
+        "totalPrice": "24,999  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdot 1/3 domājamās daļas īpašumu pie ezera.",
+        "address": "-",
+        "area": "3.80 ha.",
+        "price1m2": "1.21 €",
+        "totalPrice": "46,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продается земельный участок под застройку в Резекне недалеко от границы горо",
+        "address": "Rēzekne",
+        "area": "6400 m²",
+        "price1m2": "5.16 €",
+        "totalPrice": "33,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod īpašumu tuvu Rēzeknei, klusā vietā ar labu piebraucamo ceļu. \n\nVairāk",
+        "address": "Rēzekne",
+        "area": "6.30 ha.",
+        "price1m2": "0.302 €",
+        "totalPrice": "19,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Zeme Vipingā gatava privātmājas cetniecībai. Izbūvēts labs piebraucamais ceļ",
+        "address": "Rēzekne",
+        "area": "0.16 ha.",
+        "price1m2": "5.63 €",
+        "totalPrice": "9,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Участок под строительство. Больше информации по телефону.",
+        "address": "Ludza",
+        "area": "1156 m²",
+        "price1m2": "3.55 €",
+        "totalPrice": "4,100  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Продаётся. Все подробности по тел.",
+        "address": "Ludza",
+        "area": "0.60 ha.",
+        "price1m2": "9 €",
+        "totalPrice": "54,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodas zemes gabals ar jauktas centra apbūves teritorijas statusu.",
+        "address": "Kārsava",
+        "area": "1945 m²",
+        "price1m2": "5.14 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod zemi Rēzeknē. Zemes platība: 1216 m². Tuvu centram, perspektīvā vietā",
+        "address": "Rēzekne",
+        "area": "1612 m²",
+        "price1m2": "11.02 €",
+        "totalPrice": "17,771  €",
+        "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Blakus Rāznas ezeram, gleznaina vieta. \n\n\n\nZemesgabals atrodas gleznaina vie",
+        "address": "Čornajas pag.Lipušķi",
+        "area": "1415 m²",
+        "price1m2": "5.30 €",
+        "totalPrice": "7,500  €",
+        "dateAdded": "16/01/2022"
     }
-
-
 ]
