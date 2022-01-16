@@ -2,7 +2,7 @@ import json
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 
-import parseData
+from parseData import *
 import time
 import asyncio
 import os
@@ -15,9 +15,9 @@ bot = Bot(token=atslega.tel_key, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 loop = asyncio.get_event_loop()
-delay = 5
+delay = 10
 
-
+#Need to put parse_all in the loop
 @dp.message_handler(commands="loop")
 async def my_func(message: types.Message):
     for i in range(10):
@@ -44,7 +44,8 @@ async def start(message: types.Message):
 async def get_rez_Ludza(message: types.Message):
     await message.answer("Please Wait")
 
-       #  <----- does not work
+    # collect new ads
+    parse_all()
 
     with open('data_temp.json', encoding='utf8') as json_file:
         dati = json.loads(json_file.read())
@@ -77,8 +78,6 @@ async def get_rez_Ludza(message: types.Message):
 
 
 def main():
-    #ParseData.progTest()
-    #ParseData
     executor.start_polling(dp)
 
 

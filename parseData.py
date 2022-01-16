@@ -168,7 +168,7 @@ def geocoder_test(adr):
 
 
 
-def progTest(inp):
+def progTest():
     print ("test")
 
 
