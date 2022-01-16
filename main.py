@@ -153,13 +153,46 @@ def geocoder_test(adr):
     return coord
 
 
+def progTest(inp):
+    x = round(inp, 2)
+
+    List_coins = [0.25, 0.10, 0.05, 0.01]
+
+    M = (x // (List_coins[0]))
+
+    x = round(x % (List_coins[0]),2)
+    print("0.25- ", M,x)
+
+
+    a = float(x // (List_coins[1]))
+    x = x % (List_coins[1])
+    # I did the same thing here
+    print ("0.1- ", a,x)
+
+    r = float(x // (List_coins[2]))
+    x = round( x % (List_coins[2]),2)
+    # I did the same thing here
+    print("0.05- ", r,x)
+
+    A = float(x // (List_coins[3]))
+    x = round(x % (List_coins[3]),2)
+    # I did the same thing here
+    print("0.01- ", A,x)
+
+    result = M + a + r + A
+
+    print("rez", result)
+
+
 def main():
     # parse_all()
     # process_json()
     # print (geocoder_test("Mazzalves pagasts, Lielmēmele"))
     # drawOnMap.test_draw()
 
-    collect_data(region_of_interest)
+    # collect_data(region_of_interest)
+
+    progTest(0.41)
 
 
 if __name__ == '__main__':

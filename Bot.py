@@ -1,25 +1,25 @@
 import telebot
 import config
 import random
+import atslega
+from telebot import types
 
-bot = telebot.TeleBot(config.telegram_token)
+bot = telebot.TeleBot(atslega.tel_key)
 
 # hosting opportunity
 # selectel.ru
 
-@bot.message_handler(content_types=["text"])
-def testfunction(message):
-    bot.send_message(message.chat.id, message.text)
 
 
-#test buttons
-markup = types.InlineKeyboardMarkup()
 
-for key, value in stringList.items():
-    markup.add(types.InlineKeyboardButton(text=value,
-                                          callback_data="['value', '" + value + "', '" + key + "']"),
-               types.InlineKeyboardButton(text=crossIcon,
-                                          callback_data="['key', '" + key + "']"))
+@bot.message_handler(commands=['start'])
+def start_command(message):
+   bot.send_message(
+       message.chat.id,
+       'Greetings! I can show you PrivatBank exchange rates.\n' +
+       'To get the exchange rates press /exchange.\n' +
+       'To get help press /help.'
+   )
 
 
 bot.polling(none_stop=True)
