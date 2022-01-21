@@ -15,20 +15,14 @@ bot = Bot(token=atslega.tel_key, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 loop = asyncio.get_event_loop()
-delay = 10
+delay = 1000
 
 #Need to put parse_all in the loop
 @dp.message_handler(commands="loop")
 async def my_func(message: types.Message):
     for i in range(10):
-        time.sleep(3)
+        time.sleep(delay)
         await message.answer("Looping")
-    #when_to_call = loop.time() + delay  # delay -- промежуток времени в секундах.
-    #loop.call_at(when_to_call, my_callback)
-
-
-#def my_callback():
- #   asyncio.ensure_future(my_func(message))
 
 
 @dp.message_handler(commands="start")
