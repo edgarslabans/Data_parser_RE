@@ -19,11 +19,11 @@ today = date.today()
 # map_client = googlemaps.Client(api_key) # key in riga ...
 geolocator = Nominatim(user_agent="sample app")
 
-# region_of_interest = ["aizkraukle", "aluksne", "balvi", "bauska", "cesis", "daugavpils", "dobele", "gulbene", "jelgava",
-#     "kraslava", "kuldiga", "jekabpils", "liepaja", "limbazi", "ludza", "madona", "ogre", "preili",
-#     "rezekne", "saldus", "talsi", "tukums", "valka", "valmiera", "ventspils"]
+region_of_interest = ["aizkraukle", "aluksne", "balvi", "bauska", "cesis", "daugavpils", "dobele", "gulbene", "jelgava",
+     "kraslava", "kuldiga", "jekabpils", "liepaja", "limbazi", "ludza", "madona", "ogre", "preili",
+     "rezekne", "saldus", "talsi", "tukums", "valka", "valmiera", "ventspils"]
 
-region_of_interest = ["ludza", "rezekne"]  # test range
+#region_of_interest = ["ludza", "rezekne"]  # test range
 
 
 def parse_all():
