@@ -6579,5 +6579,4631 @@
         "price1m2": "5.30 €",
         "totalPrice": "7,500  €",
         "dateAdded": "16/01/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdodas zemes gabals Koknesē bez apgrūtinājumiem.",
+        "address": "Kokneses pag.Koknese",
+        "area": "2359 m²",
+        "price1m2": "4.45 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod individuālo dzīvojamo māju apbūves zemes gabalu.",
+        "address": "Aizkraukle",
+        "area": "1279 m²",
+        "price1m2": "8.60 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod individuālo dzīvojamo māju apbūves zemes gabalu.",
+        "address": "Aizkraukle",
+        "area": "1840 m²",
+        "price1m2": "8.15 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod individuālo dzīvojamo māju apbūves zemes gabalu.",
+        "address": "Aizkraukle",
+        "area": "2372 m²",
+        "price1m2": "7.59 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod individuālo dzīvojamo māju apbūves zemes gabalu.",
+        "address": "Aizkraukle",
+        "area": "1230 m²",
+        "price1m2": "8.94 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod individuālo dzīvojamo māju apbūves zemes gabalu.",
+        "address": "Aizkraukle",
+        "area": "2017 m²",
+        "price1m2": "7.93 €",
+        "totalPrice": "16,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdodam 7, 8ha zemi, mežs sastāda ~3, 55ha , pārējais laiksaimniecības zeme",
+        "address": "Kokneses pag.Kaplava",
+        "area": "8 ha.",
+        "price1m2": "0.294 €",
+        "totalPrice": "23,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemes gabalu pie Daugavas, Jaunelgavas pilsētā, ļoti daudzsološā viet",
+        "address": "Jaunjelgava",
+        "area": "1904 m²",
+        "price1m2": "11 €",
+        "totalPrice": "20,944  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Brīnišķīgs zemes gabals ainaviskā vietā blakus upei Daugava. Tieši pie šī ga",
+        "address": "Jaunjelgava",
+        "area": "3086 m²",
+        "price1m2": "7.13 €",
+        "totalPrice": "22,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemi Koknesē, Austrumu ielā 6. \n\nZeme paredzēta privātmājas būvniecīb",
+        "address": "Kokneses pag.Koknese",
+        "area": "0.19 ha.",
+        "price1m2": "5.53 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Отличное место, рядом протекает река. \n\n\n\nМожно строить баню и хозяйственные",
+        "address": "Kurmenes pag.Kurmene",
+        "area": "45000 m²",
+        "price1m2": "1.09 €",
+        "totalPrice": "49,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdot zemes gabalu privātmājas buvniecībai.",
+        "address": "Jaunjelgava",
+        "area": "2822 m²",
+        "price1m2": "2.32 €",
+        "totalPrice": "6,550  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Apbūves zeme Daugavas līča krastā privātmājas vai vasarnīcas būvniecībai. Kr",
+        "address": "Jaunjelgava",
+        "area": "2048 m²",
+        "price1m2": "16.11 €",
+        "totalPrice": "33,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemi pilsētas centrā, blakus autoosta, tirgus, mūzikas skola, dīķis a",
+        "address": "Aizkraukle",
+        "area": "996 m²",
+        "price1m2": "15.06 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemi 0, 1346 hektāri Skrīveru priekšpilsētā. \n\nZeme privātai attīstīb",
+        "address": "Skrīveru pag.",
+        "area": "1346 m²",
+        "price1m2": "4.83 €",
+        "totalPrice": "6,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Īpašnieks pārdod apbūves gabalu 0.414 ha platībā. 5.min gājienā līdz Skrīver",
+        "address": "Skrīveru pag.Skrīveri",
+        "area": "0.41 ha.",
+        "price1m2": "2.44 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod ainavisku zemes gabalu apbūvei pie Daugavas - 300m krasta līnija. Ide",
+        "address": "Seces pag.Sece",
+        "area": "3 ha.",
+        "price1m2": "3 €",
+        "totalPrice": "90,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Tiek pārdots zemes gabals ainaviskā vietā Skrīveros. Īpašumā ir izkopts prie",
+        "address": "Skrīveru pag.Skrīveri",
+        "area": "10853 m²",
+        "price1m2": "2.58 €",
+        "totalPrice": "28,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdodu lielu, iekoptu zemes gabalu privatmajas būvniecibai. ir sava neliela",
+        "address": "Jaunjelgava",
+        "area": "7242 m²",
+        "price1m2": "4.14 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdodu 5ha karjera zemi. Prognozējamā izstrāde: 500 000 m3 smilts, 300 000 ",
+        "address": "Sērenes pag.Sērene",
+        "area": "5 ha.",
+        "price1m2": "0.100 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Īpašnieks pārdod zemi 1340 kvm.",
+        "address": "Aizkraukle",
+        "area": "1340 m²",
+        "price1m2": "11.94 €",
+        "totalPrice": "16,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod iekoptu lauksaimniecībā izmantojamo zemi 12, 14 ha. No tās 9, 8 ha ko",
+        "address": "Mazzalves pag.Ērberģe",
+        "area": "12 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "60,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Tiek pārdots zemes gabals 11 ha, uz karjera ar akmens krastu. Meža zeme ļoti",
+        "address": "Kokneses pag.Urgas",
+        "area": "11 ha.",
+        "price1m2": "0.345 €",
+        "totalPrice": "38,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemes gabalu Kokneses pagastā, \"Spriņģos\". Netālu Daugava un Daugavpi",
+        "address": "Kokneses pag.Spriņģi",
+        "area": "5000 m²",
+        "price1m2": "1.20 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Pārdod zemes gabalu Kokneses pagastā, \"Spriņģos\". Netālu Daugava un Daugavpi",
+        "address": "Kokneses pag.Spriņģi",
+        "area": "5000 m²",
+        "price1m2": "0.800 €",
+        "totalPrice": "4,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Около трассы екабпилс-плявиняс. плявиньское кольцо. асфальт. заезд. торг",
+        "address": "Pļaviņas",
+        "area": "10000 m²",
+        "price1m2": "4.20 €",
+        "totalPrice": "42,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Īpašnieks pārdod zemi Kokneses pagastā starp Aizkraukli un Koknesi netālu no",
+        "address": "Kokneses pag.",
+        "area": "1.75 ha.",
+        "price1m2": "0.686 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aizkraukle",
+        "descr": "Tiek pārdots potenciāls zemes gabals 1, 59h platibā. Aptuveni 0, 6h aiznem k",
+        "address": "Seces pag.",
+        "area": "2 ha.",
+        "price1m2": "1.30 €",
+        "totalPrice": "26,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Pārdodu zemi 3, 16 ha ar fermu 605 m2 (3F elektrības pieslēgums), šķūnis 362",
+        "address": "Trapenes pag.Trapene",
+        "area": "3 ha.",
+        "price1m2": "0.833 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Zeme, pie klusa asvaltēta ceļa, 0, 8ha, elektrība, ūdensvads Blakus.  Ap 250",
+        "address": "Alūksne",
+        "area": "8000 m²",
+        "price1m2": "4.25 €",
+        "totalPrice": "34,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Pārdodam skaistu lauku īpašumu pie Gaujas krasta, krasta līnija ir 400m. Īpa",
+        "address": "Virešu pag.Vidaga",
+        "area": "2 ha.",
+        "price1m2": "1.25 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Īpašnieks pārdod apbūves gabalu netālu no Alūksnes. \n\n\n\nLīdz pilsētas centra",
+        "address": "Alūksne",
+        "area": "3000 m²",
+        "price1m2": "5 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Īpašnieks pārdod apbūves gabalu netālu no Alūksnes. \n\n\n\nLīdz pilsētas centra",
+        "address": "Alūksne",
+        "area": "2700 m²",
+        "price1m2": "5.56 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "Pārdodu zemi 821m2 (15 Eur/m2) un māju Jāņkalna 42. Malkas apkure.",
+        "address": "Alūksne",
+        "area": "821 m²",
+        "price1m2": "24.36 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "aluksne",
+        "descr": "“Ķesterziedi” ir pēdējais pārdošanā esošais īpašums Pullana ezera krastā ar ",
+        "address": "Alsviķu pag.Pullans",
+        "area": "8000 m²",
+        "price1m2": "8.50 €",
+        "totalPrice": "68,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "balvi",
+        "descr": "Zeme 30 h (vienā gb)Pārdod .",
+        "address": "Rugāju pag.Kraukļeva",
+        "area": "30 ha.",
+        "price1m2": "0.333 €",
+        "totalPrice": "100,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "balvi",
+        "descr": "Pārdodu 2, 1 ha zemi Vecumu pag. , Balvu nov.",
+        "address": "Vecumu pag.Borisova",
+        "area": "2.10 ha.",
+        "price1m2": "0.190 €",
+        "totalPrice": "4,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "balvi",
+        "descr": "Pārdod nekustamo īpašumu 81, 6 ha. platībā, vienā gabalā. Aramzeme 75, 4 ha.",
+        "address": "Vīksnas pag.Zaļmežnieki",
+        "area": "81.60 ha.",
+        "price1m2": "0.349 €",
+        "totalPrice": "285,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "balvi",
+        "descr": "Pardod lauksaimniecības zemi 2, 36ha , Nosaukums Bubņeva Medņevas pag. , Viļ",
+        "address": "Medņevas pag.Kangari",
+        "area": "2 ha.",
+        "price1m2": "0.250 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Ļoti perspektīvā vietā, pilsētas centrā, privātpersona piedāvā iegādāties ze",
+        "address": "Bauska",
+        "area": "1431 m²",
+        "price1m2": "16.77 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdodu zemi privātmāju apbūvei, pazemes robežu vilks elektrības kabeli, zem",
+        "address": "Iecavas nov.Iecava",
+        "area": "4429 m²",
+        "price1m2": "1.76 €",
+        "totalPrice": "7,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod vai maina zemi privātmāju būvniecībai. Pieejami vairāki zemes gabali ",
+        "address": "Iecavas nov.Iecava",
+        "area": "1283 m²",
+        "price1m2": "5.07 €",
+        "totalPrice": "6,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Īpašnieks pārdod labu un skaistu zemes gabalu izdevīgā atrašanās vietā. Zeme",
+        "address": "Ceraukstes pag.Mūsa",
+        "area": "17422 m²",
+        "price1m2": "3.56 €",
+        "totalPrice": "62,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdodu zemi Bauskas rajona, Iecavas novadā, privātmājas būvēšanai, netālu n",
+        "address": "Iecavas nov.",
+        "area": "9600 m²",
+        "price1m2": "0.990 €",
+        "totalPrice": "9,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pardod zemes Svitene pagasts pie upes",
+        "address": "Svitenes pag.Svitene",
+        "area": "0.14 ha.",
+        "price1m2": "2.14 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod zemes gabalu privātmājas būvniecībai. \n\nIr 3 fāzu elektrības pieslēgu",
+        "address": "Vecumnieku pag.Vecumnieki",
+        "area": "2400 m²",
+        "price1m2": "5 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod apbūves zemi. Īpašums atrodas Iecavas pilsētas teritorijā. Ievilkta e",
+        "address": "Iecavas nov.Dartija",
+        "area": "5230 m²",
+        "price1m2": "4.88 €",
+        "totalPrice": "25,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod zemes gabalu Bauskā privātmājas būvniecībai. \n\nNotiek elektrības piev",
+        "address": "Bauska",
+        "area": "1000 m²",
+        "price1m2": "18 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod zemi (4, 53 ha) Iecavas novadā, aptuveni 50 km no Rīgas. \n\nПродается ",
+        "address": "Iecavas nov.Iecava",
+        "area": "45300 m²",
+        "price1m2": "0.662 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdodu apbūves zemi ar elektrību jaunizveidotā ciematā līdz apbūves gabalam",
+        "address": "Iecavas nov.Iecava",
+        "area": "1222 m²",
+        "price1m2": "5.65 €",
+        "totalPrice": "6,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Īpašnieks pārdod lauksaimniecības zemi. Blakus zemes ceļš.",
+        "address": "Viesturu pag.",
+        "area": "3.88 ha.",
+        "price1m2": "0.747 €",
+        "totalPrice": "29,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Īpašnieks pārdod lauksaimniecības zemi. Ērta piekļuve, blakus autoceļš V1002",
+        "address": "Viesturu pag.",
+        "area": "3 ha.",
+        "price1m2": "0.833 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Zeme Bauskas Vecpilsētā. Ir skiču projekts. Nepieciešamības gadījumā varu sa",
+        "address": "Bauska",
+        "area": "1464 m²",
+        "price1m2": "47.13 €",
+        "totalPrice": "69,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Īpašnieks pārdod zemes īpašumu pašā pilsētas centrā, Pionieru ielā, īpašumam",
+        "address": "Bauska",
+        "area": "800 m²",
+        "price1m2": "46.25 €",
+        "totalPrice": "37,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pàrdod zemi 5km attàlumà no Iecavas centra apdzīvotā vietā \"Audrupi\". Blakus",
+        "address": "Iecavas nov.",
+        "area": "24000 m²",
+        "price1m2": "1.04 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod zemi, platība 1200 kvadrātmetri. Ir elektrības pieslēgums. Atrodss ļo",
+        "address": "Iecavas nov.Iecava",
+        "area": "1200 m²",
+        "price1m2": "11.67 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Lielisks zemes gabals mājas būvniecībai Iecavā 150 m bērnudārzs 1.1 km skola",
+        "address": "Iecavas nov.Iecava",
+        "area": "1124 m²",
+        "price1m2": "14.23 €",
+        "totalPrice": "16,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod komercapbūves zemi plānotajā Iecavas industriālajā zonā. \n\n\n\nSaskaņā ",
+        "address": "Iecavas nov.Iecava",
+        "area": "12 ha.",
+        "price1m2": "2.46 €",
+        "totalPrice": "295,001  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Uzņēmums, kas ir pārtraucis savu saimniecisko darbību, pārdod sev piederošās",
+        "address": "Vecumnieku pag.Misa",
+        "area": "2 ha.",
+        "price1m2": "0.285 €",
+        "totalPrice": "5,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdodu apbūves zemi. Epastu nelasu, lūdzu tikai zvanīt.",
+        "address": "Bauska",
+        "area": "1.30 ha.",
+        "price1m2": "4 €",
+        "totalPrice": "52,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdodu labu komercapbūves zemi Iecavā, A7 šosejas malā. Īpašums sastāv no d",
+        "address": "Iecavas nov.Iecava",
+        "area": "5.28 ha.",
+        "price1m2": "3.90 €",
+        "totalPrice": "205,920  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Apbūves zemes gabals pie upes ar 150 m krasta līniju. \n\n\n\nPašvaldībā noteikt",
+        "address": "Skaistkalnes pag.Mēmele",
+        "area": "10500 m²",
+        "price1m2": "5.24 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Pārdod 2 zemes gabalus ar kopējo platību 5790 m2 Iecavas dzelzceļa stacijas ",
+        "address": "Iecavas nov.",
+        "area": "5790 m²",
+        "price1m2": "2.59 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Iespējams iegādāties zemi 2713 m2 privātmāju apbūvei vienā no skaistākajām v",
+        "address": "Bauska",
+        "area": "2713 m²",
+        "price1m2": "18.25 €",
+        "totalPrice": "49,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Iespējams iegādāties zemi 1232m2 privātmāju apbūvei vienā no skaistākajām vi",
+        "address": "Bauska",
+        "area": "1232 m²",
+        "price1m2": "21.83 €",
+        "totalPrice": "26,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Iespējams iegādāties zemi 1216 m2 privātmāju apbūvei vienā no skaistākajām v",
+        "address": "Bauska",
+        "area": "1216 m²",
+        "price1m2": "24.59 €",
+        "totalPrice": "29,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Iespējams iegādāties zemi 1207m2 privātmāju apbūvei vienā no skaistākajām vi",
+        "address": "Bauska",
+        "area": "1207 m²",
+        "price1m2": "26.51 €",
+        "totalPrice": "32,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "bauska",
+        "descr": "Iespējams iegādāties zemi 8045 m2 privātmāju apbūvei vienā no skaistākajām v",
+        "address": "Bauska",
+        "area": "8045 m²",
+        "price1m2": "13.61 €",
+        "totalPrice": "109,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Ekskluzīvs piedāvājums. Labas perspektīvas investīcijām. Zemes gabals ar ūde",
+        "address": "Priekuļu pag.Priekuļi",
+        "area": "8744 m²",
+        "price1m2": "18.30 €",
+        "totalPrice": "160,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Продаётся красивый участок земли с лесом. Земля находится в Cesu rajons Stra",
+        "address": "Straupes pag.Straupe",
+        "area": "3 ha.",
+        "price1m2": "1.40 €",
+        "totalPrice": "42,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod nekustamos īpašumus (meža īpašumus). \n\nZemes gabali tiek pārdoti abi ",
+        "address": "Vaives pag.Krīvi",
+        "area": "16 ha.",
+        "price1m2": "0.425 €",
+        "totalPrice": "68,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Īpašnieks pārdod zemes gabalu Straupes pag. Plācis, kadastra numurs 42820050",
+        "address": "Straupes pag.Plācis",
+        "area": "0.15 ha.",
+        "price1m2": "1.33 €",
+        "totalPrice": "2,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Zemes gabals kam blakus ir visas komunikācijas. Var izmantot dažādiem mērķie",
+        "address": "Cēsis",
+        "area": "7961 m²",
+        "price1m2": "10 €",
+        "totalPrice": "79,600  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Продается живописная и ухоженная территория в 7.1 га в национальном парке Га",
+        "address": "Cēsis",
+        "area": "7 ha.",
+        "price1m2": "7 €",
+        "totalPrice": "490,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdošanā ainaviskā vietā 4.6 ha plašs zemes gabals, kas robežojas ar Kaķupī",
+        "address": "Vaives pag.",
+        "area": "5 ha.",
+        "price1m2": "0.890 €",
+        "totalPrice": "44,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod smilts-grants karjeru. Karjera platība ap 4ha, krāja 1, 1 milj. m3. I",
+        "address": "Amatas pag.Spāre",
+        "area": "17 ha.",
+        "price1m2": "1.06 €",
+        "totalPrice": "180,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Plašs zemesgabals ar vēsturiskiem mūriem un klēti skaistā vietā, netālu no V",
+        "address": "Inešu pag.",
+        "area": "5 ha.",
+        "price1m2": "0.940 €",
+        "totalPrice": "47,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Zeme privatmajas būvniecībai. Asfaltēts ceļš 150 metri. Sigulda 9 km. Līgatn",
+        "address": "Līgatnes pag.Augšlīgatne",
+        "area": "2 ha.",
+        "price1m2": "1.60 €",
+        "totalPrice": "32,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemi skaistā vietā starp Smilteni, Valmieru un Cēsīm - Raunā. Uz zeme",
+        "address": "Raunas pag.Rauna",
+        "area": "2556 m²",
+        "price1m2": "3.91 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Īpašnieks pārdod apbūves gabalu ideālā klusā vietā Augšlīgatnē, netālu atrod",
+        "address": "Līgatnes pag.Augšlīgatne",
+        "area": "6200 m²",
+        "price1m2": "9.25 €",
+        "totalPrice": "57,350  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Īpašniece pārdod lielisku zemes gabalu ainaviskā vietā privātmājas būvniecīb",
+        "address": "Raiskuma pag.Auciems",
+        "area": "0.62 ha.",
+        "price1m2": "2.02 €",
+        "totalPrice": "12,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Firma piedāvā zemes gabalu jaukta veida (pieļaujama rindu māju un daudzdzīvo",
+        "address": "Cēsis",
+        "area": "3230 m²",
+        "price1m2": "4.63 €",
+        "totalPrice": "14,950  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdodu apbūves zemi 0, 4251 ha. Zeme atrodas Augšlīgatnē, 400m no centra un",
+        "address": "Līgatne",
+        "area": "4251 m²",
+        "price1m2": "8 €",
+        "totalPrice": "34,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemes īpašumu Drabešu pagastā. Zemes gabala kopējā platība 2.1 ha, no",
+        "address": "Drabešu pag.Āraiši",
+        "area": "2 ha.",
+        "price1m2": "1.25 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemes īpašumu Cēsīs, pie Jāņa Poruka ielas. Zemes vienības kopējā pla",
+        "address": "Cēsis",
+        "area": "8781 m²",
+        "price1m2": "15.37 €",
+        "totalPrice": "135,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemes gabalu 1.9888 ha platībā Cēsīs, pie Līgatnes ielas. Labs invest",
+        "address": "Cēsis",
+        "area": "19888 m²",
+        "price1m2": "2 €",
+        "totalPrice": "39,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Plašs zemes gabals Cēsu pilsētā, Vārnu ielā, blakus Kalnmuižas parkam. Kopēj",
+        "address": "Cēsis",
+        "area": "23839 m²",
+        "price1m2": "2.31 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemi Cēsīs, Lapsu ielā. Kopējā platība 4320 kv. m. Saskaņā ar pilsēta",
+        "address": "Cēsis",
+        "area": "4320 m²",
+        "price1m2": "20 €",
+        "totalPrice": "86,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Īpašnieks pārdod zemes gabalu ar dolomīta mājas karkasu. Iepriekšējā vasarā ",
+        "address": "Priekuļu pag.Priekuļi",
+        "area": "8320 m²",
+        "price1m2": "6.25 €",
+        "totalPrice": "52,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod zemi komercapbūvei vai privātmājai. \n\nVisas komunikācijas:\n\n-Ūdens\n\n-",
+        "address": "Cēsis",
+        "area": "2228 m²",
+        "price1m2": "17.06 €",
+        "totalPrice": "38,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdodu īpašumu \"Lielie Spinduļi\", kas sastāv no diviem zemes gabaliem ar ko",
+        "address": "Drustu pag.Drusti",
+        "area": "50 ha.",
+        "price1m2": "0.600 €",
+        "totalPrice": "300,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdodās zeme 7800 kvadratm. , kas sastāv no 2 atsevišķiem zemes gabaliem, k",
+        "address": "Cēsis",
+        "area": "7800 m²",
+        "price1m2": "23.59 €",
+        "totalPrice": "184,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdod apbūves zemes gabalu Cēsu novada, Priekuļos. Pieejamas visas komunikā",
+        "address": "Priekuļu pag.Priekuļi",
+        "area": "1044 m²",
+        "price1m2": "20 €",
+        "totalPrice": "20,880  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "cesis",
+        "descr": "Pārdodu lielisku apbūves gabalu Ieriķos. 70 km no Rīgas centra. Starp Siguld",
+        "address": "Drabešu pag.Ieriķi",
+        "area": "3500 m²",
+        "price1m2": "8.54 €",
+        "totalPrice": "29,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Ленточный фундамент под 2ух этажный дом, есть проект. От центра города 5 км(",
+        "address": "Daugavpils",
+        "area": "0.50 ha.",
+        "price1m2": "5 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаётся участок в элитном месте в Ругелях под застройку, для индивидуально",
+        "address": "Daugavpils",
+        "area": "1800 m²",
+        "price1m2": "11.11 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаётся земельный участок с двумя зданиями и тельфером.",
+        "address": "Daugavpils",
+        "area": "307 m²",
+        "price1m2": "59 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продается участок земли площадью 2.65Га на берегу Двины в парковой зоне \"Dau",
+        "address": "Naujenes pag.Sandariški",
+        "area": "2.65 ha.",
+        "price1m2": "0.283 €",
+        "totalPrice": "7,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Есть береговая линия. Земля граничит с красивым озером Лукнас. \n\nПродаётся 1",
+        "address": "Višķu pag.Ostrova",
+        "area": "2 ha.",
+        "price1m2": "1.25 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продам земельный участок. Все расскажу по тел.",
+        "address": "Kalkūnes pag.Kalkūni",
+        "area": "12 ha.",
+        "price1m2": "0.225 €",
+        "totalPrice": "27,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продадим участок под строительство дома. Электричество-Газ-Вод а-Канализация",
+        "address": "Daugavpils",
+        "area": "2207 m²",
+        "price1m2": "30 €",
+        "totalPrice": "66,210  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продадим участок под строительство дома. Электричество-Газ-Вод а-Канализация",
+        "address": "Daugavpils",
+        "area": "2080 m²",
+        "price1m2": "30 €",
+        "totalPrice": "62,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продадим участок под строительство дома. Электричество-Газ-Вод а-Канализация",
+        "address": "Daugavpils",
+        "area": "1977 m²",
+        "price1m2": "30 €",
+        "totalPrice": "59,310  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Землю сельхоз. с лесом есть пастбище. у дороги. под застройку. недорого.",
+        "address": "Demenes pag.Zemgale",
+        "area": "86000 m²",
+        "price1m2": "0.122 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Красивое уютное место на берегу озера с пляжем и парком. под застройку. есть",
+        "address": "Demenes pag.Briģene",
+        "area": "25000 m²",
+        "price1m2": "1.64 €",
+        "totalPrice": "41,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Идеальное место для постройки дома. Кругом новый асфальт. 30м до электролини",
+        "address": "Kalkūnes pag.Galdnieki",
+        "area": "0.22 ha.",
+        "price1m2": "2.73 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Дачный участок в Межциемс есть фундамент под дом и баню .",
+        "address": "Līksnas pag.Kooperators",
+        "area": "546 m²",
+        "price1m2": "10.90 €",
+        "totalPrice": "5,950  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Pārdodu skaistā vietā zemes gabalu. Lidz Stropu ezeram 200m. Bez starpniekie",
+        "address": "Daugavpils",
+        "area": "3173 m²",
+        "price1m2": "6.46 €",
+        "totalPrice": "20,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Pārdod smilts-grants karjeru Daugavpils novadā, Vecsalienas pagastā ar kopēj",
+        "address": "Vecsalienas pag.",
+        "area": "4 ha.",
+        "price1m2": "0.400 €",
+        "totalPrice": "16,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Красивое место с видом на три церкви Под строительство либо частного дома на",
+        "address": "Daugavpils",
+        "area": "1339 m²",
+        "price1m2": "8.22 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Расположен между двух транспортных колец , соединяющих все городские районы.",
+        "address": "Daugavpils",
+        "area": "2 ha.",
+        "price1m2": "14 €",
+        "totalPrice": "280,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Īpašnieks pārdod l/s zemi 4ha, no tā ezers (1 ha). Robežojas ar autoceļu Akn",
+        "address": "Subates l. t.Baltmuiža",
+        "area": "4 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаём участок в 10 минутах езды от Даугавпилса, в посёлке Мирный. \n\nУчасто",
+        "address": "Laucesas pag.Mirnijs",
+        "area": "4100 m²",
+        "price1m2": "1.10 €",
+        "totalPrice": "4,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Сельскохозяйственная земля продается связи прекращением сельскохозяйственной",
+        "address": "Salienas pag.Stašališki",
+        "area": "15 ha.",
+        "price1m2": "0.317 €",
+        "totalPrice": "47,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаю землю (740 м2) с постройками по адресу улица Стура 4, Погулянка, Дауг",
+        "address": "Daugavpils",
+        "area": "740 m²",
+        "price1m2": "20.27 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продам свою мечту - на большом участке поставить дом и подсобные помещения, ",
+        "address": "Daugavpils",
+        "area": "3917 m²",
+        "price1m2": "14.09 €",
+        "totalPrice": "55,174  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Идеальное место для строительства частного дома. Земельный участок правильно",
+        "address": "Daugavpils",
+        "area": "1800 m²",
+        "price1m2": "16.67 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Tiek pārdots nekustamais īpašums, Demenes pagastā, ar platību 29.8 ha. (ezer",
+        "address": "Demenes pag.Jāņuciems",
+        "area": "30 ha.",
+        "price1m2": "0.200 €",
+        "totalPrice": "60,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продается земельный участок.",
+        "address": "Maļinovas pag.",
+        "area": "5 ha.",
+        "price1m2": "0.720 €",
+        "totalPrice": "36,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Publiskās apbūves teritorija. Iespējams būvēt rindu mājas, daudzdzīvokļu māj",
+        "address": "Daugavpils",
+        "area": "2235 m²",
+        "price1m2": "11.41 €",
+        "totalPrice": "25,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 4, 74 ha, Pilskalnes paga",
+        "address": "Pilskalnes pag.",
+        "area": "4.74 ha.",
+        "price1m2": "0.211 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаётся земля 7.3 га:\n\n- сельскохозяйственная земля – 6.5 га, обрабатывает",
+        "address": "Medumu pag.Juneļi",
+        "area": "7 ha.",
+        "price1m2": "0.429 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаётся земля 13, 86 га:\n\n- сельскохозяйственная земля – 11.17 га, \n\n- ест",
+        "address": "Medumu pag.",
+        "area": "14 ha.",
+        "price1m2": "0.248 €",
+        "totalPrice": "34,650  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продается земля 3.7 га:\n\n- два участка – 2.2 га и 1.5 га, \n\n- сельскохозяйст",
+        "address": "Biķernieku pag.Pavlovskoje",
+        "area": "4 ha.",
+        "price1m2": "0.301 €",
+        "totalPrice": "12,050  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаеться",
+        "address": "Daugavpils",
+        "area": "0.45 ha.",
+        "price1m2": "1.38 €",
+        "totalPrice": "6,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продаём участок земли в Бикерниекской волости, 25 км от Даугавпилса. \n\nПлоща",
+        "address": "Biķernieku pag.Kolobuhino",
+        "area": "5 ha.",
+        "price1m2": "0.150 €",
+        "totalPrice": "7,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Продается земельный участок под постройку дома",
+        "address": "Maļinovas pag.",
+        "area": "22000 m²",
+        "price1m2": "0.605 €",
+        "totalPrice": "13,300  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Pārdodu zemes gabalu pašā pilsētas centrā. Visas komunikācijas ir blakus(dab",
+        "address": "Daugavpils",
+        "area": "3200 m²",
+        "price1m2": "42.19 €",
+        "totalPrice": "135,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "daugavpils",
+        "descr": "Землю на берегу реки из трех кусков в земельной книге. недорого",
+        "address": "Naujenes pag.Vecpils",
+        "area": "14 ha.",
+        "price1m2": "0.214 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdodu zemi Bēnē, 0.56 h.",
+        "address": "Bēnes pag.Bēne",
+        "area": "0.56 ha.",
+        "price1m2": "0.839 €",
+        "totalPrice": "4,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdod smilšu karjeru 5, 89 ha. Izstrādāts nepilns hektārs. Palikuši 350 tūk",
+        "address": "Annenieku pag.Annenieki",
+        "area": "6 ha.",
+        "price1m2": "2.15 €",
+        "totalPrice": "129,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdod zemes gabalu mājas būvniecībai. Ir dīķis ar saliņu. Iestādīti koki un",
+        "address": "Bērzes pag.Miltiņi",
+        "area": "7888 m²",
+        "price1m2": "3.30 €",
+        "totalPrice": "26,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdodu zemi mazdārziņu rajonā, iespējams privātmājas būvēšanai vai vasarnīc",
+        "address": "Krimūnu pag.Parūķis",
+        "area": "0.18 ha.",
+        "price1m2": "6.11 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Īpašnieks pārdod zemi privātmājas būvniecībai-Dobeles novadā, Krimūnu pagast",
+        "address": "Krimūnu pag.",
+        "area": "1310 m²",
+        "price1m2": "15.27 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pasakaina vieta. Līdz Dobeles zīmei ir vidēji 2km. Atrodas aiz Dobeles ķeste",
+        "address": "Dobele",
+        "area": "1229 m²",
+        "price1m2": "7.62 €",
+        "totalPrice": "9,369  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Īpašnieks pārdod zemi ar noliktavas. \n\nPerspēktīva vieta pie paša asfaltēta ",
+        "address": "Zebrenes pag.Zebrene",
+        "area": "29000 m²",
+        "price1m2": "1.31 €",
+        "totalPrice": "38,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdod zemes gabalu Auru pagastā \"Rozītes\" privātmājas vai vasarnīcas celtni",
+        "address": "Auru pag.Auri",
+        "area": "20000 m²",
+        "price1m2": "3 €",
+        "totalPrice": "60,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdod zemes gabalu 0.5 km no Dobeles - Galeniekos. \n\n\n\nIr mājas būvniecībai",
+        "address": "Dobele",
+        "area": "0.15 ha.",
+        "price1m2": "6.33 €",
+        "totalPrice": "9,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdodas lauksaimniecībā izmantojama zeme ar māju kam nepieciešams remonts.",
+        "address": "Lielauces pag.Ražotāji",
+        "area": "8 ha.",
+        "price1m2": "0.375 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pārdod ideālu zemes gabalu ar perspektīvu būvēt dzīvojamo māju , vai vasaras",
+        "address": "Dobele",
+        "area": "1 m²",
+        "price1m2": "22,000 €",
+        "totalPrice": "22,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "dobele",
+        "descr": "Pardodu zemi mazdārziņu , zemi privātmājas būvēšanai vai zemi vasarnīcai ska",
+        "address": "Krimūnu pag.",
+        "area": "600 m²",
+        "price1m2": "5 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Pārdod zemi",
+        "address": "Stradu pag.Stradi",
+        "area": "1 ha.",
+        "price1m2": "0.300 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Pārdodu skaistu, labiekārtotu un saulainu teritoriju mazdārziņu rajonā. Ideā",
+        "address": "Gulbene",
+        "area": "600 m²",
+        "price1m2": "12.50 €",
+        "totalPrice": "7,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Pardodam dārzu, privatizēts. Elektrība nav pieslēgta, to var izdarīt, nav tā",
+        "address": "Gulbene",
+        "area": "600 m²",
+        "price1m2": "4.17 €",
+        "totalPrice": "2,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Pārdod lauksaimniecības zemi ar mežu. \n\nZeme 41, 5 ha\n\nMežs 11, 9 ha",
+        "address": "Beļavas pag.Beļava",
+        "area": "53 ha.",
+        "price1m2": "0.340 €",
+        "totalPrice": "180,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Pārdod nekustamo īpašumu Upsalas, Līgo pagasts, Gulbenes novads.",
+        "address": "Līgo pag.Līgo",
+        "area": "99 ha.",
+        "price1m2": "0.237 €",
+        "totalPrice": "235,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "gulbene",
+        "descr": "Īpašnieks pārdod zemi ar ezeru Stāmerienā. \n\nTeritorijas ziemeļu daļa ietilp",
+        "address": "Stāmerienas pag.Vecstāmeriena",
+        "area": "8 ha.",
+        "price1m2": "0.344 €",
+        "totalPrice": "27,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Продаю или меняю в центре жилмассива Раф коммерческую землю (можно изменить ",
+        "address": "Jelgava",
+        "area": "1301 m²",
+        "price1m2": "38 €",
+        "totalPrice": "49,438  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Lielisks lauku īpašums, skaista ainava un panorāmas skati, netipisks priekš ",
+        "address": "Svētes pag.",
+        "area": "5000 m²",
+        "price1m2": "7.50 €",
+        "totalPrice": "37,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod dārzu kooperatīvā \"Ziedonis\". Ir iespēja elektrības pieslēgumam. Sīkā",
+        "address": "Jelgava",
+        "area": "1200 m²",
+        "price1m2": "10 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Īpašnieks pārdod zemes gabalu 1, 27 ha platībā Vircavas pagasts. Izdevīga vi",
+        "address": "Vircavas pag.Vircava",
+        "area": "12700 m²",
+        "price1m2": "0.906 €",
+        "totalPrice": "11,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdošanā nepilnus divus hektārus liels apbūves gabals bez apgrūtinājumiem V",
+        "address": "Valgundes nov.",
+        "area": "2 ha.",
+        "price1m2": "1.65 €",
+        "totalPrice": "33,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod divus zemes gabalus Rubeņu ceļš, Raubēni, Jelgavā. Platība 3, 2 ha un",
+        "address": "Jelgava",
+        "area": "4 ha.",
+        "price1m2": "8 €",
+        "totalPrice": "320,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod zemesgabalu privātmājas būvniecībai ar elektrības pieslēgumu. Atrodas",
+        "address": "Ozolnieku pag.Ozolnieki",
+        "area": "1553 m²",
+        "price1m2": "16.74 €",
+        "totalPrice": "26,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod lauksaimniecībai izmantojamu zemi 0.89ha platībā.",
+        "address": "Jaunsvirlaukas pag.Kārniņi",
+        "area": "1 ha.",
+        "price1m2": "1.40 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdodu zemi apbūvei Jelgavā, Malkas ceļā 1E. Īpašums atrodas pie Dobeles šo",
+        "address": "Jelgava",
+        "area": "8329 m²",
+        "price1m2": "15.01 €",
+        "totalPrice": "125,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Tiek pārdota apbūves zeme Jelgavas centrā. \n\nZemesgabals atrodas starp Pulkv",
+        "address": "Jelgava",
+        "area": "4676 m²",
+        "price1m2": "35 €",
+        "totalPrice": "163,660  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Perspektīvs zemes gabals komerciālai un rūpnieciskai apbūvei. \n\nZemes gabalu",
+        "address": "Jelgava",
+        "area": "26258 m²",
+        "price1m2": "4.76 €",
+        "totalPrice": "125,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Vēlies īpašumu ārpilsētā? \n\nJā, svaigs, tīrs gaiss un jaunas iespējas. \n\nLie",
+        "address": "Ozolnieku pag.",
+        "area": "6947 m²",
+        "price1m2": "7.20 €",
+        "totalPrice": "50,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod lauksaimniecības zemi pie ūdenstilpnes krasta Lielplatonē, privātmāja",
+        "address": "Lielplatones pag.Lielplatone",
+        "area": "20000 m²",
+        "price1m2": "1.50 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Zemes gabals ļoti tuvu Jelgavas centram, bet klusā, no pilsētas ielām norobe",
+        "address": "Jelgava",
+        "area": "633 m²",
+        "price1m2": "205 €",
+        "totalPrice": "130,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdodu zemi privātmājas būvniecībai, klusā un ainaviskā vietā ir pievilkta ",
+        "address": "Jelgava",
+        "area": "1870 m²",
+        "price1m2": "19 €",
+        "totalPrice": "35,530  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Tiek pārdots zemes gabals Mazajā Rogu ceļā 28 ar kopplatību 1242 m2 vienā no",
+        "address": "Jelgava",
+        "area": "1242 m²",
+        "price1m2": "18.92 €",
+        "totalPrice": "23,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod līdzenu zemesgabalu Katrīnsilā ar elektrības pieslēgumu privātmājas b",
+        "address": "Sidrabenes pag.Garoza",
+        "area": "1650 m²",
+        "price1m2": "7.27 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "SIA ’’Novators’’ pārdod nekustamā īpašuma Rūpniecības iela 20E, Jelgava daļu",
+        "address": "Jelgava",
+        "area": "11400 m²",
+        "price1m2": "50 €",
+        "totalPrice": "570,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "SIA \"Novators\" pārdod zemes gabalu privātmājas būvniecībai ar izbūvētu piebr",
+        "address": "Jelgava",
+        "area": "1008 m²",
+        "price1m2": "18 €",
+        "totalPrice": "18,144  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "SIA \"Novators\" pārdod zemes gabalu privātmājas būvniecībai. Zemes gabala pla",
+        "address": "Jelgava",
+        "area": "1266 m²",
+        "price1m2": "28 €",
+        "totalPrice": "35,448  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "SIA ''Novators\" pārdod zemes gabalu privātmājas būvniecībai. Zemes gabala pl",
+        "address": "Jelgava",
+        "area": "1783 m²",
+        "price1m2": "28 €",
+        "totalPrice": "49,924  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "SIA \"Novators\" pārdod zemes gabalu privātmājas būvniecībai. Zemes gabala pla",
+        "address": "Jelgava",
+        "area": "1540 m²",
+        "price1m2": "28 €",
+        "totalPrice": "43,120  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod zemi Gļūdas pagastā, Viesturciemā. Var būvēt dzīvojamo māju vai vasar",
+        "address": "Glūdas pag.Viesturi",
+        "area": "916 m²",
+        "price1m2": "10.92 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdodu zemi privātmājas būvniecībai Jelgavā, Loka maģistrālē 47. Zemes gaba",
+        "address": "Jelgava",
+        "area": "1156 m²",
+        "price1m2": "39.79 €",
+        "totalPrice": "46,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Zeme kopta līdz asfaltam 200 metri, ciematā. Komunikāciju nav.",
+        "address": "Valgundes nov.Valgunde",
+        "area": "2500 m²",
+        "price1m2": "2.80 €",
+        "totalPrice": "7,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdod zemi privātmājas būvniecībai skaitā, klusā vietā. No komunikācijām pi",
+        "address": "Jelgava",
+        "area": "2562 m²",
+        "price1m2": "11.51 €",
+        "totalPrice": "29,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdodu zemes gabalu privātmāju būvēšanai. līdzens reljefs , iztīrīti grāvji",
+        "address": "Jelgava",
+        "area": "1335 m²",
+        "price1m2": "18.73 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Komerczeme ar apbūvi un attīstības iespējām.",
+        "address": "Jelgava",
+        "area": "12985 m²",
+        "price1m2": "23.03 €",
+        "totalPrice": "299,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jelgava",
+        "descr": "Pārdodu vienu no diviem apbūves zemes gabaliem pie A8 šosejas, netālu no pop",
+        "address": "Jaunsvirlaukas pag.Bajāri",
+        "area": "6464 m²",
+        "price1m2": "4.47 €",
+        "totalPrice": "28,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Piedāvājam iegādāties salu 1700 m² platībā, Aksenovas ezerā, ezers atrodas K",
+        "address": "Šķeltovas pag.Aksenova",
+        "area": "1700 m²",
+        "price1m2": "14.71 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Продаём участок под строительство жилого дома. Удобное расположение. \n\nУчаст",
+        "address": "Krāslava",
+        "area": "700 m²",
+        "price1m2": "6.43 €",
+        "totalPrice": "4,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdodas zeme pie Glušeņa ezera",
+        "address": "Andzeļu pag.Mamoni",
+        "area": "3 ha.",
+        "price1m2": "0.400 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Tiek pārdots zemes gabals Krāslavā privātmājas būvniecībai. Visas pilsētas k",
+        "address": "Krāslava",
+        "area": "1648 m²",
+        "price1m2": "4.79 €",
+        "totalPrice": "7,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Участок земли в поселке Индра, удобное расположение, рядом с центром, хороша",
+        "address": "Indras pag.Indra",
+        "area": "2000 m²",
+        "price1m2": "0.300 €",
+        "totalPrice": "600  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Saimnieks pārdod zemes platību Dridža ezera krastā, blakus Saules kalnam. Iz",
+        "address": "Kombuļu pag.Sarkanais Rags",
+        "area": "1 ha.",
+        "price1m2": "10 €",
+        "totalPrice": "100,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Участок земли 0, 4 га в живописном уголке Латгалии. 200 м до проточного озер",
+        "address": "Krāslavas pag.",
+        "area": "0.40 ha.",
+        "price1m2": "0.375 €",
+        "totalPrice": "1,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Уникальное предложение - озеро с прилегающим к нему земельным участком. Площ",
+        "address": "Kaplavas pag.",
+        "area": "50 ha.",
+        "price1m2": "0.260 €",
+        "totalPrice": "130,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Продаётся земля 4.8 га:\n\n- сельскохозяйственная земля – 4.3 га, обрабатывает",
+        "address": "Izvaltas pag.Meža Japini",
+        "area": "5 ha.",
+        "price1m2": "0.300 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Zemes gabals pilsētas centrā. Elektrības pieslēgums, ūdens vads, pagrabs, āb",
+        "address": "Krāslava",
+        "area": "1900 m²",
+        "price1m2": "5.53 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Izcils zemes gabals privātmājas būvniecībai vai burvīgas atpūtas vietas veid",
+        "address": "Šķeltovas pag.Šķeltova",
+        "area": "14000 m²",
+        "price1m2": "0.750 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Andrupenes pag.",
+        "area": "9.60 ha.",
+        "price1m2": "0.375 €",
+        "totalPrice": "36,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Andrupenes pag.",
+        "area": "4.70 ha.",
+        "price1m2": "0.351 €",
+        "totalPrice": "16,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Ezernieku pag.",
+        "area": "5.04 ha.",
+        "price1m2": "0.278 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pardod nekustamo īpašumu Liz. Zemāk pievienoti Pdf faili ar zemes robežplānu",
+        "address": "Dagda",
+        "area": "3.22 ha.",
+        "price1m2": "0.295 €",
+        "totalPrice": "9,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Dagda",
+        "area": "4.60 ha.",
+        "price1m2": "0.293 €",
+        "totalPrice": "13,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Andrupenes pag.Rumakova",
+        "area": "4.83 ha.",
+        "price1m2": "0.352 €",
+        "totalPrice": "17,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pardod nekustamo īpašumu Liz. Zemāk pievienoti Pdf faili ar zemes robežplānu",
+        "address": "Kombuļu pag.",
+        "area": "4.50 ha.",
+        "price1m2": "0.200 €",
+        "totalPrice": "9,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Kraslavas rajona, Andžeļu pagasts blakam ezeram, ir taksacija pardodas zemel",
+        "address": "Krāslavas pag.",
+        "area": "9 ha.",
+        "price1m2": "0.211 €",
+        "totalPrice": "19,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Продается большой ровный земельный участок, который можно использовать для с",
+        "address": "Kombuļu pag.Kombuļi",
+        "area": "2970 m²",
+        "price1m2": "1.68 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pārdodu zemi.",
+        "address": "Krāslava",
+        "area": "579 m²",
+        "price1m2": "5.18 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Īpašnieks pārdod zemes gabalu, daļa no zemes mežs.",
+        "address": "Ūdrīšu pag.Ludvikova",
+        "area": "7.80 ha.",
+        "price1m2": "0.269 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Pasakaina vieta Užuņu ezera krastā. \n\nEzera krasts, pludmale. \n\n29ha iekļauj",
+        "address": "Kastuļinas pag.Kastuļina",
+        "area": "29 ha.",
+        "price1m2": "0.190 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
+        "address": "Andzeļu pag.",
+        "area": "6.90 ha.",
+        "price1m2": "0.283 €",
+        "totalPrice": "19,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
+        "address": "Kaplavas pag.Kaplava",
+        "area": "8.08 ha.",
+        "price1m2": "0.309 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kraslava",
+        "descr": "Продаём Полуостров на красивом латгальском озере. \n\nЗемля находится в Робежн",
+        "address": "Robežnieku pag.Robežnieki",
+        "area": "48000 m²",
+        "price1m2": "0.375 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Ūdensvads un elektrība ap 50m attālumā. Cena runājama īstam pircējam",
+        "address": "Kuldīga",
+        "area": "2260 m²",
+        "price1m2": "2.50 €",
+        "totalPrice": "5,650  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod ražojošu dzērveņu stādījumu 1, 5ha. Īpašumā arī mežs 10ha un platība ",
+        "address": "Alsungas pag.Bērzkalni",
+        "area": "31 ha.",
+        "price1m2": "0.255 €",
+        "totalPrice": "79,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Uzņēmums pārdod lauksaimniecības zemi īpašumā \"Bērzkalni\"",
+        "address": "Turlavas pag.Turlava",
+        "area": "10.36 ha.",
+        "price1m2": "0.448 €",
+        "totalPrice": "46,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod zemi, pielietojums komercapbūve vai privātmājas būvniecība.",
+        "address": "Kuldīga",
+        "area": "1200 m²",
+        "price1m2": "18 €",
+        "totalPrice": "21,600  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pardod zemes gabalu Kuldīgā;\n\nSkrundas ielā 47A;\n\nIerīkots elektroenerģijas ",
+        "address": "Kuldīga",
+        "area": "600 m²",
+        "price1m2": "18 €",
+        "totalPrice": "10,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Piedāvājam zemes gabalu, kurš var tikt izmantots kempinga vai lauku mājas bū",
+        "address": "Ēdoles pag.",
+        "area": "3510 m²",
+        "price1m2": "7.55 €",
+        "totalPrice": "26,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "1.43ha A9 šosejas pieguļoša zeme. ir pieejams el pieslēgums. zemes gabals va",
+        "address": "Skrunda",
+        "area": "1.43 ha.",
+        "price1m2": "1.01 €",
+        "totalPrice": "14,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod lauksaimniecības zemi 37 hektārus, zeme ir 3 zemes gabalos un uz vien",
+        "address": "Snēpeles pag.Viesalgciems",
+        "area": "37 ha.",
+        "price1m2": "0.541 €",
+        "totalPrice": "200,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdodu īpašumu ar aku, elektrību, šķūni 2 gab. , dīķi, labierīcībām, lapeni",
+        "address": "Pelču pag.Ābele",
+        "area": "2564 m²",
+        "price1m2": "16.03 €",
+        "totalPrice": "41,100  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Varbūt tieši tagad ir laiks īstenot savu sapni par mājas uzcelšanu laukos. \n",
+        "address": "Padures pag.Padure",
+        "area": "4.60 ha.",
+        "price1m2": "0.652 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod investīciju objektu (zemi un ēku) stratēģiski ļoti izdevīgā vietā Ēdo",
+        "address": "Ēdoles pag.Ēdole",
+        "area": "2500 m²",
+        "price1m2": "17.20 €",
+        "totalPrice": "43,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod ekskluzīvu 4 ha zemes gabalu Kuldīgas novadā, Skrundas pagastā. \n\nZem",
+        "address": "Skrundas l. t.Vēršmuiža",
+        "area": "40000 m²",
+        "price1m2": "4.25 €",
+        "totalPrice": "170,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Savrupmāju apbūves teritorija pašā Kuldīgas centrā ar plašām papildizmantoša",
+        "address": "Kuldīga",
+        "area": "909 m²",
+        "price1m2": "38.50 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdodu īpašumu, kas atrodas 2.5km attālumā no Kuldīgas centra - teritorijā ",
+        "address": "Kuldīga",
+        "area": "12273 m²",
+        "price1m2": "5 €",
+        "totalPrice": "61,365  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Zeme atrodas nettālu no Ventas upes, pastaigu takas, 5min līdz vecpilsētai. ",
+        "address": "Kuldīga",
+        "area": "866 m²",
+        "price1m2": "17.32 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Lauksaimniecības zeme ar apmežojumu, padomju kūts pamati, blakus ceļam un el",
+        "address": "Vārmes pag.Vārme",
+        "area": "11300 m²",
+        "price1m2": "0.195 €",
+        "totalPrice": "2,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Tiek pārdota zeme A9 šosejas malā Skrundas centrā. Attēlā redzamie apgrūtinā",
+        "address": "Skrunda",
+        "area": "2598 m²",
+        "price1m2": "5 €",
+        "totalPrice": "13,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Unikāls zemes gabals komercapbūvei ar asfaltētu pievadu lielceļam. \n\n\n\nVisam",
+        "address": "Rumbas pag.Mežvalde",
+        "area": "2.14 ha.",
+        "price1m2": "6.07 €",
+        "totalPrice": "130,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Tiek pārdots lauku īpašums ar kopējo platību 41, 4 ha Kuldīgas novada Nīkrāc",
+        "address": "Nīkrāces pag.",
+        "area": "41 ha.",
+        "price1m2": "0.459 €",
+        "totalPrice": "188,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod zemes gabalu 0.2 h, 250m attālumā no Ventas, ir iespēja veikt viensēt",
+        "address": "Rumbas pag.Novadnieki",
+        "area": "0.20 ha.",
+        "price1m2": "1.15 €",
+        "totalPrice": "2,300  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod īpašumu ar kopējo platību : 23639.kv. m. , kas sastāv no diviem zemes",
+        "address": "Kuldīga",
+        "area": "23639 m²",
+        "price1m2": "4.23 €",
+        "totalPrice": "100,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Pārdod Kokapuzes muižas zemi 2.28 ha platībā, dīķis 0.87 ha. Saglabājušies ē",
+        "address": "Rudbāržu pag.Kokapuze",
+        "area": "2.28 ha.",
+        "price1m2": "1.32 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Zemes gabals atrodas 200 metrus no Ventas - klusā vietā uz ielas ar mazu tra",
+        "address": "Kuldīga",
+        "area": "2779 m²",
+        "price1m2": "8.10 €",
+        "totalPrice": "22,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Zemes gabals atrodas uz vienas no intensīvas satiksmes ielām. Īpašuma platīb",
+        "address": "Kuldīga",
+        "area": "0.22 ha.",
+        "price1m2": "9.05 €",
+        "totalPrice": "19,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Tikai 6 kilometrus no Kuldīgas klusā, ainaviskā vietā tiek pārdots apbūves g",
+        "address": "Rumbas pag.Veldze",
+        "area": "1.90 ha.",
+        "price1m2": "0.737 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Tiek pārdots zemes gabals apbūvei Kuldīgas centrā. Zemes gabals ieskauts sta",
+        "address": "Kuldīga",
+        "area": "735 m²",
+        "price1m2": "78 €",
+        "totalPrice": "57,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "5, 72ha plašs naftas ieguves lauks Kuldīgas novada Gudenieku pagastā. Pieeja",
+        "address": "Gudenieku pag.Gudenieki",
+        "area": "5.72 ha.",
+        "price1m2": "3.32 €",
+        "totalPrice": "190,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "kuldiga",
+        "descr": "Padures pagasts, bet pie pašas Kuldīgas pilsētas robežas. Zemes gabals privā",
+        "address": "Padures pag.",
+        "area": "4000 m²",
+        "price1m2": "8.63 €",
+        "totalPrice": "34,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Īpašnieks pārdod lauksaimniecības zemi un nekustamo īpašumu. \n\nSīkāk zvanīt",
+        "address": "Sēlpils pag.Sēlija",
+        "area": "25 ha.",
+        "price1m2": "0.240 €",
+        "totalPrice": "60,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodu zemi apbūvei, ceļš pieiet pie gabala, fantastiski skaista vieta, taj",
+        "address": "Krustpils pag.Spunģēni",
+        "area": "2000 m²",
+        "price1m2": "4.95 €",
+        "totalPrice": "9,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdod zemi privātmājas būvēšanai.",
+        "address": "Jēkabpils",
+        "area": "600 m²",
+        "price1m2": "18.33 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Zeme Zemgales ielā. Lietošanas mērķis- privātmājas būvniecība. Blakus visas ",
+        "address": "Jēkabpils",
+        "area": "1426 m²",
+        "price1m2": "13.32 €",
+        "totalPrice": "19,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodās apbūves gabals tuvu Jēkabpilij un tuvu karjeram, bet nav elektrības",
+        "address": "Ābeļu pag.",
+        "area": "0.09 ha.",
+        "price1m2": "11.67 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodu zemes gabalu privātmājas būvēšanai. Zemes gabalam ir elektrības pies",
+        "address": "Jēkabpils",
+        "area": "874 m²",
+        "price1m2": "12.01 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Tiek pārdota zeme lieliskā vietā Bebru mikrorajonā (zemes vien. kad. apzīm. ",
+        "address": "Jēkabpils",
+        "area": "3790 m²",
+        "price1m2": "3.25 €",
+        "totalPrice": "12,300  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodu zemes gabalu 2.66 ha platībā . Zemei ir aptuveni 80 metru Daugavas k",
+        "address": "Sēlpils pag.",
+        "area": "3 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdod īpašnieks, bez starpniekiem. Īpašums atrodas Jēkabpils pilsētas centr",
+        "address": "Jēkabpils",
+        "area": "1190 m²",
+        "price1m2": "67 €",
+        "totalPrice": "80,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodas blakus esoši astońi zemes gabali. komerc vai individuālai apbūvei.",
+        "address": "Jēkabpils",
+        "area": "1566 m²",
+        "price1m2": "5.50 €",
+        "totalPrice": "8,613  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Blakus Daugava, veikali Beta, Depo. t. pilsetas komunikacijas. Zvaniet.",
+        "address": "Jēkabpils",
+        "area": "1918 m²",
+        "price1m2": "4.69 €",
+        "totalPrice": "9,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodam zemes gabalu pēc adreses Viesītē, Sporta iela 22, Neretas-Viesītes ",
+        "address": "Viesīte",
+        "area": "1807 m²",
+        "price1m2": "1.94 €",
+        "totalPrice": "3,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Zemes gabals vasarnīcai vai mājas celšanai. 5 min brauciena no pilsētas cent",
+        "address": "Kūku pag.Vārpa",
+        "area": "0.09 ha.",
+        "price1m2": "4.44 €",
+        "totalPrice": "4,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodas iespaidīgs zemes gabals ar ļoti daudzfunkcionālu pielietojumu, kā p",
+        "address": "Jēkabpils",
+        "area": "11717 m²",
+        "price1m2": "1.96 €",
+        "totalPrice": "23,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodu zemi privātmājas vai vasaras mājas būvniecībai.",
+        "address": "Jēkabpils",
+        "area": "1498 m²",
+        "price1m2": "9.35 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdod abūves gabalu privātmājas sektorā. Atrodas piepilsētas robežā Zīlānu ",
+        "address": "Jēkabpils",
+        "area": "5018 m²",
+        "price1m2": "3.59 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Laksaimniecības - aramzeme, sausa, pie asfaltēta ceļa, ar izbūvētu nobrauktu",
+        "address": "Rites pag.",
+        "area": "4 ha.",
+        "price1m2": "0.299 €",
+        "totalPrice": "11,950  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodas iespaidīgs zemes gabals ar ļoti daudzfunkcionālu pielietojumu, kā p",
+        "address": "Jēkabpils",
+        "area": "13634 m²",
+        "price1m2": "1.83 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Pārdod",
+        "address": "Viesītes l. t.",
+        "area": "4 ha.",
+        "price1m2": "0.375 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdodas īpašums \"Kalnadruvas\", skaistā un ainaviskā vietā, 1300m attālumā n",
+        "address": "Elkšņu pag.",
+        "area": "23 ha.",
+        "price1m2": "0.522 €",
+        "totalPrice": "120,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Tiek pārdoti vecās dzīvojamās mājas pamati un palīgēkas pamati, kuri atrodas",
+        "address": "Variešu pag.Antūži",
+        "area": "5400 m²",
+        "price1m2": "0.556 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 9 ha, Mežāres pagastā, Jē",
+        "address": "Mežāres pag.",
+        "area": "9 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "45,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Skaista vieta mājas būvēšanai vai arī komerciālai izmantošanai, robežojas ar",
+        "address": "Jēkabpils",
+        "area": "6350 m²",
+        "price1m2": "3.07 €",
+        "totalPrice": "19,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "jekabpils",
+        "descr": "Pārdod zemi ļoti labā vietā mājas būvniecībai (zemes vien. kad. apzīm. 56010",
+        "address": "Jēkabpils",
+        "area": "4462 m²",
+        "price1m2": "3.18 €",
+        "totalPrice": "14,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zemes gabals atrodas Vērgales pagastā, Saraiķu teritorijā - 500m attalumā no",
+        "address": "Vērgales pag.Saraiķi",
+        "area": "2 ha.",
+        "price1m2": "0.700 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Plašs zemesgabals privātmājas būvniecībai nelielā privātmāju ciematā. \n\n\n\nVa",
+        "address": "Nīcas pag.Bernāti",
+        "area": "2 ha.",
+        "price1m2": "2 €",
+        "totalPrice": "40,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "500m no jūras plašs zemes gabals (5.4 ha) apbūvei Nidas ciemā. \n\n\n\nLieliska ",
+        "address": "Rucavas pag.Nida",
+        "area": "5 ha.",
+        "price1m2": "1.26 €",
+        "totalPrice": "63,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Pārdod 4, 21 ha zemes gabalu apbūvei skaistā vietā pie jūras Sakas pagastā, ",
+        "address": "Pāvilosta",
+        "area": "4.21 ha.",
+        "price1m2": "1.31 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Pārdodu zemes gabalu 4330 kv. m. Ir visas komunikācijas. Ērts komercdarbībai",
+        "address": "Aizpute",
+        "area": "4330 m²",
+        "price1m2": "3.46 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "1180 kv. m apbūves zeme Grobiņā, Kalēju ielā 71, zeme atrodas savrupmāju apb",
+        "address": "Grobiņa",
+        "area": "1180 m²",
+        "price1m2": "25.42 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Tiek pārdots plašs, līdzens zemesgabals privātai apbūvei. \n\nIr elektrības tr",
+        "address": "Liepāja",
+        "area": "1 ha.",
+        "price1m2": "2 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Izcils piedāvājums attīstīt savu biznesu – 19.2 ha zemes īpašuma pārdošanā. ",
+        "address": "Aizputes pag.",
+        "area": "19 ha.",
+        "price1m2": "0.368 €",
+        "totalPrice": "70,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zeme 18, 06 ha platībā ar 200, 05 m jūras robežu Ulmalē Sakas pagastā, 60 km",
+        "address": "Sakas pag.Ulmale",
+        "area": "18 ha.",
+        "price1m2": "2.22 €",
+        "totalPrice": "400,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "1, 39 ha zeme apbūvei 450m no jūras Papē, Rucavas novadā. \n\nZeme paredzēta a",
+        "address": "Rucavas pag.Papes Ķoņu ciems",
+        "area": "1.39 ha.",
+        "price1m2": "10 €",
+        "totalPrice": "139,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Skaists 6300m2 liels zemes gabals privātmājas, dvīņu mājas vai rindu mājas b",
+        "address": "Grobiņa",
+        "area": "6300 m²",
+        "price1m2": "5.40 €",
+        "totalPrice": "34,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Ideāli piemērota zeme tirdzniecības laukumam, piem. , auto placim vai kokmat",
+        "address": "Grobiņa",
+        "area": "2308 m²",
+        "price1m2": "5.20 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zeme privātmājas celtniecībai Grīnvaltos, 1.5km no Liepājas pilsētas robežzī",
+        "address": "Nīcas pag.",
+        "area": "3500 m²",
+        "price1m2": "5.14 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Комплекс недвижимости, состоящий из асфальтированного участка земли (5849 кв",
+        "address": "Liepāja",
+        "area": "5849 m²",
+        "price1m2": "15.22 €",
+        "totalPrice": "89,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Pārdodam 3, 41ha pirmajā linijā pie jūras. \n\n3km no Papes , Liepāja 50km , K",
+        "address": "Rucavas pag.Pape",
+        "area": "3.41 ha.",
+        "price1m2": "1.91 €",
+        "totalPrice": "65,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Продается земельный учвсток.",
+        "address": "Medzes pag.Šķēde",
+        "area": "600 m²",
+        "price1m2": "6.67 €",
+        "totalPrice": "4,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Pārdodam 1.35 ha lielu zemes gabalu Nīcas pagastā, Bernātos. Zemes gabals at",
+        "address": "Nīcas pag.Bernāti",
+        "area": "1.35 ha.",
+        "price1m2": "4.07 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "1022 m2 plašs apbūves zemesgabals Rīgas ielā 49, Liepājā. Blakus atrodas Dal",
+        "address": "Liepāja",
+        "area": "1022 m²",
+        "price1m2": "23.97 €",
+        "totalPrice": "24,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Pārdod asfaltētu laukumu ar visām pieejamajām pilētas komunikācijām, komercd",
+        "address": "Liepāja",
+        "area": "2802 m²",
+        "price1m2": "28.55 €",
+        "totalPrice": "80,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Tiek pārdots zemes gabals 1, 27ha privātmājas būvniecībai Klampju ciemā. \n\nL",
+        "address": "Nīcas pag.",
+        "area": "1.27 ha.",
+        "price1m2": "1.30 €",
+        "totalPrice": "16,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "1, 91 ha zemes lauku viensētas apbūvei Nīcas novadā, Grīnvaltos, labs piebra",
+        "address": "Nīcas pag.",
+        "area": "1.91 ha.",
+        "price1m2": "1.99 €",
+        "totalPrice": "38,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "1154 kvm zeme apbūvei centrā 850m no jūras Bārtas ielā 14/16, Liepājā. \n\nBla",
+        "address": "Liepāja",
+        "area": "1154 m²",
+        "price1m2": "52 €",
+        "totalPrice": "59,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "0, 54 ha zeme apbūvei 380m no jūras Nidā, Rucavas pagastā, Latvijā. \n\nZemes ",
+        "address": "Rucavas pag.Nida",
+        "area": "0.54 ha.",
+        "price1m2": "9.26 €",
+        "totalPrice": "50,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zeme 4, 62 ha ar 69 m jūras robežu Ulmalē Sakas pagastā, 60 km no Liepājas c",
+        "address": "Sakas pag.Labrags",
+        "area": "5 ha.",
+        "price1m2": "2.70 €",
+        "totalPrice": "135,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zemes gabals privātmājas, dvīņu mājas vai rindu mājas celtniecībai Grīnvalto",
+        "address": "Liepāja",
+        "area": "3554 m²",
+        "price1m2": "9.85 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zemesgabals privātmāju būvniecībai par ļoti saprātīgu cenu. Pilsētas komunik",
+        "address": "Liepāja",
+        "area": "718 m²",
+        "price1m2": "16.99 €",
+        "totalPrice": "12,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "Zeme 1789 kv/m platībā, Laumas rajonā. Iespējama savrūpmājas vai dvīņu mājas",
+        "address": "Liepāja",
+        "area": "1789 m²",
+        "price1m2": "10.01 €",
+        "totalPrice": "17,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "liepaja",
+        "descr": "AS \"Privatbank\" meitas uzņēmuma īpašums atrodas Liepājā, Zaļās birzs mikrora",
+        "address": "Liepāja",
+        "area": "9430 m²",
+        "price1m2": "3.71 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodu privatizētu zemes gabalu kooperatīvā \"Priedītes\". Platība 0, 1171 ha",
+        "address": "Ludza",
+        "area": "0.12 ha.",
+        "price1m2": "3.58 €",
+        "totalPrice": "4,300  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodu skaistu, sakoptu īpašumu Lielo Zurzu ezera krastā. Krasta līnija 200",
+        "address": "Isnaudas pag.Zurzi",
+        "area": "2.70 ha.",
+        "price1m2": "0.741 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodu lauksaimniecības zemi",
+        "address": "Ņukšu pag.Ņukši",
+        "area": "2 ha.",
+        "price1m2": "0.300 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Продаётся. Все подробности по тел.",
+        "address": "Ludza",
+        "area": "0.60 ha.",
+        "price1m2": "7.17 €",
+        "totalPrice": "43,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdod lauksaimniecība izmantojamo zemi kopā ar mežu. 3000€ par 1ha.",
+        "address": "Blontu pag.Blonti",
+        "area": "34 ha.",
+        "price1m2": "0.300 €",
+        "totalPrice": "102,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodas zemes gabals Kārsavā.",
+        "address": "Kārsava",
+        "area": "2026 m²",
+        "price1m2": "2.96 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Steidzami Pārdodas kokzāģētava ar zemi un ar visu aprīkojumu. Sīkāka informā",
+        "address": "Zvirgzdenes pag.Lucmuiža",
+        "area": "3 ha.",
+        "price1m2": "2.27 €",
+        "totalPrice": "68,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Продаётся земля 2 га:\n\n- сельскохозяйственная земля – 2 га, обрабатывается, ",
+        "address": "Goliševas pag.",
+        "area": "2 ha.",
+        "price1m2": "0.250 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdošana 1.9 ha lauksaimniecības zemes. \n\nSkaistā vietā pie ezera.",
+        "address": "Lauderu pag.Lauderi",
+        "area": "1.90 ha.",
+        "price1m2": "0.263 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Zeme privātmājas būvēšanai. Cena runājama. Ja neceļu klausuli var droši zvan",
+        "address": "Ludza",
+        "area": "1841 m²",
+        "price1m2": "2.88 €",
+        "totalPrice": "5,300  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Pārdodu ļoti plašu zemes gabalu Ludzā. Tikko izveidots asfaltēts piebraucama",
+        "address": "Ludza",
+        "area": "4586 m²",
+        "price1m2": "2.62 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ludza",
+        "descr": "Владелец продает землю. \n\nНа земле 137 гаражей. \n\nВозможен обмен на землю, л",
+        "address": "Ludza",
+        "area": "6589 m²",
+        "price1m2": "4.55 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdodu asfaltētu zemes laukumu, cena atkarīga no pērkamā laukuma izmēra.",
+        "address": "Madona",
+        "area": "1.20 ha.",
+        "price1m2": "6.25 €",
+        "totalPrice": "75,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdod lauksaimniecībā izmantojamu zemi - 4.9ha. \n\nLauksaimniecības zeme - 4",
+        "address": "Kalsnavas pag.",
+        "area": "4.90 ha.",
+        "price1m2": "0.350 €",
+        "totalPrice": "17,150  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdod 1, 11 ha zemes gabalu ar 4 ēku pamatiem, augļu dārzs, dīķis.",
+        "address": "Barkavas pag.Stalīdzāni",
+        "area": "1.11 ha.",
+        "price1m2": "1.35 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdod privātmājas zemes apbūves gabalu. \n\nSīkāks info zvanot.",
+        "address": "Madona",
+        "area": "1225 m²",
+        "price1m2": "6 €",
+        "totalPrice": "7,350  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdod no nekustamā īpašuma \"Saulītes\" atdalītu lauksaimniecībā izmantojamu ",
+        "address": "Barkavas pag.",
+        "area": "15.51 ha.",
+        "price1m2": "0.400 €",
+        "totalPrice": "62,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Tiek pārdots apbūvējams zemes gabals Madonas novadā, Ērgļu pagastā. Īpašums ",
+        "address": "Ērgļu pag.Ērgļi",
+        "area": "5534 m²",
+        "price1m2": "1.61 €",
+        "totalPrice": "8,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Pārdodu zemi. Foto ieskatam. Sīkāks info pa telefonu.",
+        "address": "Cesvaines l. t.Kraukļi",
+        "area": "7 ha.",
+        "price1m2": "0.357 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Tiek pārdots nekustamais īpašums ar kopējo platību 11, 19 ha, Sausnējas paga",
+        "address": "Sausnējas pag.",
+        "area": "11.19 ha.",
+        "price1m2": "0.268 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "madona",
+        "descr": "Īpašums pie Aiviekstes upes - 150, 92 ha zemes un būves. Īpašums sastāv no v",
+        "address": "Praulienas pag.Saikava",
+        "area": "151 ha.",
+        "price1m2": "0.589 €",
+        "totalPrice": "890,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Īpašnieks pārdod zemi Lielvārdē. Var iekārtot kā mazdārziņu. Nekustamā īpašu",
+        "address": "Lielvārde",
+        "area": "844 m²",
+        "price1m2": "4.15 €",
+        "totalPrice": "3,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdodu zemesgabalu Lielvardē. Uz zemes gabala atrodas mazs dīķis un sausā t",
+        "address": "Lielvārde",
+        "area": "1 ha.",
+        "price1m2": "1.05 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Īpašnieks pārdot lauku apbūves zemi 0, 57 ha platībā (ir meliorēta), apkārtn",
+        "address": "Ikšķiles l. t.Tīnūži",
+        "area": "5700 m²",
+        "price1m2": "4.21 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Iespēja rezervēt apbūves zemi zem tirgus vērtības-8, 8 Eur/kv. m. \n\n\n\nOgresg",
+        "address": "Ogresgala pag.Ogresgals",
+        "area": "1500 m²",
+        "price1m2": "9.33 €",
+        "totalPrice": "13,999  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod apbūves zemi Ogres pilsētā, neapplūstošā teritorijā. Uz zemes atrodas",
+        "address": "Ogre",
+        "area": "713 m²",
+        "price1m2": "25.25 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod apbūvejamo zemes gabalu skaistā vietā Ķeguma centrā. Līdz dzelzceļa s",
+        "address": "Ķegums",
+        "area": "1202 m²",
+        "price1m2": "9.07 €",
+        "totalPrice": "10,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdodu apbūves gabalu ar nepabeigtu jaunbūvi. Ir nosiltināti pamati, savilk",
+        "address": "Lielvārde",
+        "area": "1631 m²",
+        "price1m2": "24.22 €",
+        "totalPrice": "39,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Продам лесной земельный участок 46000 квадратных метров с панорамным видом н",
+        "address": "Jumpravas pag.Dzelmes",
+        "area": "46000 m²",
+        "price1m2": "0.543 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Var uz nomaksu. Tiek piedāvāts apbūves gabals Saulesdārzā. Līdz Saulkalnes d",
+        "address": "Ikšķile",
+        "area": "1766 m²",
+        "price1m2": "11.27 €",
+        "totalPrice": "19,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Lielisks zemes gabals privātmājas būvniecībai, pašā Tīnūžu centrā. 6 km no O",
+        "address": "Ikšķiles l. t.Tīnūži",
+        "area": "5750 m²",
+        "price1m2": "6.61 €",
+        "totalPrice": "38,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Saimnieks pārdod fantastisku - ainaviski skaistu zemes gabalu Ikšķiles novad",
+        "address": "Ikšķiles l. t.Tīnūži",
+        "area": "12300 m²",
+        "price1m2": "2.68 €",
+        "totalPrice": "33,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pie Daugavas zeme paredzēta viensētai, vairāku māju būvniecībai, komercobjek",
+        "address": "Lielvārde",
+        "area": "1.90 ha.",
+        "price1m2": "1.11 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod zemi privātmājas būvēšanai. Gar zemesgabalu asfaltēta iela. Elektrība",
+        "address": "Ogresgala pag.Ciemupe",
+        "area": "1112 m²",
+        "price1m2": "21.58 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod zemi apbūvei un saimniecības izveidošanai, ir 3f elektrība, 5km no Li",
+        "address": "Lielvārdes l. t.",
+        "area": "2 ha.",
+        "price1m2": "1.25 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdodu plašu apbūves gabalu 6600m2 skaistā vietā, netālu no Tīnūžiem un Ogr",
+        "address": "Ikšķiles l. t.Tīnūži",
+        "area": "6600 m²",
+        "price1m2": "6 €",
+        "totalPrice": "39,600  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Īpašnieks pārdod zemi klusā un mierīgā rajonā, privātmājas būvniecībai. Zeme",
+        "address": "Ogre",
+        "area": "1279 m²",
+        "price1m2": "30 €",
+        "totalPrice": "38,370  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod zemes gabalu labā vietā - starp Ikšķili un Saulkalni. Uz zemes atroda",
+        "address": "Ikšķile",
+        "area": "1 ha.",
+        "price1m2": "2.30 €",
+        "totalPrice": "23,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Ādam lauks liels plašs saulains zemes gabals \n\nSausa vieta (smilts)\n\nAr izci",
+        "address": "Ikšķile",
+        "area": "3367 m²",
+        "price1m2": "26.14 €",
+        "totalPrice": "88,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Būvēt var uzreiz .\n\n23 eur/m2 (ieklauts viss, .)\n\nSaskanots Projekts -Būvatl",
+        "address": "Ikšķile",
+        "area": "6100 m²",
+        "price1m2": "23.28 €",
+        "totalPrice": "142,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Tiek pārdots apbūves zemes gabals Nr. 5, privātmājas būvniecīvai ar elektrīb",
+        "address": "Birzgales pag.",
+        "area": "5000 m²",
+        "price1m2": "11 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Saimnieks pārdod 0, 5ha zemes ar pievilktu elektrību. Zemes gabals ir ar rel",
+        "address": "Ikšķiles l. t.Tīnūži",
+        "area": "5000 m²",
+        "price1m2": "6.40 €",
+        "totalPrice": "32,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Vairāk informācijas pa telefonu. \n\nNopietnam pircējam cena runājama.",
+        "address": "Lielvārde",
+        "area": "2830 m²",
+        "price1m2": "3.53 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod zemi, 2 450m2 , divi gabali vienā , ir nožogojums, 3 fāžu elektrība, ",
+        "address": "Lielvārde",
+        "area": "2450 m²",
+        "price1m2": "8.16 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Var uz nomaksu. Īpašnieks pārdod apbūves gabalu klusā vietā ar piebraukšanu ",
+        "address": "Lielvārde",
+        "area": "1300 m²",
+        "price1m2": "11.15 €",
+        "totalPrice": "14,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Apbūves zemesgabals, Ogre, Zaļā iela 3A. 1063 kv. m. Ar projektu privātmājas",
+        "address": "Ogre",
+        "area": "1063 m²",
+        "price1m2": "30.10 €",
+        "totalPrice": "32,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdodam zemi privātmājas būvniecībai. Asfaltēts piebraucamais ceļš. Apkārt ",
+        "address": "Ikšķile",
+        "area": "1850 m²",
+        "price1m2": "25.14 €",
+        "totalPrice": "46,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod, vasarnīcas māju ar iebūvētu pirti, dārza ir aka ar ūdeni. Atdodas ci",
+        "address": "Ogre",
+        "area": "450 m²",
+        "price1m2": "4.44 €",
+        "totalPrice": "2,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Sveiki, skāra ar vasaras tuvošanos , izīrēju vai pārdodu zemes gabalu ciemat",
+        "address": "Ogre",
+        "area": "800 m²",
+        "price1m2": "1.50 €",
+        "totalPrice": "1,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdou zemi skaistā klusā vietā netālu (1km) no Tūrkalnes muižas. Zeme pared",
+        "address": "Ikšķiles l. t.Turkalne",
+        "area": "6300 m²",
+        "price1m2": "5.70 €",
+        "totalPrice": "35,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ogre",
+        "descr": "Pārdod īpašnieks. Iekopts zemes gabals. Dīķis ar tīru avotu ūdeni. Dīķis pil",
+        "address": "Ikšķiles l. t.Dobelnieki",
+        "area": "1360 m²",
+        "price1m2": "18.31 €",
+        "totalPrice": "24,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdodu iekoptu lauksaimniecības zemi ērti piebraucamā vietā.",
+        "address": "Preiļu pag.Moskvina",
+        "area": "4 ha.",
+        "price1m2": "0.350 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Līvānu novada pašvaldība rīko atkārtotu (otro) atklāto mutisko izsoli ar aug",
+        "address": "Rožupes pag.Stares",
+        "area": "2 ha.",
+        "price1m2": "0.254 €",
+        "totalPrice": "5,075  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Продаётся участок земли в хорошем месте в г. Ливаны. Город чистый, тихий, ух",
+        "address": "Līvāni",
+        "area": "2337 m²",
+        "price1m2": "6.63 €",
+        "totalPrice": "15,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pardod zemesgabalu ciematā Kurpnieķi. Izrakts diķis. Ir iespēja pislēgties e",
+        "address": "Jersikas pag.",
+        "area": "1 ha.",
+        "price1m2": "1.28 €",
+        "totalPrice": "12,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Zeme pašā Preiļu pilsētas centrā ar kopējo platību 3279 m2, kas sastāv no 3 ",
+        "address": "Preiļi",
+        "area": "3279 m²",
+        "price1m2": "59 €",
+        "totalPrice": "192,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod iekoptu lauksaimniecības zemi, uzarta.",
+        "address": "Aizkalnes pag.Bloki",
+        "area": "9 ha.",
+        "price1m2": "0.298 €",
+        "totalPrice": "26,819  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf fails ar zemes robe",
+        "address": "Aglonas pag.",
+        "area": "2.30 ha.",
+        "price1m2": "0.435 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod nekustamo īpašumu Liz. Zemāk pievienoti Pdf faili ar zemes robežplānu",
+        "address": "Pelēču pag.",
+        "area": "3.50 ha.",
+        "price1m2": "0.343 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod lauksaimniecības zemes īpašumu.",
+        "address": "Silajāņu pag.Markova",
+        "area": "4 ha.",
+        "price1m2": "0.278 €",
+        "totalPrice": "11,125  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod apbūvei piemērotu l/s 0.5 ha un meža zemi 0.4 ha . Robežojas ar Rīga-",
+        "address": "Jersikas pag.Stūrišķi",
+        "area": "9000 m²",
+        "price1m2": "1 €",
+        "totalPrice": "9,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdodas zemes gabals ar elektrību. Zemes grāmata.",
+        "address": "Aglonas pag.Kundzinišķi",
+        "area": "2.20 ha.",
+        "price1m2": "0.432 €",
+        "totalPrice": "9,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod zemi privātmājas būvniecībai Preiļos. Platība 1966 kv. m.",
+        "address": "Preiļi",
+        "area": "1966 m²",
+        "price1m2": "7.38 €",
+        "totalPrice": "14,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdodam zemes gabalu pēc adreses Preiļi, Kārsavas iela 1a, tuvu pilsētas ce",
+        "address": "Preiļi",
+        "area": "2594 m²",
+        "price1m2": "5.78 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pardod nekustamo īpašumu Liz. Zemāk pievienoti Pdf faili ar zemes robežplānu",
+        "address": "Galēnu pag.Skabi",
+        "area": "2.66 ha.",
+        "price1m2": "0.357 €",
+        "totalPrice": "9,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Tiek pārdots zemes gabals ar nojaucamu vasarnīcu. Ēka ir avārijas stāvoklī. ",
+        "address": "Jersikas pag.",
+        "area": "1200 m²",
+        "price1m2": "6.67 €",
+        "totalPrice": "8,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Продается земля 5.45 га с песчано-гравийным карьером: \n\n- остаток полезного ",
+        "address": "Rušonas pag.",
+        "area": "5 ha.",
+        "price1m2": "0.896 €",
+        "totalPrice": "44,790  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod domājamo daļu zemes pie Rušonas ezera. Vairāk informācijas pa telefon",
+        "address": "Rušonas pag.Aglonas stacija",
+        "area": "4 ha.",
+        "price1m2": "1.08 €",
+        "totalPrice": "43,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Zeme privātmājas būvniecībai. Pilsētas komunikācijas.",
+        "address": "Preiļi",
+        "area": "1540 m²",
+        "price1m2": "9.74 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdodam, ekskluzīvs zemes gabals Aglonas ezera krastā, ar burvīgu skatu uz ",
+        "address": "Aglonas pag.Aglona",
+        "area": "8700 m²",
+        "price1m2": "2.13 €",
+        "totalPrice": "18,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "preili",
+        "descr": "Pārdod savrupmāju apbūves zemes gabalu Preiļu centrā ar kopējo platību 2220m",
+        "address": "Preiļi",
+        "area": "2220 m²",
+        "price1m2": "4 €",
+        "totalPrice": "8,880  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod viensētu Šķeltovā\n\n, Zemes platība: 2.65 ha, Ēkas platība: 60 м², Stā",
+        "address": "Rēzekne",
+        "area": "3 ha.",
+        "price1m2": "0.200 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Zeme Vipingā. Ir elektrība, labs ceļš, var pieslēgties pilsētas ūdensvadam. ",
+        "address": "Rēzekne",
+        "area": "0.16 ha.",
+        "price1m2": "5.44 €",
+        "totalPrice": "8,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zemes gabalu Rāznas ezera tuvumā 1, 6 ha.",
+        "address": "Mākoņkalna pag.Rabskova",
+        "area": "1.60 ha.",
+        "price1m2": "0.231 €",
+        "totalPrice": "3,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Zeme tieši ezera krastā, skaista daba, lieliska vieta atpūtai un makšķērēšan",
+        "address": "Čornajas pag.Čornaja",
+        "area": "4200 m²",
+        "price1m2": "2.86 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zemi. Daļējs apaugums.",
+        "address": "Gaigalavas pag.",
+        "area": "9 ha.",
+        "price1m2": "0.111 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodas zemes gabals Sakstagalā, platība 1, 7 ha. \n\nUz zemes atrodas:\n\n3 fā",
+        "address": "Sakstagala pag.Sakstagals",
+        "area": "2 ha.",
+        "price1m2": "0.595 €",
+        "totalPrice": "11,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Территория рсэз",
+        "address": "Vērēmu pag.Ratinīki",
+        "area": "5 ha.",
+        "price1m2": "0.440 €",
+        "totalPrice": "22,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod divus nekustamos īpašumu, kas paredzēti privātmāju apbūvei (viens otr",
+        "address": "Griškānu pag.Čači",
+        "area": "1 ha.",
+        "price1m2": "0.800 €",
+        "totalPrice": "8,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "В дачьном поселке продаеться земельный учясток после вырубки леса",
+        "address": "Lendžu pag.",
+        "area": "1 ha.",
+        "price1m2": "0.200 €",
+        "totalPrice": "2,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Skaista vieta privātmājas būvniecībai. 8 km no Rēzeknes centra. Piebraucamai",
+        "address": "Ozolaines pag.Usvīši",
+        "area": "1.17 ha.",
+        "price1m2": "1.28 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продаю в Лузнаве",
+        "address": "Lūznavas pag.Harčenki",
+        "area": "9 ha.",
+        "price1m2": "0.222 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod lauksaimniecības zemi 2, 7 ha. \n\nTā atrodas 10 km attālumā no Rēzekne",
+        "address": "Bērzgales pag.Kozlova",
+        "area": "3 ha.",
+        "price1m2": "0.400 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodas zemes gabals, Rēzeknes nov, Verēmu pagastā. \n\nVisi Jautājumi raksto",
+        "address": "Vērēmu pag.Stučeva",
+        "area": "0.06 ha.",
+        "price1m2": "5 €",
+        "totalPrice": "3,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продаётся земля",
+        "address": "Rēzekne",
+        "area": "1953 m²",
+        "price1m2": "25.60 €",
+        "totalPrice": "50,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zemesgabalu pie galvenā autoceļa Rīga- Jēkabpils - Rēzekne -Ludza - ",
+        "address": "Sakstagala pag.Ciukori",
+        "area": "4000 m²",
+        "price1m2": "9 €",
+        "totalPrice": "36,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod nekustamo īpašumu Liz+Mežs. Zemāk pievienoti Pdf faili ar zemes robež",
+        "address": "Silmalas pag.",
+        "area": "5.10 ha.",
+        "price1m2": "0.357 €",
+        "totalPrice": "18,200  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продается земельный участок под застройку в Резекне недалеко от границы горо",
+        "address": "Rēzekne",
+        "area": "6400 m²",
+        "price1m2": "5.63 €",
+        "totalPrice": "36,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Продаётся земля 2.8 га:\n\n- сельскохозяйственная земля – 2.7 га, обрабатывает",
+        "address": "Feimaņu pag.",
+        "area": "3 ha.",
+        "price1m2": "0.280 €",
+        "totalPrice": "8,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod zemesgabalu komercdarbībai ar pagājušā gadsimta 80-to gadu ražošanas ",
+        "address": "Ozolaines pag.Laizāni",
+        "area": "4000 m²",
+        "price1m2": "0.500 €",
+        "totalPrice": "2,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Участок граничит с трассой резекне-карсава",
+        "address": "Vērēmu pag.Sondori",
+        "area": "2300 m²",
+        "price1m2": "2.17 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Земля. Watsap или email.",
+        "address": "Kaunatas pag.Kaunata",
+        "area": "9 ha.",
+        "price1m2": "0.278 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdod zemi. Kadastra numuri 78500060017- 7 ha; 78500050068- 5 ha. Cena 3000",
+        "address": "Dricānu pag.Susekļi",
+        "area": "12 ha.",
+        "price1m2": "0.300 €",
+        "totalPrice": "36,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Земельный участок 12 соток с частичными постройками. Из хоз. построек гараж ",
+        "address": "Rēzekne",
+        "area": "1221 m²",
+        "price1m2": "17.61 €",
+        "totalPrice": "21,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "rezekne",
+        "descr": "Pārdodu zemi.",
+        "address": "Ozolmuižas pag.Latviešu Sloboda",
+        "area": "5 ha.",
+        "price1m2": "0.540 €",
+        "totalPrice": "27,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Tiek pārdots Investīciju objekts, plašs zemesgabals Saldū, J. Rozentāla ielā",
+        "address": "Saldus",
+        "area": "4 ha.",
+        "price1m2": "4 €",
+        "totalPrice": "160,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Nekustamajam īpašumam pievienota ceptuves ēka",
+        "address": "Zaņas pag.Kareļi",
+        "area": "3572 m²",
+        "price1m2": "3.36 €",
+        "totalPrice": "12,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Ļoti skaists zemes gabals klusā vietā. Privātmājas vai vasarnīcas būvniecība",
+        "address": "Vadakstes pag.Vadakste",
+        "area": "2443 m²",
+        "price1m2": "1.60 €",
+        "totalPrice": "3,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdod zemesgabalu Slimnīcas ielā 11a, klusā vietā, nelielā attālumā no pils",
+        "address": "Saldus",
+        "area": "2000 m²",
+        "price1m2": "5.20 €",
+        "totalPrice": "10,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdod īpašumu ar četrām ēkām, autoceļa A-9 malā iebraukšana no A-9 , Kuldīg",
+        "address": "Saldus",
+        "area": "10000 m²",
+        "price1m2": "100 €",
+        "totalPrice": "1,000,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdod zemi 5000 m2 mazas saimniecības izveidei Saldus pievārtē, asfaltēta c",
+        "address": "Saldus",
+        "area": "5000 m²",
+        "price1m2": "3 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Tiek pārdots lielisks zemesgabals ar dārza māju Saldū, Saldus novadā. \n\n\n\nZe",
+        "address": "Saldus",
+        "area": "1434 m²",
+        "price1m2": "10.46 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdod dārzu Aronijās.",
+        "address": "Saldus",
+        "area": "595 m²",
+        "price1m2": "10.08 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Zemes gabals ar ierīkotām komunikācijām, kas pieslēgtas pilsētas komunikācij",
+        "address": "Saldus",
+        "area": "1600 m²",
+        "price1m2": "14.38 €",
+        "totalPrice": "23,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Apbūves gabals ar relijefu. Bijis izmantots kā mazdārziņš. Pienākošā ceļa se",
+        "address": "Saldus",
+        "area": "1210 m²",
+        "price1m2": "8.26 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdodās divi zemes gabali ar dzīvojamo ēku, upes krastā.",
+        "address": "Ezeres pag.Ezere",
+        "area": "5000 m²",
+        "price1m2": "3 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Pārdod sapņu īpašumu, vai lielisku investīciju objektu. \n\nĪpašums atrodas Br",
+        "address": "Brocēni",
+        "area": "15.70 ha.",
+        "price1m2": "1.71 €",
+        "totalPrice": "268,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Tiek pārdots liels zemes gabals Saldū, Lielā iela 85, kas ir 10 min. gājienā",
+        "address": "Saldus",
+        "area": "7967 m²",
+        "price1m2": "6.40 €",
+        "totalPrice": "51,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "saldus",
+        "descr": "Tiek pārdota zeme 3 ha 500 metrus no Saldus vidusskolas un robežojas ar Veid",
+        "address": "Saldus",
+        "area": "30603 m²",
+        "price1m2": "2.61 €",
+        "totalPrice": "80,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemi privātmājas būvniecībai, Lielgabalu un Apogu ielu stūrī. Pievilk",
+        "address": "Talsi",
+        "area": "1327 m²",
+        "price1m2": "11.30 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdodu zemi Sīkraga ciematā 1 km attālumā no jūras, blakus Slīteres rezervā",
+        "address": "Kolkas pag.Sīkrags",
+        "area": "1 ha.",
+        "price1m2": "2.10 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Tiek pārdots īpašums klusā vietā Ģibzdē. Dīķis meža ielokā, ar labi piebrauc",
+        "address": "Dundagas pag.Dundaga",
+        "area": "31 ha.",
+        "price1m2": "0.435 €",
+        "totalPrice": "135,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemes gabalu privātmājas būvniecībai. Zemes gabals atrodas apmēram 30",
+        "address": "Rojas pag.Valgalciems",
+        "area": "2000 m²",
+        "price1m2": "13 €",
+        "totalPrice": "26,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Tieša ūdens līnija 150m garumā ar Sasmakas (Valdemārpils) ezeru. \n\nRegulāras",
+        "address": "Valdemārpils",
+        "area": "5 ha.",
+        "price1m2": "1.70 €",
+        "totalPrice": "85,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemes gabalu pie Dundagas centrālās ielas, kas ienāk Dundagā no Talsi",
+        "address": "Dundagas pag.Dundaga",
+        "area": "3100 m²",
+        "price1m2": "8.06 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Zeme privātmājas būvniecībai, skaistā piejūras ciemā - Kaltenē. \n\nZeme izcil",
+        "address": "Rojas pag.Kaltene",
+        "area": "6800 m²",
+        "price1m2": "5.15 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Ideāls zemesgabals klusuma, miera un dabas cienītājiem- zemesgabalam visapkā",
+        "address": "Rojas pag.Melnsils",
+        "area": "1 ha.",
+        "price1m2": "1.50 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Tiek tirgoti zemes gabali privātmāju apbūvei Rojā. Zemes gabaliem pievienota",
+        "address": "Rojas pag.Roja",
+        "area": "1600 m²",
+        "price1m2": "15 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemes gabalu Mazirbē, 2960 m2, jūra 1km. \n\n\n\nInfo no būvvaldes:\n\nTā a",
+        "address": "Kolkas pag.Mazirbe",
+        "area": "2963 m²",
+        "price1m2": "8.44 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Zemes gabals atrodas gleznainā tūristu iecienītā vietā. Desmit minūšu gājien",
+        "address": "Mērsraga pag.Mērsrags",
+        "area": "5000 m²",
+        "price1m2": "4.80 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Īpašnieks pārdod divus zemes gabalus, Talsu rajona, Stendē, pašā pilsētas ce",
+        "address": "Stende",
+        "area": "1.38 ha.",
+        "price1m2": "1.99 €",
+        "totalPrice": "27,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemes gabalu Talsos, klusā privātmāju rajonā. \n\n\n\nZemes gabals bez ap",
+        "address": "Talsi",
+        "area": "1201 m²",
+        "price1m2": "9.58 €",
+        "totalPrice": "11,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Mērsragā 1, 3Ha, apstādīts ar jaunaudzi - eglītēm (sertificētu stādu materiā",
+        "address": "Mērsraga pag.Mērsrags",
+        "area": "13000 m²",
+        "price1m2": "0.608 €",
+        "totalPrice": "7,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdodas 1 ha apbūves zeme, kas ir sadalīts kā trīs atsevišķi zemes gabali (",
+        "address": "Mērsraga pag.Mērsrags",
+        "area": "1 ha.",
+        "price1m2": "3.05 €",
+        "totalPrice": "30,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemi ar mežu publiskās un privātmāju apbūves teritorijā. Uz zemes gab",
+        "address": "Stende",
+        "area": "22300 m²",
+        "price1m2": "1.57 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdodu īpašumu ar iespēju būvēt mazstāvu ēku - privātmāju. \n\nŠobrīd zemi iz",
+        "address": "Laidzes pag.Laidze",
+        "area": "10000 m²",
+        "price1m2": "0.850 €",
+        "totalPrice": "8,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Zeme privātmājas būvniecībai. \n\nŪdens un kanalizācijas pievadi līdz zemes ga",
+        "address": "Talsi",
+        "area": "3067 m²",
+        "price1m2": "6.68 €",
+        "totalPrice": "20,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdod zemi Dundagā, Kārļmuiža, kopējā platība 3.6 ha, no kuras lauksaimniec",
+        "address": "Dundagas pag.Kārļmuiža",
+        "area": "4 ha.",
+        "price1m2": "1.01 €",
+        "totalPrice": "40,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Piedāvājumā zemesgabals privātai apbūvei, feinā klusā vietā. \n\nZemes vienība",
+        "address": "Kolkas pag.Kolka",
+        "area": "1 ha.",
+        "price1m2": "4 €",
+        "totalPrice": "40,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Pārdodu zemi (lauksaimniecības - 0, 7568ha, mežs - 0, 3767ha) Sabilē, pretī ",
+        "address": "Sabile",
+        "area": "1 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "talsi",
+        "descr": "Lauksaimniecības zemi 16, 4 ha, tai skaitā mežsaimniecības zeme 1, 63 ha. Po",
+        "address": "Īves pag.",
+        "area": "16 ha.",
+        "price1m2": "0.438 €",
+        "totalPrice": "70,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdodu zemes gabalu privātmājas būvniecībai pie jūras. Īpašums atrodas mazs",
+        "address": "Ragaciems",
+        "area": "1190 m²",
+        "price1m2": "59 €",
+        "totalPrice": "70,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod zemi privātmājas būvēšanai Tukuma pievārtē. Pieejami vairāki zemes ga",
+        "address": "Tukums",
+        "area": "2500 m²",
+        "price1m2": "14 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pardod zemi majas vasarnīcas atputas vietas būvei 2, 4ha lauksaimniecības ze",
+        "address": "Smārdes pag.Smārde",
+        "area": "4 ha.",
+        "price1m2": "0.660 €",
+        "totalPrice": "26,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Īpašnieks pārdod zemes gabalu(domājamās daļas) Bigauņciemā 3986m2. Līdz jūra",
+        "address": "Bigauņciems",
+        "area": "3986 m²",
+        "price1m2": "9.91 €",
+        "totalPrice": "39,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Tiek pārdots kopts zemes gabals, 2.7 ha platībā, strauji augošā piejūras cie",
+        "address": "Engures pag.Ķesterciems",
+        "area": "3 ha.",
+        "price1m2": "1.23 €",
+        "totalPrice": "37,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Īpašnieks pārdod apbūves gabalu ar apstiprinātu būvprojektu 4.stāvu ēkai, ku",
+        "address": "Lapmežciems",
+        "area": "10585 m²",
+        "price1m2": "11.34 €",
+        "totalPrice": "120,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod īpašumu Tukuma novadā Degoles pagastā, blakus Tukuma-Lestenes ceļam. ",
+        "address": "Degoles pag.Vienība",
+        "area": "3.50 ha.",
+        "price1m2": "1 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod perspektīvu, neapbūvētu zemes gabalu 5200kv. m. platībā, ātri augošā ",
+        "address": "Tumes pag.",
+        "area": "5200 m²",
+        "price1m2": "4 €",
+        "totalPrice": "20,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Apbūves zeme Plieņciemā, jūras pusē. Zemes gabals 3710m2 platībā. Gar zemes ",
+        "address": "Engures pag.Plieņciems",
+        "area": "3710 m²",
+        "price1m2": "9.43 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Zeme privātmājas būvniecībai, 10 minūšu gājienā no jūras. Ir piebraucamais c",
+        "address": "Engures pag.Klapkalnciems",
+        "area": "1500 m²",
+        "price1m2": "16 €",
+        "totalPrice": "24,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Tiek pārdota zeme privātmājas būvniecībai pie Tukuma pilsētas robežas. Skais",
+        "address": "Tukums",
+        "area": "3500 m²",
+        "price1m2": "14 €",
+        "totalPrice": "49,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Tiek pārdots zemes gabals 3710m2 platībā Bigauņciemā, 400m attālumā no jūras",
+        "address": "Bigauņciems",
+        "area": "3710 m²",
+        "price1m2": "7.95 €",
+        "totalPrice": "29,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Īpašnieks pārdod ainavisku apbūves gabalu ar kopējo platību 3085 m2. Veikts ",
+        "address": "Lapmežciems",
+        "area": "3085 m²",
+        "price1m2": "15.14 €",
+        "totalPrice": "46,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod apbūves gabalu tuvu Lapmežciema centram. \n\nIespējama sadalīšana. \n\n1.",
+        "address": "Lapmežciems",
+        "area": "2.16 ha.",
+        "price1m2": "3.68 €",
+        "totalPrice": "79,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod ainavisku apbūves gabalu pavisam tuvu pie Kaņiera ezera, klusā vietā.",
+        "address": "Lapmežciems",
+        "area": "3000 m²",
+        "price1m2": "12.67 €",
+        "totalPrice": "37,999  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod saulainu apbūves gabalu netālu no Lapmežciema centra. \n\nIr asfaltēts ",
+        "address": "Lapmežciems",
+        "area": "0.26 ha.",
+        "price1m2": "15.38 €",
+        "totalPrice": "39,999  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Jūras pusē no šosejas. \n\nTikai 150 metru līdz jūrai. \n\n\n\n- privātmājas sekto",
+        "address": "Bigauņciems",
+        "area": "2721 m²",
+        "price1m2": "27.56 €",
+        "totalPrice": "75,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod zemes gabalu privātmājas būvniecībai. Klusā vietā. Mežs 50 m attālumā",
+        "address": "Ragaciems",
+        "area": "0.14 ha.",
+        "price1m2": "57 €",
+        "totalPrice": "80,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Labiekārtots zemes gabals mājas būvēšanai ar dīķi. Elektrība, gāze, iespējam",
+        "address": "Lapmežciems",
+        "area": "1385 m²",
+        "price1m2": "30.69 €",
+        "totalPrice": "42,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdodam zemi skaistā vietā blakus jūrai – Lapmežciema pagastā, Bigauņciemā ",
+        "address": "Bigauņciems",
+        "area": "2972 m²",
+        "price1m2": "22.71 €",
+        "totalPrice": "67,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Īpašnieks pārdod zemi 1.2 ha Smārdes pagasta centrā. \n\nIdeāla vieta privātmā",
+        "address": "Smārdes pag.Smārde",
+        "area": "1.20 ha.",
+        "price1m2": "1.67 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Tiek pārdots līdzens, sauss zemes gabals 2560 M2-Ķesterciemā-Augstr ožu ielā",
+        "address": "Engures pag.Ķesterciems",
+        "area": "2560 m²",
+        "price1m2": "13.67 €",
+        "totalPrice": "35,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Pārdod zemes īpašumu 2050m2 Lapmežciemā teritorijā savrupmāju Rajonā. \n\nZeme",
+        "address": "Lapmežciems",
+        "area": "2050",
+        "price1m2": "24.88 €",
+        "totalPrice": "51,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "tukums",
+        "descr": "Īpašnieks pārdod zemes gabalu Matkules ciema centrā. Tuvumā atrodas divi vei",
+        "address": "Matkules pag.Matkule",
+        "area": "5000 m²",
+        "price1m2": "1.60 €",
+        "totalPrice": "8,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod lauksaimniecības zemi Valkas novads, Ērģemes pagasts \"Saulgoži\" 86.8 ",
+        "address": "Ērģemes pag.Turna",
+        "area": "1 ha.",
+        "price1m2": "0.270 €",
+        "totalPrice": "2,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod nekustamo īpašumu, Liz. Zemāk pievienoti Pdf fails ar zemes robežplān",
+        "address": "Blomes pag.",
+        "area": "4 ha.",
+        "price1m2": "0.413 €",
+        "totalPrice": "16,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod lauksaimniecības zemes gabalu ar mežu, 13.3ha platībā Smiltenes novad",
+        "address": "Blomes pag.Blome",
+        "area": "13 ha.",
+        "price1m2": "0.415 €",
+        "totalPrice": "54,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdodu apbūves gabalu Valkā 1400m2.",
+        "address": "Valka",
+        "area": "1400 m²",
+        "price1m2": "2.85 €",
+        "totalPrice": "3,990  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod apbūves zemi 2, 5 km no Smiltenes centra. Robežojas ar pagasta ceļu. ",
+        "address": "Smiltenes pag.",
+        "area": "7000 m²",
+        "price1m2": "1.64 €",
+        "totalPrice": "11,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdodu zemesgabalu kas atrodās Ilgās. Ļoti labs novietojums. \n\nTuvākajos ga",
+        "address": "Smiltene",
+        "area": "1193 m²",
+        "price1m2": "9.22 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod mazdārziņu kooperatīvā “Celtnieks”. Ir ābeles, avenes, ērkšķogas un z",
+        "address": "Valka",
+        "area": "651 m²",
+        "price1m2": "3 €",
+        "totalPrice": "1,950  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod zemi 26.4 ha Smiltenes pagastā. No tās 14.4 ha lauksaimniecības zeme ",
+        "address": "Smiltene",
+        "area": "26 ha.",
+        "price1m2": "0.612 €",
+        "totalPrice": "159,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Intere",
+        "address": "Bilskas pag.Mēri",
+        "area": "3.22 ha.",
+        "price1m2": "0.388 €",
+        "totalPrice": "12,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Продается сельскохозяйственная земля, можно использовать под строительство ч",
+        "address": "Smiltene",
+        "area": "1 ha.",
+        "price1m2": "3 €",
+        "totalPrice": "30,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdodu lauksaimniecības zemi/pļavu (2.1ha) un ābeļdārzu (0.7ha). Zemē nav i",
+        "address": "Smiltenes pag.",
+        "area": "3 ha.",
+        "price1m2": "0.600 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdodu zemi privātmājas būvēšanai. Ir elektības pieslēgums, 3 fāzes.",
+        "address": "Smiltene",
+        "area": "1899 m²",
+        "price1m2": "6.74 €",
+        "totalPrice": "12,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Pārdod zemi Valkā, Sēlijas ielā. \n\n\n\nZemes gabals ar izstrādātu zemes ierīcī",
+        "address": "Valka",
+        "area": "1.72 ha.",
+        "price1m2": "4.83 €",
+        "totalPrice": "83,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valka",
+        "descr": "Продается земельный участок общей площадью 41, 6 гектаров. Состоящий из 17, ",
+        "address": "Zvārtavas pag.Kaģumciems",
+        "area": "42 ha.",
+        "price1m2": "0.269 €",
+        "totalPrice": "113,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdošanā pēdējais, lielākais apbūves gabals (nr. 1 attēlā) 500m no Kocēnu c",
+        "address": "Kocēnu pag.Kocēni",
+        "area": "2 ha.",
+        "price1m2": "3 €",
+        "totalPrice": "60,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu zemesgabalu kurš sastāv 0, 8 ha meža jaunaudze izkopta sakopta , un ",
+        "address": "Brenguļu pag.",
+        "area": "2 ha.",
+        "price1m2": "0.400 €",
+        "totalPrice": "8,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Ipašnieks pārdod zemes gabalu Valmierā.",
+        "address": "Valmiera",
+        "area": "1460 m²",
+        "price1m2": "30.82 €",
+        "totalPrice": "45,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu zemi privātmājas būvniecībai Kocēnu pagastā. Atrašanās vieta - nobra",
+        "address": "Kocēnu pag.",
+        "area": "1243 m²",
+        "price1m2": "11.26 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu apbūves gabalu privātmājas būvniecībai. \n\nIespēja uzcelt savu sapņu ",
+        "address": "Valmiera",
+        "area": "858 m²",
+        "price1m2": "18.48 €",
+        "totalPrice": "15,859  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Zemes gabala kopējā platība 3000 kv. m. Zemes lietošanas mērķis - individuāl",
+        "address": "Valmieras pag.Pilāti",
+        "area": "3000 m²",
+        "price1m2": "7.50 €",
+        "totalPrice": "22,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod zemi pie Valmieras pilsētas robežas, ērta piebraukšana. Uz īpašuma at",
+        "address": "Kauguru pag.",
+        "area": "2.20 ha.",
+        "price1m2": "0.905 €",
+        "totalPrice": "19,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod apbūves gabalu Valmierā, netālu no Matīšu šosejas. Piekļuve zemes gab",
+        "address": "Valmiera",
+        "area": "3209 m²",
+        "price1m2": "19.01 €",
+        "totalPrice": "61,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu zemi Valmierā privātmājas būvniecībai. Netālu atrodas veikals, pirms",
+        "address": "Valmiera",
+        "area": "1157 m²",
+        "price1m2": "19.45 €",
+        "totalPrice": "22,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod 0.96ha lauksaimniecībā izmantojamu zemi\n\n\n\nCena apspriežama",
+        "address": "-",
+        "area": "1 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "5,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu dārza nomas tiesības. \n\nĻoti jauks zemes pleķītis kur var atpūsties ",
+        "address": "Valmiera",
+        "area": "600 m²",
+        "price1m2": "1 €",
+        "totalPrice": "600  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Īpašnieks pārdod zemesgabalus privātai apbūvei Rūjienas teritorijā. Tuvu vis",
+        "address": "Rūjiena",
+        "area": "1845 m²",
+        "price1m2": "3.19 €",
+        "totalPrice": "5,888  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Exclusive vieta . Pārdod 6.75ha zemi pie ūdens. Ideāla piebraukšana. 3F elek",
+        "address": "-",
+        "area": "67589 m²",
+        "price1m2": "2.22 €",
+        "totalPrice": "150,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodam zemi Brenguļu pagastā. Zeme atrodas 7 km attālumā no Valmieras cent",
+        "address": "Brenguļu pag.",
+        "area": "2.90 ha.",
+        "price1m2": "0.483 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod apbūves gabalu Vaidavā. \n\n\n\nApbūves iespējas Vaidavā netālu no Vaidav",
+        "address": "Vaidavas pag.Vaidava",
+        "area": "2018 m²",
+        "price1m2": "5.85 €",
+        "totalPrice": "11,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod apbūves gabalu Mūrmuižā. \n\n\n\nZemes gabala kopējā platība ir 3028 kv. ",
+        "address": "Kauguru pag.Mūrmuiža",
+        "area": "3028 m²",
+        "price1m2": "4.23 €",
+        "totalPrice": "12,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu zemi.",
+        "address": "Kocēnu pag.",
+        "area": "2 ha.",
+        "price1m2": "1.55 €",
+        "totalPrice": "31,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Piedāvājam iegādāties zemi komercapbūvei, daudzdzīvokļu namiem, birojiem, ve",
+        "address": "Valmiera",
+        "area": "5629 m²",
+        "price1m2": "33.58 €",
+        "totalPrice": "189,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod zemi pie Valmieras, ļoti skaistā vietā, Zemesgabalam pieved servitūta",
+        "address": "Valmieras pag.Pilāti",
+        "area": "13800 m²",
+        "price1m2": "3.99 €",
+        "totalPrice": "55,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdodu zemes gabalu, uz kura atrodas vēsturisks objekts - Valtenberģu muiža",
+        "address": "Mazsalaca",
+        "area": "1.32 ha.",
+        "price1m2": "1.20 €",
+        "totalPrice": "15,840  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Tiek pārdots kluss un meža ieskauts zemes gabals privātmājas vai vasarnīcas ",
+        "address": "Vaidavas pag.",
+        "area": "8864 m²",
+        "price1m2": "1.11 €",
+        "totalPrice": "9,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Īpašnieks pārdod īpašuma daļu 2.0 ha. Top dīķa projekts. Valmiera 6 km. Elek",
+        "address": "Kocēnu pag.Kocēni",
+        "area": "2 ha.",
+        "price1m2": "0.800 €",
+        "totalPrice": "16,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod rūpnieciskās apbūves zemi Valmierā. Robežojas ar dzelzceļu Rīga - Val",
+        "address": "Valmiera",
+        "area": "5 ha.",
+        "price1m2": "8 €",
+        "totalPrice": "400,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod apbūves zemesgabalu pie labiekārtotā ciemata “Pīlāti\". \n\n\n\nJauna un p",
+        "address": "Valmieras pag.",
+        "area": "1225 m²",
+        "price1m2": "15.02 €",
+        "totalPrice": "18,400  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pardod nekustamo īpašumu, Liz+Mežs. Zemāk pievienoti Pdf faili ar zemes robe",
+        "address": "Valmieras pag.",
+        "area": "3.50 ha.",
+        "price1m2": "0.314 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Ira iespēja iegādāties saulainu apbūve gabalu netālu no valmiera 5km. Īpašum",
+        "address": "Kauguru pag.",
+        "area": "3 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Īpašnieks tirgo. \n\nApbūves gabalus skaistā vietā pie Valmieras. Kocēnos. \n\n\n",
+        "address": "Kocēnu pag.Kocēni",
+        "area": "3500 m²",
+        "price1m2": "4.29 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Liz+ mežs, no tā Liz 10, 8. Mežam 2021. gadā veikta kopšanas cirte.",
+        "address": "Vaidavas pag.",
+        "area": "17.50 ha.",
+        "price1m2": "0.514 €",
+        "totalPrice": "90,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Ainavisks zemesgabals 1, 7 ha (lauksamniecībā izmantojama zeme ar apbūves ie",
+        "address": "-",
+        "area": "2 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod zemi privātmājas būvēšanai. Ideāla vieta, ielas galā. Garām neviens n",
+        "address": "Valmieras pag.Valmiermuiža",
+        "area": "1689 m²",
+        "price1m2": "14.80 €",
+        "totalPrice": "25,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod īpašumu Valmieras novadā, Kauguru pagastā. \n\n\n\nĪpašums sastāv no 4 ze",
+        "address": "Kauguru pag.",
+        "area": "9 ha.",
+        "price1m2": "0.500 €",
+        "totalPrice": "45,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Nekustamais īpašums bez apgrūtinājumiem. \n\n\n\nIzbūvēta atsevišķa iebrauktuve.",
+        "address": "Brenguļu pag.",
+        "area": "1 ha.",
+        "price1m2": "2.10 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pēdējais brīvais zemes gabals pie ūdens šajā vietā\n\nCiemata ērtības apvienoj",
+        "address": "Kauguru pag.Mūrmuiža",
+        "area": "2793 m²",
+        "price1m2": "13.97 €",
+        "totalPrice": "39,006  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Īpašnieks pārdod nekustamo īpašumu- lauksaimniecībā izmantojamo zemi. Īpašum",
+        "address": "Dikļu pag.Dikļi",
+        "area": "7.77 ha.",
+        "price1m2": "0.579 €",
+        "totalPrice": "45,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod zemi mājas būvniecībai, ir pievilkta elektrība. Ļoti tuvu Kocēnu cent",
+        "address": "Kocēnu pag.Kocēni",
+        "area": "0.14 ha.",
+        "price1m2": "14.29 €",
+        "totalPrice": "20,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Pārdod apbūves gabalu Valmierā, Limbažu ielā\n\n\n\nZemes gabala lietošanas mērķ",
+        "address": "Valmiera",
+        "area": "2205 m²",
+        "price1m2": "13.11 €",
+        "totalPrice": "28,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "valmiera",
+        "descr": "Īpašniece pārdod zemes gabalu 1206 m3 platībā. \n\nUz zemes gabala atrodas vec",
+        "address": "Valmieras pag.Valmiermuiža",
+        "area": "1206 m²",
+        "price1m2": "19.07 €",
+        "totalPrice": "23,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdod apbūves gabalu 4km no kalna \"Lemberga hūte\". \n\n+ Ainaviska vieta, \n\n+",
+        "address": "Ventspils",
+        "area": "3327 m²",
+        "price1m2": "5.41 €",
+        "totalPrice": "18,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdod apbūves gabalu pilsētas privātmāju sektorā Gāliņciems, 1300m2, pilsēt",
+        "address": "Ventspils",
+        "area": "1300 m²",
+        "price1m2": "16.15 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Iespēja iegādāties 2 apbūves gabalus 1, 6 ha un 1, 8 ha skaistā vietā pie up",
+        "address": "Tārgales pag.Standzes ciems",
+        "area": "2 ha.",
+        "price1m2": "0.700 €",
+        "totalPrice": "14,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Lieliska iespēja iegādāties skaistā vietā apbūves gabalu 1273 m2, laba infra",
+        "address": "Ventspils",
+        "area": "1273 m²",
+        "price1m2": "21.21 €",
+        "totalPrice": "27,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Uz izmaksu iespēja iegādāties apbūves gabalu Pārventas privatmajas sektorā, ",
+        "address": "Ventspils",
+        "area": "1200 m²",
+        "price1m2": "6.67 €",
+        "totalPrice": "8,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Lieliska iespēja iegādāties skaistā vietā meža ielokā apbūves gabalu 3ha, pa",
+        "address": "Vārves pag.Vārve",
+        "area": "3 ha.",
+        "price1m2": "0.900 €",
+        "totalPrice": "27,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Staldzene Kolkas iela 8455 kvadrāti, Gabalam pāri iet 0.4kv elektrības līnij",
+        "address": "Ventspils",
+        "area": "8455 m²",
+        "price1m2": "3.08 €",
+        "totalPrice": "26,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdodam zemes gabalu privātmājas būvēšanai Ventspilī, Ozolu ielā 40.\n\nZemes",
+        "address": "Ventspils",
+        "area": "1009 m²",
+        "price1m2": "6.84 €",
+        "totalPrice": "6,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Tiek pārdots privatizēts zemes gabals privātmājas būvēšanai netālu no jūras.",
+        "address": "Ventspils",
+        "area": "1810 m²",
+        "price1m2": "5.80 €",
+        "totalPrice": "10,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdod zemi privātmājas (vasarnīcas) būvniecībai ir piebraucamais ceļš. zeme",
+        "address": "Tārgales pag.Miķeļtornis",
+        "area": "0.68 ha.",
+        "price1m2": "6.18 €",
+        "totalPrice": "42,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Zemesgabals apbūvei lieliskā vietā – Baltijas jūras piekrastē un Irbes upes ",
+        "address": "Tārgales pag.Lielirbe",
+        "area": "4 ha.",
+        "price1m2": "1.05 €",
+        "totalPrice": "42,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdod zemi privātmājas (vasarnīcas) būvniecībai ir piebraucamais ceļš. zeme",
+        "address": "Tārgales pag.Miķeļtornis",
+        "area": "1.60 ha.",
+        "price1m2": "2.81 €",
+        "totalPrice": "45,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Mazstāvu dzīvojamās apbūves teritorija, elektrības sadalnes skapis\n\n\n\nТеррит",
+        "address": "Ventspils",
+        "area": "1396 m²",
+        "price1m2": "18.41 €",
+        "totalPrice": "25,700  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Zemes gabals 1482m2, rajonā Pārventa, Embūtes ielā 20. zemes gabals atrodas ",
+        "address": "Ventspils",
+        "area": "1482 m²",
+        "price1m2": "4.05 €",
+        "totalPrice": "6,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Īpašnieks pārdod skaistu zemes gabalu privātmājas būvniecībai. Pilsētas komu",
+        "address": "Ventspils",
+        "area": "1479 m²",
+        "price1m2": "4.67 €",
+        "totalPrice": "6,900  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pašam sava sala ar uzbrauktuvi. \n\nPie Ventas upes. \n\nIzskatīšu interesantus ",
+        "address": "Piltenes l. t.Ūdrande",
+        "area": "7028 m²",
+        "price1m2": "1 €",
+        "totalPrice": "7,028  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdodu zemes gabals vasarnīcai vai mājas celšanai. \n\nZemes gabals atrodas 5",
+        "address": "Tārgales pag.Dokupe",
+        "area": "2300 m²",
+        "price1m2": "4.26 €",
+        "totalPrice": "9,800  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Zemesgabals saimniecības attīstībai vai brīvdienu mājas būvniecībai, netālu ",
+        "address": "Usmas pag.Amjūdze",
+        "area": "5 ha.",
+        "price1m2": "0.420 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Tiek pārdots zemes gabals privātmājas būvniecībai Ventspilī, Kuldīgas ielā 1",
+        "address": "Ventspils",
+        "area": "1029 m²",
+        "price1m2": "20.41 €",
+        "totalPrice": "21,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Pārdod zemes gabalu Ventspils pilsētas teritorijā, Staldzenē, jūras krastā. ",
+        "address": "Ventspils",
+        "area": "97517 m²",
+        "price1m2": "2 €",
+        "totalPrice": "195,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Īpašnieks pārdod daļēji iekoptu lauksaimniecības zemes īpašumu ar apbūves ie",
+        "address": "Vārves pag.Vārve",
+        "area": "16000 m²",
+        "price1m2": "10 €",
+        "totalPrice": "160,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Ekskluzīvs 3, 11 ha plašs apbūves zemesgabals jūras pusē Ventspils novada Jū",
+        "address": "Jūrkalnes pag.Ošvalki",
+        "area": "3 ha.",
+        "price1m2": "1.82 €",
+        "totalPrice": "54,500  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "AS \"Privatbank\" meitas uzņēmuma īpašums atrodas Ventspilī, Packules ciema ra",
+        "address": "Ventspils",
+        "area": "6543 m²",
+        "price1m2": "1.53 €",
+        "totalPrice": "10,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "AS \"Privatbank\" meitas uzņēmuma īpašums atrodas Ventspilī, Packules ciema ra",
+        "address": "Ventspils",
+        "area": "10635 m²",
+        "price1m2": "1.41 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Sakarā ar aizbraukšanu, pārdodu zemi pārventā, sīkāka informācija zvanot.",
+        "address": "Ventspils",
+        "area": "9159 m²",
+        "price1m2": "1.20 €",
+        "totalPrice": "11,000  €",
+        "dateAdded": "15/04/2022"
+    },
+    {
+        "regio": "ventspils",
+        "descr": "Piedāvājam iegādāties zemesgabalu ar garāžu Rindas ielā 26, Ventspilī. Īpašu",
+        "address": "Ventspils",
+        "area": "600 m²",
+        "price1m2": "25 €",
+        "totalPrice": "15,000  €",
+        "dateAdded": "15/04/2022"
     }
 ]

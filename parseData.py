@@ -3,16 +3,15 @@ import requests
 import json
 from bs4 import BeautifulSoup
 import os
-import lxml
+
 import re
 import time
 import random
-import csv
+
 from geopy.geocoders import Nominatim
-import googlemaps
+
 from datetime import date
 
-import drawOnMap
 
 today = date.today()
 
